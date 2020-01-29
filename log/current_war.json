@@ -10,8 +10,8 @@
         "participants": 5,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 10,
-        "wins": 5
+        "battles_played": 11,
+        "wins": 6
     },
     "participants": [
         {
@@ -35,10 +35,10 @@
         {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
-            "cards_earned": 160,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 0,
+            "cards_earned": 320,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 3
         },
         {

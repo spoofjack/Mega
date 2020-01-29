@@ -1,5 +1,5 @@
 {
-    "last_update": 1580345217.744997,
+    "last_update": 1580345513.225851,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
@@ -22,7 +22,7 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580345217.744997,
+            "last_activity_date": 1580345513.225851,
             "last_donation_date": 0,
             "role": "coLeader",
             "status": "present",
@@ -40,7 +40,7 @@
         "#8G82CVLG": {
             "name": "CamaroBro",
             "join_date": 0,
-            "last_activity_date": 1580345217.744997,
+            "last_activity_date": 1580345513.225851,
             "last_donation_date": 0,
             "role": "elder",
             "status": "present",
@@ -112,11 +112,11 @@
         "#2YVYJUPV": {
             "name": "BOSSOME",
             "join_date": 0,
-            "last_activity_date": 1580345217.744997,
-            "last_donation_date": 0,
+            "last_activity_date": 1580345513.225851,
+            "last_donation_date": 1580345513.225851,
             "role": "elder",
             "status": "present",
-            "donations": 0,
+            "donations": 24,
             "donations_last_week": 0,
             "events": [
                 {
@@ -202,7 +202,7 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1580345217.744997,
+            "last_activity_date": 1580345513.225851,
             "last_donation_date": 0,
             "role": "elder",
             "status": "present",
@@ -256,7 +256,7 @@
         "#L2L98J8CJ": {
             "name": "BrandoComando",
             "join_date": 0,
-            "last_activity_date": 1580345217.744997,
+            "last_activity_date": 1580345513.225851,
             "last_donation_date": 0,
             "role": "member",
             "status": "present",
@@ -394,6 +394,24 @@
                     "type": "new",
                     "role": "member",
                     "date": 0
+                }
+            ]
+        },
+        "#PYJQG098Q": {
+            "name": "viper325",
+            "join_date": 1580345513.225851,
+            "last_activity_date": 1580345513.225851,
+            "last_donation_date": 1580345513.225851,
+            "role": "member",
+            "status": "present",
+            "donations": 0,
+            "donations_last_week": 0,
+            "events": [
+                {
+                    "event": "join",
+                    "type": "new",
+                    "role": "member",
+                    "date": 1580345513.225851
                 }
             ]
         }
