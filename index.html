@@ -1,0 +1,4104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="description" content="Clash Royale Dashboard for clan Mega PP gang #YQQUGLU8. Here we post clan information, member standings, and war data." />
+
+    <meta name="generator" content="crtools 2.12.16 [https://github.com/AaronTraas/Clash-Royale-Clan-Tools]" />
+
+    <title>Mega PP gang Clan Dashboard | crtools</title>
+
+    <link rel="icon" href="favicon.ico"/>
+
+    <link rel="canonical" href="https://spoofjack.github.io/Abuzement-Park-ClanSite/" />
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,300i,700,700i" />
+    <link rel="stylesheet" href="static/crtools.css?version=2.12.16" />
+    <link rel="stylesheet" href="static/hero.css?version=2.12.16" />
+    <link rel="stylesheet" href="static/filters.css?version=2.12.16" />
+    <link rel="stylesheet" href="static/dialog.css?version=2.12.16" />
+
+    <link rel="stylesheet" href="static/fankit.css?version=2.12.16" />
+
+</head>
+<body data-active-dialog="none">
+    <header><div class="inner">
+        <h1>Mega PP gang Clan Dashboard</h1>
+    </div></header>
+    <main>
+        <section id="hero">
+            <div class="section-wrap">
+
+                <div id="clan-description">
+                
+                    <h1>Mega PP gang (#YQQUGLU8)</h1>
+                    <h3>
+                
+                </div>
+                <div id="clan-stats">
+                    <div class="table-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th colspan="2">Clan Stats</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr><th>Clan Score</th><td>27924</td></tr>
+                                <tr><th>Clan Name</th><td>Mega PP gang</td></tr>
+                                <tr>
+                                    <th>Country</th>
+                                
+                                    <td>United States<img class="flag" src="static/images/flags/us.png" /></td>
+                                
+                                </td></tr>
+
+                                <tr><th>Donations/week</th><td>1190</td></tr>
+                                <tr><th>Required Trophies</th><td>0</td></tr>
+                                <tr>
+                                    <th>War Trophies</th>
+                                    <td>
+                                        0
+                                        <img class="war-league" title="Bronze League" src="static/images/war-league-bronze.svg" />
+                                    </td>
+                                </tr>
+                                <tr><th>Clan Tag</th><td>#YQQUGLU8</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p class="last-update">Last update in EST Time: 1/29/2020 2:43:06 PM</p>
+                    
+                    <div class="join-cta">
+                        <h3>Looking for a clan?</h3>
+                        <a class="button join" href="https://link.clashroyale.com/invite/clan/en?tag=#YQQUGLU8"><span>Join us!</span></a>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section id="info">
+            <div class="section-wrap">
+                <div id="war-stats" class="row">
+    <article id="current-war">
+        <header>
+            <h3>Current war</h3>
+        </header>
+
+        <dl>
+            <div><dt>State</dt><dd>Collection Day</dd></div>
+        
+            
+            <div><dt>Collection Day End</dt><dd>21 hours</dd></div>
+            
+            <div><dt>Participants</dt><dd>5</dd></div>
+            
+            <div class="cards"><dt>Cards Earned</dt><dd>915</dd></div>
+            
+        
+        </dl>
+    </article>
+
+    <article id="recent-wars">
+        <header>
+            <h3>Recent wars</h3>
+        </header>
+        <table class="war-standings" width="100%">
+        
+            <tr><td>No wars in war log</td></tr>
+        
+        </table>
+    </article>
+</div>
+
+                <article class="member-info">
+                    <header>
+                        <h3>
+                            <span class="no-mobile">Member list and stats:</span>
+                            <span class="no-desktop">Members:</span>
+                        </h3>
+                        <div class="filters">
+                            <input id="show-hidden-columns" class="toggle-button" type="checkbox" /><label for="show-hidden-columns">Details</label>
+                            <label>
+                                Filter:
+                                <select id="member-filter">
+                                    <option value="none">None</option>
+                                    <option value="leadership">Leadership</option>
+                                    <option value="role-elder">Role: Elder</option>
+                                    <option value="role-member">Role: Member</option>
+                                    <option value="new">New Members</option>
+                                
+                                    <option value="currentwar">In current war</option>
+                                
+                                    <option value="activity">Inactive</option>
+                                    <option value="danger">In danger</option>
+                                </select>
+                            </label>
+                        </div>
+                    </header>
+
+                    <div class="table-scroll">
+    <div id="member-table-sortable" class="table-scroll-inner">
+        <table id="member-table" width="100%" data-filter="none">
+            <thead>
+                <tr>
+                    <th class="rank" data-sort-default>#</th>
+                    <th class="rank previous">Previous</th>
+                    <th class="name">Member</th>
+                    <th class="score">Score</th>
+                    <th class="trophies">Trophies</th>
+                    <th class="donations">Dona&shy;tions</th>
+                    <th class="donations-received">Donations received</th>
+                    <th class="inactivity">Days Inactive</th>
+                    <th class="last-seen">Last Seen</th>
+                    <th class="war-win-rate">War win rate</th>
+                    <th class="war current" data-sort-method="none">Current War</th>
+                
+                </tr>
+            </thead>
+            <class="list">
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-2" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="1">
+                        
+                        <span>
+                        
+                           <strong>1</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="1">
+                        <strong>1</strong>
+                    </td>
+                    <td class="name" data-sort="MonkeyButt" data-role="dialog-show" data-target="member-detail" data-member-tag="#UG0UL8GU">
+                        <strong>MonkeyButt</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-2" data-tooltip="true">
+                        <strong>-2</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-2</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league master-3" data-sort="5641">
+                        <strong>5641</strong>
+                    </td>
+                    <td class="donations ok" data-sort="96" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>96</strong><br />
+                        
+                            <small>10/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>96</dd></div>
+                                <div><dt>Cards received</dt><dd>154</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-2</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="154">
+                        <strong>154</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T172019.000Z" >
+                        2 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>MonkeyButt</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="5" data-activity="good" data-status="ok" data-clanrole="coLeader" data-currentwar="normal incomplete" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="2">
+                        
+                        <span>
+                        
+                           <strong>2</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="2">
+                        <strong>2</strong>
+                    </td>
+                    <td class="name" data-sort="Squirrel" data-role="dialog-show" data-target="member-detail" data-member-tag="#2VYL2GP9R">
+                        <strong>Squirrel</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score ok" data-sort="5" data-tooltip="true">
+                        <strong>5</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>+5</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league master-1" data-sort="5253">
+                        <strong>5253</strong>
+                    </td>
+                    <td class="donations normal" data-sort="168" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>168</strong><br />
+                        
+                            <small>17/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>168</dd></div>
+                                <div><dt>Cards received</dt><dd>166</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>+5</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="166">
+                        <strong>166</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T192952.000Z" >
+                        13 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current normal incomplete" data-tooltip="true">
+                    
+                        <div data-role="war">
+                            <div>
+                            
+                                <img class="war-battle" src="static/images/war-battle-incomplete.svg" />
+                            
+                            </div>
+                            <div class="war-cards">
+                                425
+                            </div>
+                        </div>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Collection day battles</dt><dd>3</dd></div>
+                                <div><dt>Cards earned</dt><dd>425</dd></div>
+                            
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="11" data-activity="good" data-status="ok" data-clanrole="elder" data-currentwar="ok incomplete" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="3">
+                        
+                        <span>
+                        
+                           <strong>3</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="3">
+                        <strong>3</strong>
+                    </td>
+                    <td class="name" data-sort="CamaroBro" data-role="dialog-show" data-target="member-detail" data-member-tag="#8G82CVLG">
+                        <strong>CamaroBro</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score ok" data-sort="11" data-tooltip="true">
+                        <strong>11</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>+11</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league master-1" data-sort="5123">
+                        <strong>5123</strong>
+                    </td>
+                    <td class="donations normal" data-sort="232" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>232</strong><br />
+                        
+                            <small>23/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>232</dd></div>
+                                <div><dt>Cards received</dt><dd>140</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>+11</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="140">
+                        <strong>140</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T193156.000Z" >
+                        11 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current ok incomplete" data-tooltip="true">
+                    
+                        <div data-role="war">
+                            <div>
+                            
+                                <img class="war-battle" src="static/images/war-battle-incomplete.svg" />
+                            
+                            </div>
+                            <div class="war-cards">
+                                170
+                            </div>
+                        </div>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Collection day battles</dt><dd>1</dd></div>
+                                <div><dt>Cards earned</dt><dd>170</dd></div>
+                            
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="leader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="4">
+                        
+                        <span>
+                        
+                           <strong>4</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="4">
+                        <strong>4</strong>
+                    </td>
+                    <td class="name" data-sort="MoneyMann" data-role="dialog-show" data-target="member-detail" data-member-tag="#88PJC2Y0R">
+                        <strong>MoneyMann</strong><br />
+                        <small class="member-role">Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league challenger-3" data-sort="4799">
+                        <strong>4799</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>10</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="10">
+                        <strong>10</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200126T162234.000Z" >
+                        3 Days, 3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>MoneyMann</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="8" data-activity="good" data-status="ok" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="5">
+                        
+                        <span>
+                        
+                           <strong>5</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="5">
+                        <strong>5</strong>
+                    </td>
+                    <td class="name" data-sort="BALLER" data-role="dialog-show" data-target="member-detail" data-member-tag="#9QRL2LPQ">
+                        <strong>BALLER</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score ok" data-sort="8" data-tooltip="true">
+                        <strong>8</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>+8</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league challenger-3" data-sort="4758">
+                        <strong>4758</strong>
+                    </td>
+                    <td class="donations normal" data-sort="204" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>204</strong><br />
+                        
+                            <small>20/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>204</dd></div>
+                                <div><dt>Cards received</dt><dd>80</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>+8</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="80">
+                        <strong>80</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T193013.000Z" >
+                        13 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>BALLER</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="6">
+                        
+                        <span>
+                        
+                           <strong>6</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="6">
+                        <strong>6</strong>
+                    </td>
+                    <td class="name" data-sort="fusion" data-role="dialog-show" data-target="member-detail" data-member-tag="#VLV8U89">
+                        <strong>fusion</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league challenger-1" data-sort="4217">
+                        <strong>4217</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200124T025820.000Z" >
+                        5 Days, 17 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>fusion</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="elder" data-currentwar="ok incomplete" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="7">
+                        
+                        <span>
+                        
+                           <strong>7</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="7">
+                        <strong>7</strong>
+                    </td>
+                    <td class="name" data-sort="BOSSOME" data-role="dialog-show" data-target="member-detail" data-member-tag="#2YVYJUPV">
+                        <strong>BOSSOME</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league challenger-1" data-sort="4033">
+                        <strong>4033</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T193520.000Z" >
+                        8 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current ok incomplete" data-tooltip="true">
+                    
+                        <div data-role="war">
+                            <div>
+                            
+                                <img class="war-battle" src="static/images/war-battle-incomplete.svg" />
+                            
+                            </div>
+                            <div class="war-cards">
+                                80
+                            </div>
+                        </div>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Collection day battles</dt><dd>1</dd></div>
+                                <div><dt>Cards earned</dt><dd>80</dd></div>
+                            
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-4" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="8">
+                        
+                        <span>
+                        
+                           <strong>8</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="8">
+                        <strong>8</strong>
+                    </td>
+                    <td class="name" data-sort="tjz043411" data-role="dialog-show" data-target="member-detail" data-member-tag="#902PYQUV9">
+                        <strong>tjz043411</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-4" data-tooltip="true">
+                        <strong>-4</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-4</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-12" data-sort="3883">
+                        <strong>3883</strong>
+                    </td>
+                    <td class="donations ok" data-sort="78" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>78</strong><br />
+                        
+                            <small>8/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>78</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-4</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T165654.000Z" >
+                        3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>tjz043411</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="9">
+                        
+                        <span class="rank-up">
+                        
+                           <strong>9</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="10">
+                        <strong>10</strong>
+                    </td>
+                    <td class="name" data-sort="bugs33" data-role="dialog-show" data-target="member-detail" data-member-tag="#9YP8Y9U9V">
+                        <strong>bugs33</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-11" data-sort="3515">
+                        <strong>3515</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200127T221002.000Z" >
+                        1 Days, 22 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>bugs33</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-11" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="10">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>10</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="9">
+                        <strong>9</strong>
+                    </td>
+                    <td class="name" data-sort="Gobysmasher" data-role="dialog-show" data-target="member-detail" data-member-tag="#PQRPRYQLP">
+                        <strong>Gobysmasher</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-11" data-tooltip="true">
+                        <strong>-11</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-11" data-sort="3493">
+                        <strong>3493</strong>
+                    </td>
+                    <td class="donations ok" data-sort="10" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>10</strong><br />
+                        
+                            <small>1/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>10</dd></div>
+                                <div><dt>Cards received</dt><dd>20</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="20">
+                        <strong>20</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T193155.000Z" >
+                        11 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>Gobysmasher</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-5" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="11">
+                        
+                        <span class="rank-up">
+                        
+                           <strong>11</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="12">
+                        <strong>12</strong>
+                    </td>
+                    <td class="name" data-sort="bass" data-role="dialog-show" data-target="member-detail" data-member-tag="#Y8VQ22Y0G">
+                        <strong>bass</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-5" data-tooltip="true">
+                        <strong>-5</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-5</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-11" data-sort="3403">
+                        <strong>3403</strong>
+                    </td>
+                    <td class="donations ok" data-sort="72" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>72</strong><br />
+                        
+                            <small>7/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>72</dd></div>
+                                <div><dt>Cards received</dt><dd>240</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-5</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="240">
+                        <strong>240</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T190819.000Z" >
+                        1 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>bass</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="3" data-activity="good" data-status="ok" data-clanrole="elder" data-currentwar="ok incomplete" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="12">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>12</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="11">
+                        <strong>11</strong>
+                    </td>
+                    <td class="name" data-sort="ggfy" data-role="dialog-show" data-target="member-detail" data-member-tag="#9JVPPVLPU">
+                        <strong>ggfy</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score ok" data-sort="3" data-tooltip="true">
+                        <strong>3</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>+3</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-11" data-sort="3337">
+                        <strong>3337</strong>
+                    </td>
+                    <td class="donations normal" data-sort="146" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>146</strong><br />
+                        
+                            <small>15/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>146</dd></div>
+                                <div><dt>Cards received</dt><dd>60</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>+3</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="60">
+                        <strong>60</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T193710.000Z" >
+                        6 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current ok incomplete" data-tooltip="true">
+                    
+                        <div data-role="war">
+                            <div>
+                            
+                                <img class="war-battle" src="static/images/war-battle-incomplete.svg" />
+                            
+                            </div>
+                            <div class="war-cards">
+                                140
+                            </div>
+                        </div>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Collection day battles</dt><dd>2</dd></div>
+                                <div><dt>Cards earned</dt><dd>140</dd></div>
+                            
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-3" data-activity="good" data-status="bad" data-clanrole="coLeader" data-currentwar="na" data-leadership="True" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="13">
+                        
+                        <span>
+                        
+                           <strong>13</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="13">
+                        <strong>13</strong>
+                    </td>
+                    <td class="name" data-sort="IQ_dummbthicc" data-role="dialog-show" data-target="member-detail" data-member-tag="#LYVYPQ9G9">
+                        <strong>IQ_dummbthicc</strong><br />
+                        <small class="member-role">Co-Leader</small>
+                    </td>
+                    <td class="score bad" data-sort="-3" data-tooltip="true">
+                        <strong>-3</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-3</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-9" data-sort="2827">
+                        <strong>2827</strong>
+                    </td>
+                    <td class="donations ok" data-sort="88" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>88</strong><br />
+                        
+                            <small>9/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>88</dd></div>
+                                <div><dt>Cards received</dt><dd>150</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-3</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="150">
+                        <strong>150</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T194245.000Z" >
+                        0 Minutes
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>IQ_dummbthicc</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-11" data-activity="good" data-status="bad" data-clanrole="elder" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="14">
+                        
+                        <span>
+                        
+                           <strong>14</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="14">
+                        <strong>14</strong>
+                    </td>
+                    <td class="name" data-sort="TMS-superme" data-role="dialog-show" data-target="member-detail" data-member-tag="#9UQUCJR0J">
+                        <strong>TMS-superme</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score bad" data-sort="-11" data-tooltip="true">
+                        <strong>-11</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-9" data-sort="2814">
+                        <strong>2814</strong>
+                    </td>
+                    <td class="donations ok" data-sort="10" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>10</strong><br />
+                        
+                            <small>1/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>10</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T165824.000Z" >
+                        3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>TMS-superme</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-11" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="ok incomplete" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="15">
+                        
+                        <span>
+                        
+                           <strong>15</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="15">
+                        <strong>15</strong>
+                    </td>
+                    <td class="name" data-sort="BrandoComando" data-role="dialog-show" data-target="member-detail" data-member-tag="#L2L98J8CJ">
+                        <strong>BrandoComando</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-11" data-tooltip="true">
+                        <strong>-11</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-7" data-sort="2060">
+                        <strong>2060</strong>
+                    </td>
+                    <td class="donations ok" data-sort="10" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>10</strong><br />
+                        
+                            <small>1/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>10</dd></div>
+                                <div><dt>Cards received</dt><dd>80</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="80">
+                        <strong>80</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T191055.000Z" >
+                        1 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current ok incomplete" data-tooltip="true">
+                    
+                        <div data-role="war">
+                            <div>
+                            
+                                <img class="war-battle" src="static/images/war-battle-incomplete.svg" />
+                            
+                            </div>
+                            <div class="war-cards">
+                                100
+                            </div>
+                        </div>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Collection day battles</dt><dd>1</dd></div>
+                                <div><dt>Cards earned</dt><dd>100</dd></div>
+                            
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="16">
+                        
+                        <span>
+                        
+                           <strong>16</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="16">
+                        <strong>16</strong>
+                    </td>
+                    <td class="name" data-sort="Feebear2.0" data-role="dialog-show" data-target="member-detail" data-member-tag="#8G2LCU09G">
+                        <strong>Feebear2.0</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-6" data-sort="1790">
+                        <strong>1790</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200126T174118.000Z" >
+                        3 Days, 2 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>Feebear2.0</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-9" data-activity="good" data-status="bad" data-clanrole="elder" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="17">
+                        
+                        <span>
+                        
+                           <strong>17</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="17">
+                        <strong>17</strong>
+                    </td>
+                    <td class="name" data-sort="Inferior ark" data-role="dialog-show" data-target="member-detail" data-member-tag="#PY0LJRJV0">
+                        <strong>Inferior ark</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score bad" data-sort="-9" data-tooltip="true">
+                        <strong>-9</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-9</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-6" data-sort="1631">
+                        <strong>1631</strong>
+                    </td>
+                    <td class="donations ok" data-sort="28" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>28</strong><br />
+                        
+                            <small>3/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>28</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-9</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T155217.000Z" >
+                        4 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>Inferior ark</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="18">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>18</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="0">
+                        <strong>0</strong>
+                    </td>
+                    <td class="name" data-sort="gucci mcfly" data-role="dialog-show" data-target="member-detail" data-member-tag="#89QR99PRP">
+                        <strong>gucci mcfly</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-6" data-sort="1619">
+                        <strong>1619</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T133948.000Z" >
+                        6 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>gucci mcfly</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="elder" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="19">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>19</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="18">
+                        <strong>18</strong>
+                    </td>
+                    <td class="name" data-sort="SP3C_Luckzy01" data-role="dialog-show" data-target="member-detail" data-member-tag="#PLLU8LRV9">
+                        <strong>SP3C_Luckzy01</strong><br />
+                        <small class="member-role">Elder</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-4" data-sort="1120">
+                        <strong>1120</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200122T162137.000Z" >
+                        7 Days, 3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>SP3C_Luckzy01</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-10" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="20">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>20</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="19">
+                        <strong>19</strong>
+                    </td>
+                    <td class="name" data-sort="mrcorndog" data-role="dialog-show" data-target="member-detail" data-member-tag="#PC2LYL0RJ">
+                        <strong>mrcorndog</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-10" data-tooltip="true">
+                        <strong>-10</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-10</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-4" data-sort="1071">
+                        <strong>1071</strong>
+                    </td>
+                    <td class="donations ok" data-sort="20" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>20</strong><br />
+                        
+                            <small>2/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>20</dd></div>
+                                <div><dt>Cards received</dt><dd>60</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-10</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="60">
+                        <strong>60</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T170403.000Z" >
+                        3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>mrcorndog</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-52" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="21">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>21</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="20">
+                        <strong>20</strong>
+                    </td>
+                    <td class="name" data-sort="yeet" data-role="dialog-show" data-target="member-detail" data-member-tag="#Y20RLJJR0">
+                        <strong>yeet</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-52" data-tooltip="true">
+                        <strong>-52</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-3" data-sort="979">
+                        <strong>979</strong>
+                    </td>
+                    <td class="donations bad" data-sort="0" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>0</strong><br />
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>0</dd></div>
+                                <div><dt>Cards received</dt><dd>10</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-52</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="10">
+                        <strong>10</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T170705.000Z" >
+                        3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>yeet</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+                <tr data-blacklist="false" data-nopromote="false" data-score="-11" data-activity="good" data-status="bad" data-clanrole="member" data-currentwar="na" data-leadership="False" data-vacation="False" data-new="false">
+                    <td class="id rank" data-sort="22">
+                        
+                        <span class="rank-down">
+                        
+                           <strong>22</strong>
+                        </span>
+                    </td>
+                    <td class="rank previous" data-sort="21">
+                        <strong>21</strong>
+                    </td>
+                    <td class="name" data-sort="BigDaddy" data-role="dialog-show" data-target="member-detail" data-member-tag="#LQR9CURCP">
+                        <strong>BigDaddy</strong><br />
+                        <small class="member-role">Member</small>
+                    </td>
+                    <td class="score bad" data-sort="-11" data-tooltip="true">
+                        <strong>-11</strong>
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                                <div><dt>Score from war participation</dt><dd>+0</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="trophies normal arena-league arena-2" data-sort="345">
+                        <strong>345</strong>
+                    </td>
+                    <td class="donations ok" data-sort="10" data-tooltip="true">
+                        <img src="static/images/cards.svg" />
+                        <strong>10</strong><br />
+                        
+                            <small>1/Day</small>
+                        
+                        <div class="tooltip">
+                            <dl>
+                                <div><dt>Cards given</dt><dd>10</dd></div>
+                                <div><dt>Cards received</dt><dd>0</dd></div>
+                                <div><dt>Cards given last week</dt><dd>0</dd></div>
+                                <div><dt>Score from donations</dt><dd>-11</strong></dd></div>
+                            </dl>
+                        </div>
+                    </td>
+                    <td class="donations-received" data-sort="0">
+                        <strong>0</strong><br />
+                    </td>
+                    <td class="inactivity good" data-sort="0" >
+                        <strong>0</strong><br /><small>Days</small>
+                    </td>
+                    <td class="last-seen" data-sort="20200129T171056.000Z" >
+                        3 Hours
+                    </td>
+                    <td class="war-win-rate" data-sort="0" >
+                        0%
+                    </td>
+                    <td class="war current na" data-tooltip="true">
+                    
+                        N/A
+                        <div class="tooltip">
+                            <strong>BigDaddy</strong> was not in this war.
+                            <dl>
+                                <div><dt>War score</dt><dd>N/A</dd></div>
+                            </dl>
+                            <br />
+                            NOTE: current war <strong>does not</strong> affect score.
+                        </div>
+                    
+                    </td>
+                
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+</div>
+<style>
+
+</style>
+
+                    <p>
+                        <a href="#" class="button" data-role="dialog-show" data-target="members-old"><span class="no-mobile">View List of Old Members</span><span class="no-desktop">Old Members</span></a>
+                    </p>
+                </article>
+
+                <div class="row">
+                    <article id="leaderboards" data-filter="war">
+    <header>
+        <h3>Leaderboard:</h3>
+        <div class="filters">
+            <select id="leaderboard-filter">
+                <option value="war">War</option>
+                <option value="war-win-rate">War win rate</option>
+                <option value="donations">Donations</option>
+            </select>
+        </div>
+    </header>
+
+    <div class="leaderboard"  data-filter="war">
+        <table class="war-standings" width="100%">
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>War score</th>
+            </thead>
+            <tbody>
+            
+                <tr>
+                    <td class="rank rank-1"><span>1</span></td>
+                    <td class="name"><strong>MonkeyButt</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-2"><span>2</span></td>
+                    <td class="name"><strong>Squirrel</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-3"><span>3</span></td>
+                    <td class="name"><strong>CamaroBro</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-4"><span>4</span></td>
+                    <td class="name"><strong>MoneyMann</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-5"><span>5</span></td>
+                    <td class="name"><strong>BALLER</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-6"><span>6</span></td>
+                    <td class="name"><strong>fusion</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-7"><span>7</span></td>
+                    <td class="name"><strong>BOSSOME</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-8"><span>8</span></td>
+                    <td class="name"><strong>tjz043411</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-9"><span>9</span></td>
+                    <td class="name"><strong>bugs33</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-10"><span>10</span></td>
+                    <td class="name"><strong>Gobysmasher</strong></td>
+                    <td class="score"><strong>0</strong></td>
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+
+    <div class="leaderboard"  data-filter="war-win-rate">
+        <table class="war-standings" width="100%">
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>War win rate</th>
+            </thead>
+            <tbody>
+            
+            </tbody>
+        </table>
+        <p class="disclaimer">* Must complete at least 3 battles of the last 10</p>
+    </div>
+
+    <div class="leaderboard"  data-filter="donations">
+        <table class="war-standings" width="100%" >
+            <thead>
+                <th>Rank</th>
+                <th>Member</th>
+                <th>Dona&shy;tions</th>
+            </thead>
+            <tbody>
+            
+                <tr>
+                    <td class="rank rank-1"><span>1</span></td>
+                    <td class="name"><strong>CamaroBro</strong></td>
+                    <td class="score"><strong>23</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-2"><span>2</span></td>
+                    <td class="name"><strong>BALLER</strong></td>
+                    <td class="score"><strong>20</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-3"><span>3</span></td>
+                    <td class="name"><strong>Squirrel</strong></td>
+                    <td class="score"><strong>17</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-4"><span>4</span></td>
+                    <td class="name"><strong>ggfy</strong></td>
+                    <td class="score"><strong>15</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-5"><span>5</span></td>
+                    <td class="name"><strong>MonkeyButt</strong></td>
+                    <td class="score"><strong>10</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-6"><span>6</span></td>
+                    <td class="name"><strong>IQ_dummbthicc</strong></td>
+                    <td class="score"><strong>9</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-7"><span>7</span></td>
+                    <td class="name"><strong>tjz043411</strong></td>
+                    <td class="score"><strong>8</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-8"><span>8</span></td>
+                    <td class="name"><strong>bass</strong></td>
+                    <td class="score"><strong>7</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-9"><span>9</span></td>
+                    <td class="name"><strong>Inferior ark</strong></td>
+                    <td class="score"><strong>3</strong> / Day</td>
+                </tr>
+            
+                <tr>
+                    <td class="rank rank-10"><span>10</span></td>
+                    <td class="name"><strong>mrcorndog</strong></td>
+                    <td class="score"><strong>2</strong> / Day</td>
+                </tr>
+            
+            </tbody>
+        </table>
+    </div>
+</article>
+
+                    <article id="suggestions">
+                        <header>
+                            <h3>Suggestions:</h3>
+                        </header>
+                        <div class="column">
+                            <div class="list">
+                                <ul>
+                                
+                                    <li>Demote <strong>SP3C_Luckzy01</strong> <strong class="bad">-52</strong></li>
+                                
+                                    <li>Demote <strong>fusion</strong> <strong class="bad">-52</strong></li>
+                                
+                                    <li>Demote <strong>MoneyMann</strong> <strong class="bad">-52</strong></li>
+                                
+                                    <li>Demote <strong>TMS-superme</strong> <strong class="bad">-11</strong></li>
+                                
+                                    <li>Demote <strong>Gobysmasher</strong> <strong class="bad">-11</strong></li>
+                                
+                                    <li>Demote <strong>Inferior ark</strong> <strong class="bad">-9</strong></li>
+                                
+                                    <li>Demote <strong>bass</strong> <strong class="bad">-5</strong></li>
+                                
+                                    <li>Demote <strong>tjz043411</strong> <strong class="bad">-4</strong></li>
+                                
+                                    <li>Demote <strong>IQ_dummbthicc</strong> <strong class="bad">-3</strong></li>
+                                
+                                    <li>Demote <strong>MonkeyButt</strong> <strong class="bad">-2</strong></li>
+                                
+                                </ul>
+                            </div>
+                            <div class="info">
+                                <p>Members with a <strong class="bad">score below 0</strong> will be recommended for kicking or demotion.</p>
+                                <p>Members inactive for <strong class="bad">21 days</strong> will be kicked.</p>
+                                <p>
+                                    A member who achieves <strong class="good">160 points</strong> is elegible for promotion to <strong>Elder</strong> at the discretion of leadership.
+                                
+                                    Members must be in the clan for a at least <strong>30 days</strong> to be promoted.
+                                
+                                </p>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h3>Score explanation:</h3>
+                        </header>
+                        <p>Score is made of two components: <strong>donation score</strong> and <strong>war participation score</strong>.</p>
+                        <h4>Donation Score:</h4>
+                        <p>You are expected to donate <strong>12 cards per day</strong>, on average. If you make more, you will gain points. If you make fewer, you will lose points. If you have zero, you will be penalized <strong class="bad">-40 points</strong></p>
+
+                        <h4>War Participation Score:</h4>
+                        <table class="rules">
+                            <thead>
+                                <tr>
+                                    <th>For each of the last 10 wars, did member...:</th>
+                                    <th>Yes:</th>
+                                    <th>No:</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            
+                                <tr>
+                                    <td>...participate in the war?</td>
+                                    <td class="yes"><strong class="normal">+0</strong></td>
+                                    <td class="no"><strong class="bad">-1</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...complete each collection battle? (per battle)</td>
+                                    <td class="yes"><strong class="normal">+0</strong></td>
+                                    <td class="no"><strong class="bad">-5</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...win each collection battle? (per battle)</td>
+                                    <td class="yes"><strong class="good">+2</strong></td>
+                                    <td class="no"><strong class="normal">+0</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...complete war day battle?</td>
+                                    <td class="yes"><strong class="good">+15</strong></td>
+                                    <td class="no"><strong class="bad">-30</strong></td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>...win war day battle? (per battle)</td>
+                                    <td class="yes"><strong class="good">+5</strong></td>
+                                    <td class="no"><strong class="normal">+0</strong></td>
+                                </tr>
+                            
+                            </tbody>
+                        </table>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer><div class="inner">
+        <ul>
+            <li><a rel="external" target="_blank" href="https://github.com/AaronTraas/Clash-Royale-Clan-Tools">Github</a></li>
+            <li><a rel="external" target="_blank" href="https://developer.clashroyale.com/">Clash Royale API</a></li>
+        </ul>
+        <a class="version " rel="external" target="_blank" href="https://pypi.org/project/crtools/">crtools 2.12.16</a>
+
+        <p class="disclaimer">
+            This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
+        
+            <a href="https://supercell.com/fan-content-policy">For more information see Supercell's Fan Content Policy.</a>
+        
+        </p>
+    </div></footer>
+
+    <a class="github-fork-ribbon" target="_blank" href="https://github.com/AaronTraas/Clash-Royale-Clan-Tools" title="Fork me on GitHub">Fork me on GitHub</a>
+
+    <div class="dialog-shadow"></div>
+    <dialog id="members-old">
+    <header>
+        <h1>Former Members</h1>
+        <a data-role="close" href="#">Close</a>
+    </header>
+    <div class="inner">
+        <table width="100%">
+            <thead>
+                <th>Name / tag</th>
+                <th>Events</th>
+                <th>Links</th>
+            </thead>
+            <tbody>
+            
+            </tbody>
+        </table>
+    </div>
+</dialog>
+    <dialog id="member-detail">
+    <header>
+        <h1>Member Details</h1>
+        <a data-role="close" href="#">Close</a>
+    </header>
+    <div class="inner">
+    
+        <div data-member-id="#UG0UL8GU">
+            <section class="identity">
+                <h2>
+                    MonkeyButt
+                    <small>#UG0UL8GU</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">12</h3>
+                    <h3 class="trophies">5641</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'master-3', 'trophies': 5600, 'collection_win': {'bronze': 170, 'silver': 340, 'gold': 595, 'legendary': 935}}">
+                    <figcaption>Master III</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 5:20:19 PM
+                            (2 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>96</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>154</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/UG0UL8GU" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#2VYL2GP9R">
+            <section class="identity">
+                <h2>
+                    Squirrel
+                    <small>#2VYL2GP9R</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">11</h3>
+                    <h3 class="trophies">5253</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'master-1', 'trophies': 5000, 'collection_win': {'bronze': 170, 'silver': 340, 'gold': 595, 'legendary': 935}}">
+                    <figcaption>Master I</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:29:52 PM
+                            (13 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>168</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>166</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/2VYL2GP9R" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#8G82CVLG">
+            <section class="identity">
+                <h2>
+                    CamaroBro
+                    <small>#8G82CVLG</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">11</h3>
+                    <h3 class="trophies">5123</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'master-1', 'trophies': 5000, 'collection_win': {'bronze': 170, 'silver': 340, 'gold': 595, 'legendary': 935}}">
+                    <figcaption>Master I</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:31:56 PM
+                            (11 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>232</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>140</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/8G82CVLG" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#88PJC2Y0R">
+            <section class="identity">
+                <h2>
+                    MoneyMann
+                    <small>#88PJC2Y0R</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">9</h3>
+                    <h3 class="trophies">4799</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'challenger-3', 'trophies': 4600, 'collection_win': {'bronze': 160, 'silver': 320, 'gold': 560, 'legendary': 880}}">
+                    <figcaption>Challenger III</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/26/2020 4:22:34 PM
+                            (3 Days, 3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/88PJC2Y0R" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#9QRL2LPQ">
+            <section class="identity">
+                <h2>
+                    BALLER
+                    <small>#9QRL2LPQ</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">10</h3>
+                    <h3 class="trophies">4758</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'challenger-3', 'trophies': 4600, 'collection_win': {'bronze': 160, 'silver': 320, 'gold': 560, 'legendary': 880}}">
+                    <figcaption>Challenger III</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:30:13 PM
+                            (13 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>204</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>80</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/9QRL2LPQ" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#VLV8U89">
+            <section class="identity">
+                <h2>
+                    fusion
+                    <small>#VLV8U89</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">10</h3>
+                    <h3 class="trophies">4217</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'challenger-1', 'trophies': 4000, 'collection_win': {'bronze': 160, 'silver': 320, 'gold': 560, 'legendary': 880}}">
+                    <figcaption>Legendary Arena</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/24/2020 2:58:20 AM
+                            (5 Days, 17 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/VLV8U89" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#2YVYJUPV">
+            <section class="identity">
+                <h2>
+                    BOSSOME
+                    <small>#2YVYJUPV</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">11</h3>
+                    <h3 class="trophies">4033</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'challenger-1', 'trophies': 4000, 'collection_win': {'bronze': 160, 'silver': 320, 'gold': 560, 'legendary': 880}}">
+                    <figcaption>Legendary Arena</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:35:20 PM
+                            (8 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/2YVYJUPV" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#902PYQUV9">
+            <section class="identity">
+                <h2>
+                    tjz043411
+                    <small>#902PYQUV9</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">9</h3>
+                    <h3 class="trophies">3883</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-12', 'trophies': 3600, 'collection_win': {'bronze': 150, 'silver': 300, 'gold': 525, 'legendary': 825}}">
+                    <figcaption>Spooky Town</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 4:56:54 PM
+                            (3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>78</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/902PYQUV9" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#9YP8Y9U9V">
+            <section class="identity">
+                <h2>
+                    bugs33
+                    <small>#9YP8Y9U9V</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">9</h3>
+                    <h3 class="trophies">3515</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-11', 'trophies': 3300, 'collection_win': {'bronze': 140, 'silver': 280, 'gold': 490, 'legendary': 770}}">
+                    <figcaption>Electro Valley</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/27/2020 10:10:02 PM
+                            (1 Days, 22 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/9YP8Y9U9V" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#PQRPRYQLP">
+            <section class="identity">
+                <h2>
+                    Gobysmasher
+                    <small>#PQRPRYQLP</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">8</h3>
+                    <h3 class="trophies">3493</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-11', 'trophies': 3300, 'collection_win': {'bronze': 140, 'silver': 280, 'gold': 490, 'legendary': 770}}">
+                    <figcaption>Electro Valley</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:31:55 PM
+                            (11 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>20</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/PQRPRYQLP" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#Y8VQ22Y0G">
+            <section class="identity">
+                <h2>
+                    bass
+                    <small>#Y8VQ22Y0G</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">7</h3>
+                    <h3 class="trophies">3403</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-11', 'trophies': 3300, 'collection_win': {'bronze': 140, 'silver': 280, 'gold': 490, 'legendary': 770}}">
+                    <figcaption>Electro Valley</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:08:19 PM
+                            (1 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>72</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>240</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/Y8VQ22Y0G" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#9JVPPVLPU">
+            <section class="identity">
+                <h2>
+                    ggfy
+                    <small>#9JVPPVLPU</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">9</h3>
+                    <h3 class="trophies">3337</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-11', 'trophies': 3300, 'collection_win': {'bronze': 140, 'silver': 280, 'gold': 490, 'legendary': 770}}">
+                    <figcaption>Electro Valley</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:37:10 PM
+                            (6 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>146</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>60</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/9JVPPVLPU" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#LYVYPQ9G9">
+            <section class="identity">
+                <h2>
+                    IQ_dummbthicc
+                    <small>#LYVYPQ9G9</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">7</h3>
+                    <h3 class="trophies">2827</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-9', 'trophies': 2600, 'collection_win': {'bronze': 120, 'silver': 240, 'gold': 420, 'legendary': 660}}">
+                    <figcaption>Jungle Arena</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Co-Leader</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:42:45 PM
+                            (0 Minutes)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>88</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>150</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/LYVYPQ9G9" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#9UQUCJR0J">
+            <section class="identity">
+                <h2>
+                    TMS-superme
+                    <small>#9UQUCJR0J</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">8</h3>
+                    <h3 class="trophies">2814</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-9', 'trophies': 2600, 'collection_win': {'bronze': 120, 'silver': 240, 'gold': 420, 'legendary': 660}}">
+                    <figcaption>Jungle Arena</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 4:58:24 PM
+                            (3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/9UQUCJR0J" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#L2L98J8CJ">
+            <section class="identity">
+                <h2>
+                    BrandoComando
+                    <small>#L2L98J8CJ</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">8</h3>
+                    <h3 class="trophies">2060</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-7', 'trophies': 2000, 'collection_win': {'bronze': 100, 'silver': 200, 'gold': 350, 'legendary': 550}}">
+                    <figcaption>Royal Arena</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 7:10:55 PM
+                            (1 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>80</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/L2L98J8CJ" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#8G2LCU09G">
+            <section class="identity">
+                <h2>
+                    Feebear2.0
+                    <small>#8G2LCU09G</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">7</h3>
+                    <h3 class="trophies">1790</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-6', 'trophies': 1600, 'collection_win': {'bronze': 90, 'silver': 180, 'gold': 315, 'legendary': 495}}">
+                    <figcaption>Builder's Workshop</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/26/2020 5:41:18 PM
+                            (3 Days, 2 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/8G2LCU09G" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#PY0LJRJV0">
+            <section class="identity">
+                <h2>
+                    Inferior ark
+                    <small>#PY0LJRJV0</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">7</h3>
+                    <h3 class="trophies">1631</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-6', 'trophies': 1600, 'collection_win': {'bronze': 90, 'silver': 180, 'gold': 315, 'legendary': 495}}">
+                    <figcaption>Builder's Workshop</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 3:52:17 PM
+                            (4 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>28</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/PY0LJRJV0" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#89QR99PRP">
+            <section class="identity">
+                <h2>
+                    gucci mcfly
+                    <small>#89QR99PRP</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">7</h3>
+                    <h3 class="trophies">1619</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-6', 'trophies': 1600, 'collection_win': {'bronze': 90, 'silver': 180, 'gold': 315, 'legendary': 495}}">
+                    <figcaption>Builder's Workshop</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 1:39:48 PM
+                            (6 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/89QR99PRP" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#PLLU8LRV9">
+            <section class="identity">
+                <h2>
+                    SP3C_Luckzy01
+                    <small>#PLLU8LRV9</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">6</h3>
+                    <h3 class="trophies">1120</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-4', 'trophies': 1000, 'collection_win': {'bronze': 70, 'silver': 140, 'gold': 245, 'legendary': 385}}">
+                    <figcaption>P.E.K.K.A's Playhouse</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Elder</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/22/2020 4:21:37 PM
+                            (7 Days, 3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/PLLU8LRV9" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#PC2LYL0RJ">
+            <section class="identity">
+                <h2>
+                    mrcorndog
+                    <small>#PC2LYL0RJ</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">6</h3>
+                    <h3 class="trophies">1071</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-4', 'trophies': 1000, 'collection_win': {'bronze': 70, 'silver': 140, 'gold': 245, 'legendary': 385}}">
+                    <figcaption>P.E.K.K.A's Playhouse</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 5:04:03 PM
+                            (3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>20</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>60</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/PC2LYL0RJ" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#Y20RLJJR0">
+            <section class="identity">
+                <h2>
+                    yeet
+                    <small>#Y20RLJJR0</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">6</h3>
+                    <h3 class="trophies">979</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-3', 'trophies': 600, 'collection_win': {'bronze': 60, 'silver': 120, 'gold': 210, 'legendary': 330}}">
+                    <figcaption>Barbarian Bowl</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 5:07:05 PM
+                            (3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/Y20RLJJR0" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+        <div data-member-id="#LQR9CURCP">
+            <section class="identity">
+                <h2>
+                    BigDaddy
+                    <small>#LQR9CURCP</small>
+                </h2>
+                <div>
+                    <h3 class="xp-level">4</h3>
+                    <h3 class="trophies">345</h3>
+                </div>
+
+                <figure class="arena-league {'id': 'arena-2', 'trophies': 300, 'collection_win': {'bronze': 50, 'silver': 100, 'gold': 175, 'legendary': 275}}">
+                    <figcaption>Bone Pit</figcaption>
+                </figure>
+
+            </section>
+            <h3><span>Player Stats and Info</span></h3>
+            <section class="flex normal">
+                <div class="attribute-list">
+                    <dl>
+                        <dt>Clan Role</dt>
+                        <dd>Member</dd>
+                    </dl>
+                    <dl>
+                        <dt>Join Date</dt>
+                        <dd>Before recorded history</dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Active</dt>
+                        <dd>
+                            1/29/2020<br />
+                            
+                                (Today)
+                            
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Last Seen</dt>
+                        <dd>
+                            1/29/2020 5:10:56 PM
+                            (3 Hours)
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Dona&shy;tions</dt>
+                        <dd>10</dd>
+                    </dl>
+                    <dl>
+                        <dt>Donations received</dt>
+                        <dd>0</dd>
+                    </dl>
+                    <dl>
+                        <dt>War win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection win rate</dt>
+                        <dd>
+                            <strong>0%</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Collection cards won</dt>
+                        <dd>
+                            <strong>0 cards/war</strong><br>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>War score average</dt>
+                        <dd>
+                            <strong>0 points</strong><br>
+                        </dd>
+                    </dl>
+                </div>
+                <div>
+                    <a href="https://royaleapi.com/player/LQR9CURCP" rel="external" target="_blank" class="button royaleapi"><span>See on RoyaleAPI</span></a>
+                </div>
+            </section>
+            <h3><span>Player History</span></h3>
+            <section>
+                <ul>
+                
+                </ul>
+            </section>
+            
+            
+        </div>
+    
+    </div>
+</dialog>
+
+    <script>
+        (function() {
+            var startTimestamp = new Date();
+            var HALF_HOUR = 30 * 60 * 1000;
+            var refreshInterval = null;
+            var script_load_semaphor = 0;
+
+            function refreshAfterHalfHour() {
+                if((new Date()) - startTimestamp > HALF_HOUR) {
+                    clearInterval(refreshInterval)
+                    location.reload(true);
+                }
+            }
+
+            function assetsDoneLoading() {
+                if( script_load_semaphor > 1 ) {
+                    --script_load_semaphor;
+                    return;
+                }
+
+                var memberTable = document.getElementById('member-table');
+
+                var tooltip = new TooltipManager();
+                var memberFilter = new MemberTableFilter();
+                var leaderboardFilter = new LeaderboardFilter();
+                var dialogHandler = new DialogHandler();
+
+                new Tablesort(memberTable);
+
+                refreshInterval = setInterval(refreshAfterHalfHour, 3000)
+            }
+
+            function loadScript(script_url) {
+                ++script_load_semaphor;
+                var element = document.createElement( 'script' );
+                element.setAttribute( 'src', script_url + '?version=2.12.16' );
+                element.onload = assetsDoneLoading;
+
+                document.body.appendChild( element );
+            }
+
+            // delay startup of app until first render if possible.
+            window.requestAnimationFrame( function() {
+                loadScript('static/tablesort-with-number.min.js');
+                loadScript('static/crtools.js');
+            });
+        })();
+    </script>
+</body>
+</html>
