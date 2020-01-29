@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 27924,
+    "clan_score": 27928,
     "required_trophies": 0,
-    "donations_per_week": 1190,
+    "donations_per_week": 1196,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,7 +41,7 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 5253,
+            "trophies": 5283,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 168,
-            "donations_received": 166,
+            "donations_received": 172,
             "clan_chest_points": 0
         },
         {
@@ -177,7 +177,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 8,
-            "trophies": 3493,
+            "trophies": 3470,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
@@ -234,10 +234,10 @@
                 "name": "Arena 9"
             },
             "role": "coLeader",
-            "last_seen": "20200129T194245.000Z",
+            "last_seen": "20200129T194452.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 13,
-            "donations": 88,
+            "donations": 94,
             "donations_received": 150,
             "clan_chest_points": 0
         },
