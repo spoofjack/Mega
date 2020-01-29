@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 28326,
     "required_trophies": 0,
-    "donations_per_week": 1248,
+    "donations_per_week": 1270,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 168,
-            "donations_received": 188,
+            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200129T201231.000Z",
+            "last_seen": "20200129T215831.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 72,
-            "donations_received": 250,
+            "donations_received": 270,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Arena 9"
             },
             "role": "elder",
-            "last_seen": "20200129T165824.000Z",
+            "last_seen": "20200129T214814.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
-            "donations": 10,
+            "donations": 20,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -336,10 +336,10 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200129T133948.000Z",
+            "last_seen": "20200129T215019.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 0,
-            "donations": 0,
+            "donations": 12,
             "donations_received": 0,
             "clan_chest_points": 0
         },
