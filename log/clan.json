@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28062,
+    "clan_score": 28063,
     "required_trophies": 0,
-    "donations_per_week": 1270,
+    "donations_per_week": 1280,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 72,
-            "donations_received": 270,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -217,10 +217,10 @@
                 "name": "Arena 11"
             },
             "role": "elder",
-            "last_seen": "20200129T220552.000Z",
+            "last_seen": "20200129T223216.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
-            "donations": 146,
+            "donations": 156,
             "donations_received": 60,
             "clan_chest_points": 0
         },
@@ -364,13 +364,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 979,
+            "trophies": 986,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200129T170705.000Z",
+            "last_seen": "20200129T223515.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 0,
