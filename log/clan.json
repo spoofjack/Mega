@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28329,
+    "clan_score": 28318,
     "required_trophies": 0,
     "donations_per_week": 1220,
     "clan_war_trophies": 0,
@@ -58,13 +58,13 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 11,
-            "trophies": 5123,
+            "trophies": 5100,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200129T193156.000Z",
+            "last_seen": "20200129T200050.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 232,
@@ -200,7 +200,7 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200129T190819.000Z",
+            "last_seen": "20200129T201231.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 72,
