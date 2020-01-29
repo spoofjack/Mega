@@ -1,0 +1,25 @@
+{
+    "tag": "#YQQUGLU8",
+    "name": "Mega PP gang",
+    "badge_id": 16000107,
+    "type": "open",
+    "clan_score": 27924,
+    "required_trophies": 0,
+    "donations_per_week": 1190,
+    "clan_war_trophies": 0,
+    "clan_chest_level": 1,
+    "clan_chest_max_level": 0,
+    "members": 22,
+    "location": {
+        "id": 57000249,
+        "name": "United States",
+        "is_country": true,
+        "country_code": "US"
+    },
+    "description": "",
+    "clan_chest_status": "inactive",
+    "clan_chest_points": null,
+    "war_league": "bronze",
+    "war_league_name": "Bronze League",
+    "current_war_state": "collectionDay"
+}

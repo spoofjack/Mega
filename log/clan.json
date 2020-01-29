@@ -1,0 +1,398 @@
+{
+    "tag": "#YQQUGLU8",
+    "name": "Mega PP gang",
+    "badge_id": 16000107,
+    "type": "open",
+    "clan_score": 27924,
+    "required_trophies": 0,
+    "donations_per_week": 1190,
+    "clan_war_trophies": 0,
+    "clan_chest_level": 1,
+    "clan_chest_max_level": 0,
+    "members": 22,
+    "location": {
+        "id": 57000249,
+        "name": "United States",
+        "is_country": true,
+        "country_code": "US"
+    },
+    "description": "",
+    "clan_chest_status": "inactive",
+    "clan_chest_points": null,
+    "member_list": [
+        {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "exp_level": 12,
+            "trophies": 5641,
+            "arena": {
+                "id": 54000017,
+                "name": "Master III"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T172019.000Z",
+            "clan_rank": 1,
+            "previous_clan_rank": 1,
+            "donations": 96,
+            "donations_received": 154,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2VYL2GP9R",
+            "name": "Squirrel",
+            "exp_level": 11,
+            "trophies": 5253,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T192952.000Z",
+            "clan_rank": 2,
+            "previous_clan_rank": 2,
+            "donations": 168,
+            "donations_received": 166,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8G82CVLG",
+            "name": "CamaroBro",
+            "exp_level": 11,
+            "trophies": 5123,
+            "arena": {
+                "id": 54000015,
+                "name": "Master I"
+            },
+            "role": "elder",
+            "last_seen": "20200129T193156.000Z",
+            "clan_rank": 3,
+            "previous_clan_rank": 3,
+            "donations": 232,
+            "donations_received": 140,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#88PJC2Y0R",
+            "name": "MoneyMann",
+            "exp_level": 9,
+            "trophies": 4799,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "leader",
+            "last_seen": "20200126T162234.000Z",
+            "clan_rank": 4,
+            "previous_clan_rank": 4,
+            "donations": 0,
+            "donations_received": 10,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "exp_level": 10,
+            "trophies": 4758,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200129T193013.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 5,
+            "donations": 204,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#VLV8U89",
+            "name": "fusion",
+            "exp_level": 10,
+            "trophies": 4217,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "coLeader",
+            "last_seen": "20200124T025820.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 6,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4033,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "elder",
+            "last_seen": "20200129T193520.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 7,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#902PYQUV9",
+            "name": "tjz043411",
+            "exp_level": 9,
+            "trophies": 3883,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T165654.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 8,
+            "donations": 78,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "exp_level": 9,
+            "trophies": 3515,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "member",
+            "last_seen": "20200127T221002.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 10,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "exp_level": 8,
+            "trophies": 3493,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T193155.000Z",
+            "clan_rank": 10,
+            "previous_clan_rank": 9,
+            "donations": 10,
+            "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "exp_level": 7,
+            "trophies": 3403,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T190819.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 12,
+            "donations": 72,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9JVPPVLPU",
+            "name": "ggfy",
+            "exp_level": 9,
+            "trophies": 3337,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "elder",
+            "last_seen": "20200129T193710.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 11,
+            "donations": 146,
+            "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LYVYPQ9G9",
+            "name": "IQ_dummbthicc",
+            "exp_level": 7,
+            "trophies": 2827,
+            "arena": {
+                "id": 54000010,
+                "name": "Arena 9"
+            },
+            "role": "coLeader",
+            "last_seen": "20200129T194245.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 13,
+            "donations": 88,
+            "donations_received": 150,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9UQUCJR0J",
+            "name": "TMS-superme",
+            "exp_level": 8,
+            "trophies": 2814,
+            "arena": {
+                "id": 54000010,
+                "name": "Arena 9"
+            },
+            "role": "elder",
+            "last_seen": "20200129T165824.000Z",
+            "clan_rank": 14,
+            "previous_clan_rank": 14,
+            "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "exp_level": 8,
+            "trophies": 2060,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "member",
+            "last_seen": "20200129T191055.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 15,
+            "donations": 10,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8G2LCU09G",
+            "name": "Feebear2.0",
+            "exp_level": 7,
+            "trophies": 1790,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200126T174118.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 16,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 7,
+            "trophies": 1631,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "elder",
+            "last_seen": "20200129T155217.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 17,
+            "donations": 28,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#89QR99PRP",
+            "name": "gucci mcfly",
+            "exp_level": 7,
+            "trophies": 1619,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200129T133948.000Z",
+            "clan_rank": 18,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PLLU8LRV9",
+            "name": "SP3C_Luckzy01",
+            "exp_level": 6,
+            "trophies": 1120,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "elder",
+            "last_seen": "20200122T162137.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 18,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PC2LYL0RJ",
+            "name": "mrcorndog",
+            "exp_level": 6,
+            "trophies": 1071,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "member",
+            "last_seen": "20200129T170403.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 19,
+            "donations": 20,
+            "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y20RLJJR0",
+            "name": "yeet",
+            "exp_level": 6,
+            "trophies": 979,
+            "arena": {
+                "id": 54000003,
+                "name": "Arena 3"
+            },
+            "role": "member",
+            "last_seen": "20200129T170705.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 20,
+            "donations": 0,
+            "donations_received": 10,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 4,
+            "trophies": 345,
+            "arena": {
+                "id": 54000002,
+                "name": "Arena 2"
+            },
+            "role": "member",
+            "last_seen": "20200129T171056.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 21,
+            "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        }
+    ]
+}
