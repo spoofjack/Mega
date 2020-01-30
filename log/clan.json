@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28821,
+    "clan_score": 28812,
     "required_trophies": 0,
-    "donations_per_week": 1338,
+    "donations_per_week": 1356,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 106,
-            "donations_received": 168,
+            "donations_received": 176,
             "clan_chest_points": 0
         },
         {
@@ -64,10 +64,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200130T024833.000Z",
+            "last_seen": "20200130T115638.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 242,
+            "donations": 260,
             "donations_received": 180,
             "clan_chest_points": 0
         },
@@ -92,13 +92,13 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4769,
+            "trophies": 4748,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200130T112150.000Z",
+            "last_seen": "20200130T115652.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 222,
@@ -200,11 +200,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T022908.000Z",
+            "last_seen": "20200130T115247.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 72,
-            "donations_received": 280,
+            "donations_received": 290,
             "clan_chest_points": 0
         },
         {
@@ -381,7 +381,7 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 965,
+            "trophies": 972,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
