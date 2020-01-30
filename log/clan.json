@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28812,
+    "clan_score": 28851,
     "required_trophies": 0,
-    "donations_per_week": 1356,
+    "donations_per_week": 1458,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 106,
-            "donations_received": 176,
+            "donations_received": 184,
             "clan_chest_points": 0
         },
         {
@@ -58,7 +58,7 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 11,
-            "trophies": 5085,
+            "trophies": 5114,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -67,8 +67,8 @@
             "last_seen": "20200130T115638.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 260,
-            "donations_received": 180,
+            "donations": 278,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -92,7 +92,7 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4748,
+            "trophies": 4797,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -101,8 +101,8 @@
             "last_seen": "20200130T115652.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 222,
-            "donations_received": 80,
+            "donations": 252,
+            "donations_received": 104,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T115247.000Z",
+            "last_seen": "20200130T120208.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
-            "donations": 72,
-            "donations_received": 290,
+            "donations": 90,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -217,11 +217,11 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200130T025838.000Z",
+            "last_seen": "20200130T120459.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
+            "donations": 36,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
