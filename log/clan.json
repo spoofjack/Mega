@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 28874,
     "required_trophies": 0,
-    "donations_per_week": 1662,
+    "donations_per_week": 1722,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 138,
-            "donations_received": 208,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 186,
-            "donations_received": 210,
+            "donations_received": 230,
             "clan_chest_points": 0
         },
         {
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 314,
-            "donations_received": 230,
+            "donations_received": 250,
             "clan_chest_points": 0
         },
         {
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 262,
-            "donations_received": 144,
+            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
@@ -166,10 +166,10 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T191159.000Z",
+            "last_seen": "20200130T202505.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 0,
-            "donations": 56,
+            "donations": 92,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -387,10 +387,10 @@
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200130T122339.000Z",
+            "last_seen": "20200130T202024.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 20,
-            "donations": 44,
+            "donations": 48,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -404,10 +404,10 @@
                 "name": "Arena 2"
             },
             "role": "member",
-            "last_seen": "20200130T171108.000Z",
+            "last_seen": "20200130T202845.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 22,
-            "donations": 10,
+            "donations": 30,
             "donations_received": 0,
             "clan_chest_points": 0
         }
