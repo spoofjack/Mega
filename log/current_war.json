@@ -1,82 +1,8 @@
 {
-    "state": "collectionDay",
+    "state": "notInWar",
     "war_end_time": null,
-    "collection_end_time": "20200130T170955.979Z",
-    "clan": {
-        "tag": "#YQQUGLU8",
-        "name": "Mega PP gang",
-        "badge_id": 16000107,
-        "clan_score": 0,
-        "participants": 7,
-        "crowns": 0,
-        "battles_remaining": null,
-        "battles_played": 20,
-        "wins": 12
-    },
-    "participants": [
-        {
-            "tag": "#8G82CVLG",
-            "name": "CamaroBro",
-            "cards_earned": 510,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 3,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#2VYL2GP9R",
-            "name": "Squirrel",
-            "cards_earned": 425,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 340,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 320,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 210,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 300,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 3,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#9JVPPVLPU",
-            "name": "ggfy",
-            "cards_earned": 280,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        }
-    ],
+    "collection_end_time": null,
+    "clan": null,
+    "participants": null,
     "clans": null
 }
