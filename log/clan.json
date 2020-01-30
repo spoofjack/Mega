@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28898,
+    "clan_score": 28913,
     "required_trophies": 0,
     "donations_per_week": 1560,
     "clan_war_trophies": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 10,
+            "trophies": 3515,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200130T181303.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 0,
+            "donations": 56,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "exp_level": 9,
@@ -167,27 +184,10 @@
             },
             "role": "member",
             "last_seen": "20200130T173428.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 10,
-            "trophies": 3484,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "coLeader",
-            "last_seen": "20200130T172113.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 0,
-            "donations": 56,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
