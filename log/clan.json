@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 29090,
     "required_trophies": 0,
-    "donations_per_week": 1748,
+    "donations_per_week": 1754,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 138,
-            "donations_received": 228,
+            "donations_received": 234,
             "clan_chest_points": 0
         },
         {
@@ -285,10 +285,10 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200129T195751.000Z",
+            "last_seen": "20200130T214318.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
-            "donations": 0,
+            "donations": 6,
             "donations_received": 0,
             "clan_chest_points": 0
         },
