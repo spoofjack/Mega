@@ -7,20 +7,29 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 0,
-        "participants": 3,
+        "participants": 5,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 5
+        "battles_played": 13,
+        "wins": 9
     },
     "participants": [
         {
+            "tag": "#8G82CVLG",
+            "name": "CamaroBro",
+            "cards_earned": 425,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
-            "cards_earned": 320,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 2,
+            "cards_earned": 480,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
@@ -33,11 +42,20 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 170,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 320,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         }
