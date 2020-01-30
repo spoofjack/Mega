@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28070,
+    "clan_score": 28064,
     "required_trophies": 0,
-    "donations_per_week": 1280,
+    "donations_per_week": 1300,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200129T232322.000Z",
+            "last_seen": "20200130T021442.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 96,
+            "donations": 106,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -234,27 +234,27 @@
                 "name": "Arena 9"
             },
             "role": "coLeader",
-            "last_seen": "20200130T015305.000Z",
+            "last_seen": "20200130T020735.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 13,
             "donations": 94,
-            "donations_received": 150,
+            "donations_received": 170,
             "clan_chest_points": 0
         },
         {
             "tag": "#9UQUCJR0J",
             "name": "TMS-superme",
             "exp_level": 8,
-            "trophies": 2819,
+            "trophies": 2795,
             "arena": {
                 "id": 54000010,
                 "name": "Arena 9"
             },
             "role": "elder",
-            "last_seen": "20200129T220111.000Z",
+            "last_seen": "20200130T020851.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
-            "donations": 20,
+            "donations": 30,
             "donations_received": 0,
             "clan_chest_points": 0
         },
