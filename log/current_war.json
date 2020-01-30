@@ -1,8 +1,28 @@
 {
-    "state": "notInWar",
+    "state": "collectionDay",
     "war_end_time": null,
-    "collection_end_time": null,
-    "clan": null,
-    "participants": null,
+    "collection_end_time": "20200131T171518.974Z",
+    "clan": {
+        "tag": "#YQQUGLU8",
+        "name": "Mega PP gang",
+        "badge_id": 16000107,
+        "clan_score": 0,
+        "participants": 1,
+        "crowns": 0,
+        "battles_remaining": null,
+        "battles_played": 2,
+        "wins": 1
+    },
+    "participants": [
+        {
+            "tag": "#2VYL2GP9R",
+            "name": "Squirrel",
+            "cards_earned": 255,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
