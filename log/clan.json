@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 28072,
+    "clan_score": 28088,
     "required_trophies": 0,
     "donations_per_week": 1300,
     "clan_war_trophies": 0,
@@ -225,6 +225,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9UQUCJR0J",
+            "name": "fets luck",
+            "exp_level": 8,
+            "trophies": 2889,
+            "arena": {
+                "id": 54000010,
+                "name": "Arena 9"
+            },
+            "role": "elder",
+            "last_seen": "20200130T022904.000Z",
+            "clan_rank": 13,
+            "previous_clan_rank": 14,
+            "donations": 30,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LYVYPQ9G9",
             "name": "IQ_dummbthicc",
             "exp_level": 7,
@@ -234,28 +251,11 @@
                 "name": "Arena 9"
             },
             "role": "coLeader",
-            "last_seen": "20200130T020735.000Z",
-            "clan_rank": 13,
+            "last_seen": "20200130T024127.000Z",
+            "clan_rank": 14,
             "previous_clan_rank": 13,
             "donations": 94,
             "donations_received": 170,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9UQUCJR0J",
-            "name": "fets luck",
-            "exp_level": 8,
-            "trophies": 2825,
-            "arena": {
-                "id": 54000010,
-                "name": "Arena 9"
-            },
-            "role": "elder",
-            "last_seen": "20200130T022904.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 30,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
