@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 28920,
     "required_trophies": 0,
-    "donations_per_week": 1560,
+    "donations_per_week": 1626,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,11 +47,11 @@
                 "name": "Master II"
             },
             "role": "coLeader",
-            "last_seen": "20200130T171511.000Z",
+            "last_seen": "20200130T194058.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 168,
-            "donations_received": 190,
+            "donations": 186,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -64,10 +64,10 @@
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200130T115638.000Z",
+            "last_seen": "20200130T193915.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 278,
+            "donations": 306,
             "donations_received": 220,
             "clan_chest_points": 0
         },
@@ -98,11 +98,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200130T165618.000Z",
+            "last_seen": "20200130T194253.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 252,
-            "donations_received": 120,
+            "donations": 262,
+            "donations_received": 136,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200129T193520.000Z",
+            "last_seen": "20200130T193022.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
-            "donations": 24,
+            "donations": 34,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 0,
             "donations": 56,
-            "donations_received": 40,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
