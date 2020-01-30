@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 28889,
     "required_trophies": 0,
-    "donations_per_week": 1556,
+    "donations_per_week": 1560,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200130T102756.000Z",
+            "last_seen": "20200130T151952.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 106,
+            "donations": 110,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 252,
-            "donations_received": 116,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -199,7 +199,7 @@
                 "id": 54000024,
                 "name": "Arena 11"
             },
-            "role": "member",
+            "role": "coLeader",
             "last_seen": "20200130T121554.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 0,
