@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29090,
+    "clan_score": 29097,
     "required_trophies": 0,
     "donations_per_week": 1754,
     "clan_war_trophies": 0,
@@ -200,7 +200,7 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T135947.000Z",
+            "last_seen": "20200130T215908.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 90,
@@ -276,6 +276,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "exp_level": 8,
+            "trophies": 2117,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "member",
+            "last_seen": "20200130T214838.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 16,
+            "donations": 10,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "exp_level": 8,
@@ -286,27 +303,10 @@
             },
             "role": "member",
             "last_seen": "20200130T214318.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 6,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "exp_level": 8,
-            "trophies": 2089,
-            "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
-            },
-            "role": "member",
-            "last_seen": "20200130T121938.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 16,
-            "donations": 10,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
