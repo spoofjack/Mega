@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 30005,
+    "clan_score": 30016,
     "required_trophies": 0,
-    "donations_per_week": 1920,
+    "donations_per_week": 1928,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 32,
+    "members": 33,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -24,16 +24,16 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 5641,
+            "trophies": 5644,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200130T195337.000Z",
+            "last_seen": "20200131T130435.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 138,
+            "donations": 146,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -228,7 +228,7 @@
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
-            "trophies": 3367,
+            "trophies": 3401,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
@@ -476,7 +476,7 @@
             "clan_rank": 27,
             "previous_clan_rank": 23,
             "donations": 40,
-            "donations_received": 0,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
@@ -559,6 +559,23 @@
             "role": "member",
             "last_seen": "20200131T123028.000Z",
             "clan_rank": 32,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YQYQGUR8C",
+            "name": "TWK_viles",
+            "exp_level": 1,
+            "trophies": 0,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T130109.000Z",
+            "clan_rank": 33,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
