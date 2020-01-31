@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 31528,
-    "required_trophies": 0,
-    "donations_per_week": 2008,
+    "clan_score": 31092,
+    "required_trophies": 1000,
+    "donations_per_week": 2050,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 47,
+    "members": 32,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200131T131846.000Z",
+            "last_seen": "20200131T152820.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 166,
+            "donations": 176,
             "donations_received": 260,
             "clan_chest_points": 0
         },
@@ -63,7 +63,7 @@
                 "id": 54000015,
                 "name": "Master I"
             },
-            "role": "elder",
+            "role": "coLeader",
             "last_seen": "20200131T120730.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
@@ -132,10 +132,10 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200131T132523.000Z",
+            "last_seen": "20200131T152946.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
-            "donations": 131,
+            "donations": 151,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 0,
             "donations": 16,
-            "donations_received": 0,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -194,7 +194,7 @@
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "exp_level": 9,
-            "trophies": 3489,
+            "trophies": 3517,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
@@ -203,7 +203,7 @@
             "last_seen": "20200131T150810.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 10,
-            "donations": 0,
+            "donations": 12,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -480,23 +480,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#LV0LLQR89",
-            "name": "andy",
-            "exp_level": 5,
-            "trophies": 853,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T143926.000Z",
-            "clan_rank": 28,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 10,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LV092U2C0",
             "name": "gg",
             "exp_level": 6,
@@ -507,7 +490,7 @@
             },
             "role": "member",
             "last_seen": "20200131T142106.000Z",
-            "clan_rank": 29,
+            "clan_rank": 28,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -524,58 +507,7 @@
             },
             "role": "member",
             "last_seen": "20200131T145011.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YQP2GJLQ8",
-            "name": "Tunky",
-            "exp_level": 4,
-            "trophies": 788,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T145946.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 4,
-            "trophies": 759,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T133506.000Z",
-            "clan_rank": 32,
-            "previous_clan_rank": 23,
-            "donations": 40,
-            "donations_received": 10,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#P28YPJ0LQ",
-            "name": "alti",
-            "exp_level": 4,
-            "trophies": 679,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T144505.000Z",
-            "clan_rank": 33,
+            "clan_rank": 29,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -592,7 +524,7 @@
             },
             "role": "member",
             "last_seen": "20200131T131917.000Z",
-            "clan_rank": 34,
+            "clan_rank": 30,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -609,61 +541,10 @@
             },
             "role": "member",
             "last_seen": "20200131T131842.000Z",
-            "clan_rank": 35,
+            "clan_rank": 31,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 20,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LUURC0UQJ",
-            "name": "Trainer Teemu",
-            "exp_level": 4,
-            "trophies": 355,
-            "arena": {
-                "id": 54000002,
-                "name": "Arena 2"
-            },
-            "role": "member",
-            "last_seen": "20200131T144425.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YV0C0JQGP",
-            "name": "Pops",
-            "exp_level": 3,
-            "trophies": 338,
-            "arena": {
-                "id": 54000002,
-                "name": "Arena 2"
-            },
-            "role": "member",
-            "last_seen": "20200131T131717.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 0,
-            "donations": 11,
-            "donations_received": 10,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L8P2VP0J2",
-            "name": "anna_",
-            "exp_level": 4,
-            "trophies": 318,
-            "arena": {
-                "id": 54000002,
-                "name": "Arena 2"
-            },
-            "role": "member",
-            "last_seen": "20200131T111109.000Z",
-            "clan_rank": 38,
-            "previous_clan_rank": 0,
-            "donations": 10,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -677,143 +558,7 @@
             },
             "role": "member",
             "last_seen": "20200131T113632.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PJR9P0R92",
-            "name": "OuiSurrender",
-            "exp_level": 3,
-            "trophies": 279,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T150947.000Z",
-            "clan_rank": 40,
-            "previous_clan_rank": 0,
-            "donations": 10,
-            "donations_received": 8,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PJVJUQ0Y9",
-            "name": "WiseGrant10",
-            "exp_level": 3,
-            "trophies": 89,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T151458.000Z",
-            "clan_rank": 41,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LG28GV0YL",
-            "name": "yessir",
-            "exp_level": 3,
-            "trophies": 87,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T145305.000Z",
-            "clan_rank": 42,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YQY0CYLQG",
-            "name": "zenon",
-            "exp_level": 2,
-            "trophies": 61,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T140856.000Z",
-            "clan_rank": 43,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YQL9998RV",
-            "name": "Espen",
-            "exp_level": 2,
-            "trophies": 56,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T135556.000Z",
-            "clan_rank": 44,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#L8PYGUC9Q",
-            "name": "Shane",
-            "exp_level": 2,
-            "trophies": 29,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T123028.000Z",
-            "clan_rank": 45,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8PG9VVYQG",
-            "name": "Clan Bomber",
-            "exp_level": 1,
-            "trophies": 0,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T134731.000Z",
-            "clan_rank": 46,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YQYQGUR8C",
-            "name": "TWK_viles",
-            "exp_level": 1,
-            "trophies": 0,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T130109.000Z",
-            "clan_rank": 47,
+            "clan_rank": 32,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
