@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32573,
+    "clan_score": 32586,
     "required_trophies": 2600,
     "donations_per_week": 2344,
     "clan_war_trophies": 0,
@@ -41,7 +41,7 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 5245,
+            "trophies": 5255,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -58,13 +58,13 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5157,
+            "trophies": 5145,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T214256.000Z",
+            "last_seen": "20200131T215035.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 384,
@@ -126,13 +126,13 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4287,
+            "trophies": 4314,
             "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200131T213116.000Z",
+            "last_seen": "20200131T214928.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 217,
