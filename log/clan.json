@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29205,
+    "clan_score": 29188,
     "required_trophies": 0,
-    "donations_per_week": 1788,
+    "donations_per_week": 1790,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -92,16 +92,16 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4706,
+            "trophies": 4669,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200130T223112.000Z",
+            "last_seen": "20200131T032530.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 268,
+            "donations": 270,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -234,7 +234,7 @@
                 "name": "Arena 11"
             },
             "role": "elder",
-            "last_seen": "20200131T031316.000Z",
+            "last_seen": "20200131T031739.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 13,
             "donations": 166,
@@ -364,13 +364,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1089,
+            "trophies": 1107,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200130T170054.000Z",
+            "last_seen": "20200131T031611.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 0,
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 8,
+            "donations_received": 10,
             "clan_chest_points": 0
         }
     ]
