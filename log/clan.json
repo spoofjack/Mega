@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29753,
+    "clan_score": 29815,
     "required_trophies": 0,
     "donations_per_week": 1840,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 29,
+    "members": 30,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -47,7 +47,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T001716.000Z",
+            "last_seen": "20200131T114440.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 186,
@@ -58,13 +58,13 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5038,
+            "trophies": 5097,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200131T112348.000Z",
+            "last_seen": "20200131T113954.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 354,
@@ -472,7 +472,7 @@
                 "name": "Arena 2"
             },
             "role": "member",
-            "last_seen": "20200131T105911.000Z",
+            "last_seen": "20200131T113951.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -497,6 +497,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PU2VUYCVC",
+            "name": "mm",
+            "exp_level": 3,
+            "trophies": 280,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T113632.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L8PYGUC9Q",
             "name": "Shane",
             "exp_level": 2,
@@ -507,7 +524,7 @@
             },
             "role": "member",
             "last_seen": "20200131T112452.000Z",
-            "clan_rank": 29,
+            "clan_rank": 30,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
