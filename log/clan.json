@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 31109,
+    "clan_score": 31116,
     "required_trophies": 1000,
     "donations_per_week": 2050,
     "clan_war_trophies": 0,
@@ -132,7 +132,7 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200131T152946.000Z",
+            "last_seen": "20200131T162210.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 151,
@@ -234,7 +234,7 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T222038.000Z",
+            "last_seen": "20200131T162952.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 11,
             "donations": 64,
@@ -438,7 +438,7 @@
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200131T031611.000Z",
+            "last_seen": "20200131T162909.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 21,
             "donations": 0,
@@ -514,6 +514,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LYJ8RCQJ8",
+            "name": "log is the goat",
+            "exp_level": 4,
+            "trophies": 595,
+            "arena": {
+                "id": 54000002,
+                "name": "Arena 2"
+            },
+            "role": "member",
+            "last_seen": "20200131T162511.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#P0QR989GJ",
             "name": "dear hunter",
             "exp_level": 7,
@@ -524,27 +541,10 @@
             },
             "role": "member",
             "last_seen": "20200131T131917.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LYJ8RCQJ8",
-            "name": "log is the goat",
-            "exp_level": 4,
-            "trophies": 535,
-            "arena": {
-                "id": 54000002,
-                "name": "Arena 2"
-            },
-            "role": "member",
-            "last_seen": "20200131T160741.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
