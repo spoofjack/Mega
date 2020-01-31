@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32545,
+    "clan_score": 32550,
     "required_trophies": 2600,
-    "donations_per_week": 2158,
+    "donations_per_week": 2188,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -149,10 +149,10 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200131T174350.000Z",
+            "last_seen": "20200131T191312.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 169,
+            "donations": 179,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 34,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Arena 11"
             },
             "role": "elder",
-            "last_seen": "20200131T170619.000Z",
+            "last_seen": "20200131T191321.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 166,
+            "donations": 186,
             "donations_received": 60,
             "clan_chest_points": 0
         },
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9VL202PRQ",
+            "name": "Yn4",
+            "exp_level": 7,
+            "trophies": 1787,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200131T185213.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 0,
+            "donations": 10,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
@@ -371,27 +388,10 @@
             },
             "role": "elder",
             "last_seen": "20200131T134437.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 19,
             "donations": 70,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9VL202PRQ",
-            "name": "Yn4",
-            "exp_level": 6,
-            "trophies": 1747,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "member",
-            "last_seen": "20200131T185213.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 0,
-            "donations": 10,
-            "donations_received": 20,
             "clan_chest_points": 0
         },
         {

@@ -10,7 +10,7 @@
         "participants": 3,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 2
     },
     "participants": [
@@ -35,15 +35,15 @@
         {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
-            "cards_earned": 140,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
+            "cards_earned": 210,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 1,
             "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 470,
+    "cards": 540,
     "state_label": "Collection Day",
     "collection_end_time_label": "22 hours",
     "end_label": "1 day, 22 hours"
