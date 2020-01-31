@@ -1,5 +1,5 @@
 {
-    "last_update": 1580510701.525158,
+    "last_update": 1580511601.836969,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
@@ -22,7 +22,7 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580510701.525158,
+            "last_activity_date": 1580511601.836969,
             "last_donation_date": 1580508901.52579,
             "role": "coLeader",
             "status": "present",
@@ -208,7 +208,7 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1580510701.525158,
+            "last_activity_date": 1580511601.836969,
             "last_donation_date": 1580356801.318899,
             "role": "elder",
             "status": "present",
@@ -416,8 +416,8 @@
             "last_donation_date": 1580454002.020126,
             "role": "member",
             "status": "present",
-            "donations": 40,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 40,
             "events": [
                 {
                     "event": "join",
@@ -442,7 +442,7 @@
         "#PYQC9QRV": {
             "name": "default DAN",
             "join_date": 1580353201.33282,
-            "last_activity_date": 1580510701.525158,
+            "last_activity_date": 1580511601.836969,
             "last_donation_date": 1580509801.534055,
             "role": "coLeader",
             "status": "present",
@@ -484,11 +484,11 @@
         "#9VL202PRQ": {
             "name": "Yn4",
             "join_date": 1580475602.200064,
-            "last_activity_date": 1580475602.200064,
-            "last_donation_date": 1580475602.200064,
+            "last_activity_date": 1580511601.836969,
+            "last_donation_date": 1580511601.836969,
             "role": "member",
             "status": "present",
-            "donations": 0,
+            "donations": 10,
             "donations_last_week": 0,
             "events": [
                 {

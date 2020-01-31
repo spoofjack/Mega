@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32530,
+    "clan_score": 32532,
     "required_trophies": 2600,
-    "donations_per_week": 2148,
+    "donations_per_week": 2158,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 34,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -381,16 +381,16 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 6,
-            "trophies": 1666,
+            "trophies": 1676,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200131T082128.000Z",
+            "last_seen": "20200131T175012.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 0,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 20,
             "clan_chest_points": 0
         },
@@ -506,7 +506,7 @@
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200131T174314.000Z",
+            "last_seen": "20200131T174850.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 0,
             "donations": 0,
