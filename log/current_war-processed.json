@@ -7,13 +7,22 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 0,
-        "participants": 8,
+        "participants": 9,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 18,
-        "wins": 5
+        "battles_played": 22,
+        "wins": 6
     },
     "participants": [
+        {
+            "tag": "#902PYQUV9",
+            "name": "tjz043411",
+            "cards_earned": 300,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 3
+        },
         {
             "tag": "#PYJQG098Q",
             "name": "viper325",
@@ -80,16 +89,16 @@
         {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
-            "cards_earned": 210,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 280,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         }
     ],
     "clans": null,
-    "cards": 1685,
+    "cards": 2055,
     "state_label": "Collection Day",
-    "collection_end_time_label": "21 hours",
-    "end_label": "1 day, 21 hours"
+    "collection_end_time_label": "20 hours",
+    "end_label": "1 day, 20 hours"
 }
