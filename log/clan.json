@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29759,
+    "clan_score": 29753,
     "required_trophies": 0,
-    "donations_per_week": 1800,
+    "donations_per_week": 1840,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 28,
+    "members": 29,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -57,17 +57,17 @@
         {
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
-            "exp_level": 11,
-            "trophies": 5060,
+            "exp_level": 12,
+            "trophies": 5038,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "elder",
-            "last_seen": "20200130T232044.000Z",
+            "last_seen": "20200131T112348.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 314,
+            "donations": 354,
             "donations_received": 260,
             "clan_chest_points": 0
         },
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 12,
             "donations": 98,
-            "donations_received": 340,
+            "donations_received": 350,
             "clan_chest_points": 0
         },
         {
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -476,14 +476,14 @@
             "clan_rank": 27,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 10,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
             "tag": "#L8P2VP0J2",
             "name": "anna_",
             "exp_level": 4,
-            "trophies": 300,
+            "trophies": 318,
             "arena": {
                 "id": 54000002,
                 "name": "Arena 2"
@@ -493,6 +493,23 @@
             "clan_rank": 28,
             "previous_clan_rank": 0,
             "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L8PYGUC9Q",
+            "name": "Shane",
+            "exp_level": 2,
+            "trophies": 30,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T112452.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 0,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         }
