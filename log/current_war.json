@@ -1,97 +1,43 @@
 {
     "state": "collectionDay",
     "war_end_time": null,
-    "collection_end_time": "20200131T171518.974Z",
+    "collection_end_time": "20200201T171524.602Z",
     "clan": {
         "tag": "#YQQUGLU8",
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 0,
-        "participants": 9,
+        "participants": 3,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 24,
-        "wins": 16
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
-            "tag": "#8G82CVLG",
-            "name": "CamaroBro",
-            "cards_earned": 425,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 480,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 3,
-            "number_of_battles": 3
-        },
-        {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
-            "cards_earned": 425,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 510,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 3,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 320,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 280,
+            "cards_earned": 170,
             "battles_played": 2,
             "collection_day_battles_played": 2,
-            "wins": 2,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 100,
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "cards_earned": 160,
             "battles_played": 1,
             "collection_day_battles_played": 1,
             "wins": 1,
             "number_of_battles": 3
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "cards_earned": 320,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 3
-        },
-        {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
-            "cards_earned": 280,
-            "battles_played": 3,
-            "collection_day_battles_played": 3,
+            "cards_earned": 140,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
             "wins": 1,
             "number_of_battles": 3
         }
