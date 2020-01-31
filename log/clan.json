@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29152,
+    "clan_score": 29201,
     "required_trophies": 0,
     "donations_per_week": 1780,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 23,
+    "members": 24,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -408,6 +408,23 @@
             "clan_rank": 23,
             "previous_clan_rank": 23,
             "donations": 40,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LYJ8RCQJ8",
+            "name": "log is the goat",
+            "exp_level": 3,
+            "trophies": 415,
+            "arena": {
+                "id": 54000002,
+                "name": "Arena 2"
+            },
+            "role": "member",
+            "last_seen": "20200131T020420.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 0,
+            "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
         }
