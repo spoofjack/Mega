@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32518,
+    "clan_score": 32573,
     "required_trophies": 2600,
-    "donations_per_week": 2336,
+    "donations_per_week": 2344,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T193708.000Z",
+            "last_seen": "20200131T214055.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 218,
+            "donations": 226,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -64,7 +64,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T195750.000Z",
+            "last_seen": "20200131T214256.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 384,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 10,
+            "trophies": 4287,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "coLeader",
+            "last_seen": "20200131T213116.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 7,
+            "donations": 217,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#VLV8U89",
             "name": "fusion",
             "exp_level": 10,
@@ -133,27 +150,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 10,
-            "trophies": 4168,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "coLeader",
-            "last_seen": "20200131T212654.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 7,
-            "donations": 217,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -228,13 +228,13 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3430,
+            "trophies": 3461,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200131T193327.000Z",
+            "last_seen": "20200131T213947.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 11,
             "donations": 72,
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 10,
-            "donations_received": 98,
+            "donations_received": 106,
             "clan_chest_points": 0
         },
         {
@@ -347,7 +347,7 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 7,
-            "trophies": 1844,
+            "trophies": 1799,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
