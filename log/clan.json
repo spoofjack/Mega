@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 31329,
+    "clan_score": 31289,
     "required_trophies": 0,
     "donations_per_week": 1990,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 42,
+    "members": 41,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -483,13 +483,13 @@
             "tag": "#LV0LLQR89",
             "name": "andy",
             "exp_level": 5,
-            "trophies": 871,
+            "trophies": 853,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200131T142720.000Z",
+            "last_seen": "20200131T143926.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -531,23 +531,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#P22LYJPCR",
-            "name": "rob",
-            "exp_level": 5,
-            "trophies": 716,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T142727.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#P0QR989GJ",
             "name": "dear hunter",
             "exp_level": 7,
@@ -558,7 +541,7 @@
             },
             "role": "member",
             "last_seen": "20200131T131917.000Z",
-            "clan_rank": 32,
+            "clan_rank": 31,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -575,10 +558,27 @@
             },
             "role": "member",
             "last_seen": "20200131T131842.000Z",
-            "clan_rank": 33,
+            "clan_rank": 32,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LUURC0UQJ",
+            "name": "Trainer Teemu",
+            "exp_level": 4,
+            "trophies": 355,
+            "arena": {
+                "id": 54000002,
+                "name": "Arena 2"
+            },
+            "role": "member",
+            "last_seen": "20200131T144425.000Z",
+            "clan_rank": 33,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -667,23 +667,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#L88JL2GCJ",
-            "name": "duncandonuts",
-            "exp_level": 2,
-            "trophies": 29,
-            "arena": {
-                "id": 54000001,
-                "name": "Arena 1"
-            },
-            "role": "member",
-            "last_seen": "20200131T142753.000Z",
-            "clan_rank": 39,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#L8PYGUC9Q",
             "name": "Shane",
             "exp_level": 2,
@@ -694,7 +677,7 @@
             },
             "role": "member",
             "last_seen": "20200131T123028.000Z",
-            "clan_rank": 40,
+            "clan_rank": 39,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -711,7 +694,7 @@
             },
             "role": "member",
             "last_seen": "20200131T134731.000Z",
-            "clan_rank": 41,
+            "clan_rank": 40,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -728,7 +711,7 @@
             },
             "role": "member",
             "last_seen": "20200131T130109.000Z",
-            "clan_rank": 42,
+            "clan_rank": 41,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
