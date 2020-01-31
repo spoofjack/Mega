@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32532,
+    "clan_score": 32544,
     "required_trophies": 2600,
     "donations_per_week": 2158,
     "clan_war_trophies": 0,
@@ -381,7 +381,7 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 6,
-            "trophies": 1676,
+            "trophies": 1717,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
@@ -398,13 +398,13 @@
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
             "exp_level": 6,
-            "trophies": 1285,
+            "trophies": 1315,
             "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
+                "id": 54000005,
+                "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200131T142013.000Z",
+            "last_seen": "20200131T180811.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -497,6 +497,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LV092U2C0",
+            "name": "gg",
+            "exp_level": 6,
+            "trophies": 853,
+            "arena": {
+                "id": 54000003,
+                "name": "Arena 3"
+            },
+            "role": "member",
+            "last_seen": "20200131T180957.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 4,
@@ -507,23 +524,6 @@
             },
             "role": "member",
             "last_seen": "20200131T174850.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LV092U2C0",
-            "name": "gg",
-            "exp_level": 6,
-            "trophies": 823,
-            "arena": {
-                "id": 54000003,
-                "name": "Arena 3"
-            },
-            "role": "member",
-            "last_seen": "20200131T153930.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 0,
             "donations": 0,
