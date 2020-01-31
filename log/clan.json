@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33339,
+    "clan_score": 33377,
     "required_trophies": 2600,
-    "donations_per_week": 2376,
+    "donations_per_week": 2386,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -126,7 +126,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4302,
+            "trophies": 4376,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -135,7 +135,7 @@
             "last_seen": "20200131T232545.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
-            "donations": 225,
+            "donations": 235,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -245,7 +245,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3470,
+            "trophies": 3474,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 11,
             "donations": 80,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
