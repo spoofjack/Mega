@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29163,
+    "clan_score": 29135,
     "required_trophies": 0,
-    "donations_per_week": 1760,
+    "donations_per_week": 1770,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200130T201045.000Z",
+            "last_seen": "20200130T235141.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 186,
@@ -126,7 +126,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4105,
+            "trophies": 4097,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -135,7 +135,7 @@
             "last_seen": "20200130T234455.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 0,
-            "donations": 92,
+            "donations": 102,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -160,7 +160,7 @@
             "tag": "#902PYQUV9",
             "name": "tjz043411",
             "exp_level": 9,
-            "trophies": 3892,
+            "trophies": 3844,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -217,11 +217,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200130T215908.000Z",
+            "last_seen": "20200130T235223.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 90,
-            "donations_received": 320,
+            "donations_received": 330,
             "clan_chest_points": 0
         },
         {
@@ -251,7 +251,7 @@
                 "name": "Arena 10"
             },
             "role": "elder",
-            "last_seen": "20200130T225036.000Z",
+            "last_seen": "20200130T234640.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 66,
