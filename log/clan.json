@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 31092,
+    "clan_score": 31090,
     "required_trophies": 1000,
     "donations_per_week": 2050,
     "clan_war_trophies": 0,
@@ -149,7 +149,7 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200130T193022.000Z",
+            "last_seen": "20200131T153015.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 34,
@@ -483,13 +483,13 @@
             "tag": "#LV092U2C0",
             "name": "gg",
             "exp_level": 6,
-            "trophies": 839,
+            "trophies": 823,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200131T142106.000Z",
+            "last_seen": "20200131T153930.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 0,
             "donations": 0,
