@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29541,
+    "clan_score": 29579,
     "required_trophies": 0,
     "donations_per_week": 1790,
     "clan_war_trophies": 0,
@@ -347,10 +347,10 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 6,
-            "trophies": 1486,
+            "trophies": 1640,
             "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
+                "id": 54000006,
+                "name": "Arena 6"
             },
             "role": "member",
             "last_seen": "20200131T082128.000Z",
@@ -415,7 +415,7 @@
             "tag": "#P2Y8L89QR",
             "name": "bouchy",
             "exp_level": 6,
-            "trophies": 1070,
+            "trophies": 1065,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
