@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29201,
+    "clan_score": 29205,
     "required_trophies": 0,
     "donations_per_week": 1780,
     "clan_war_trophies": 0,
@@ -414,14 +414,14 @@
         {
             "tag": "#LYJ8RCQJ8",
             "name": "log is the goat",
-            "exp_level": 3,
-            "trophies": 415,
+            "exp_level": 4,
+            "trophies": 445,
             "arena": {
                 "id": 54000002,
                 "name": "Arena 2"
             },
             "role": "member",
-            "last_seen": "20200131T020420.000Z",
+            "last_seen": "20200131T021545.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 0,
             "donations": 0,
