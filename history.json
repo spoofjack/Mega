@@ -1,5 +1,5 @@
 {
-    "last_update": 1580509801.534055,
+    "last_update": 1580510701.525158,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
@@ -22,7 +22,7 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580509801.534055,
+            "last_activity_date": 1580510701.525158,
             "last_donation_date": 1580508901.52579,
             "role": "coLeader",
             "status": "present",
@@ -208,7 +208,7 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1580509801.534055,
+            "last_activity_date": 1580510701.525158,
             "last_donation_date": 1580356801.318899,
             "role": "elder",
             "status": "present",
@@ -412,10 +412,10 @@
         "#LQR9CURCP": {
             "name": "BigDaddy",
             "join_date": 0,
-            "last_activity_date": 1580454002.020126,
+            "last_activity_date": 1580510701.525158,
             "last_donation_date": 1580454002.020126,
             "role": "member",
-            "status": "absent",
+            "status": "present",
             "donations": 40,
             "donations_last_week": 0,
             "events": [
@@ -430,13 +430,19 @@
                     "type": "left",
                     "role": "member",
                     "date": 1580502601.518907
+                },
+                {
+                    "event": "join",
+                    "type": "re-join",
+                    "role": "member",
+                    "date": 1580510701.525158
                 }
             ]
         },
         "#PYQC9QRV": {
             "name": "default DAN",
             "join_date": 1580353201.33282,
-            "last_activity_date": 1580509801.534055,
+            "last_activity_date": 1580510701.525158,
             "last_donation_date": 1580509801.534055,
             "role": "coLeader",
             "status": "present",
