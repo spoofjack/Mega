@@ -1,10 +1,10 @@
 {
-    "last_update": 1580489105.384032,
+    "last_update": 1580490002.258283,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 1580432402.220453,
             "role": "coLeader",
             "status": "present",
@@ -22,11 +22,11 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
-            "last_donation_date": 1580431501.90449,
+            "last_activity_date": 1580490002.258283,
+            "last_donation_date": 1580490002.258283,
             "role": "coLeader",
             "status": "present",
-            "donations": 186,
+            "donations": 196,
             "donations_last_week": 0,
             "events": [
                 {
@@ -40,11 +40,11 @@
         "#8G82CVLG": {
             "name": "CamaroBro",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
-            "last_donation_date": 1580488205.448898,
+            "last_activity_date": 1580490002.258283,
+            "last_donation_date": 1580490002.258283,
             "role": "elder",
             "status": "present",
-            "donations": 354,
+            "donations": 374,
             "donations_last_week": 0,
             "events": [
                 {
@@ -76,11 +76,11 @@
         "#9QRL2LPQ": {
             "name": "BALLER",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
-            "last_donation_date": 1580459402.119267,
+            "last_activity_date": 1580490002.258283,
+            "last_donation_date": 1580490002.258283,
             "role": "member",
             "status": "present",
-            "donations": 270,
+            "donations": 290,
             "donations_last_week": 0,
             "events": [
                 {
@@ -112,7 +112,7 @@
         "#2YVYJUPV": {
             "name": "BOSSOME",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 1580431501.90449,
             "role": "elder",
             "status": "present",
@@ -166,7 +166,7 @@
         "#PQRPRYQLP": {
             "name": "Gobysmasher",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 1580436001.93467,
             "role": "coLeader",
             "status": "present",
@@ -202,7 +202,7 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 1580356801.318899,
             "role": "elder",
             "status": "present",
@@ -274,7 +274,7 @@
         "#L2L98J8CJ": {
             "name": "BrandoComando",
             "join_date": 0,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 0,
             "role": "member",
             "status": "present",
@@ -424,7 +424,7 @@
         "#PYQC9QRV": {
             "name": "default DAN",
             "join_date": 1580353201.33282,
-            "last_activity_date": 1580489105.384032,
+            "last_activity_date": 1580490002.258283,
             "last_donation_date": 1580446802.3013,
             "role": "coLeader",
             "status": "present",
@@ -568,6 +568,24 @@
                     "type": "new",
                     "role": "member",
                     "date": 1580489105.384032
+                }
+            ]
+        },
+        "#YL90JQRVU": {
+            "name": "meowmeowgod47",
+            "join_date": 1580490002.258283,
+            "last_activity_date": 1580490002.258283,
+            "last_donation_date": 1580490002.258283,
+            "role": "member",
+            "status": "present",
+            "donations": 0,
+            "donations_last_week": 0,
+            "events": [
+                {
+                    "event": "join",
+                    "type": "new",
+                    "role": "member",
+                    "date": 1580490002.258283
                 }
             ]
         }
