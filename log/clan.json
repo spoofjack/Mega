@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29838,
+    "clan_score": 29840,
     "required_trophies": 0,
-    "donations_per_week": 1890,
+    "donations_per_week": 1900,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 30,
+    "members": 31,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -132,10 +132,10 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200131T115323.000Z",
+            "last_seen": "20200131T121636.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 11,
-            "donations": 102,
+            "donations": 112,
             "donations_received": 100,
             "clan_chest_points": 0
         },
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 12,
             "donations": 98,
-            "donations_received": 370,
+            "donations_received": 380,
             "clan_chest_points": 0
         },
         {
@@ -285,7 +285,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200130T214838.000Z",
+            "last_seen": "20200131T122231.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 17,
             "donations": 10,
@@ -525,6 +525,23 @@
             "role": "member",
             "last_seen": "20200131T112452.000Z",
             "clan_rank": 30,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#L88JL2GCJ",
+            "name": "duncandonuts",
+            "exp_level": 2,
+            "trophies": 29,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T122929.000Z",
+            "clan_rank": 31,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
