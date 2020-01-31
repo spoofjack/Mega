@@ -1,10 +1,10 @@
 {
-    "last_update": 1580517001.635901,
+    "last_update": 1580517901.590029,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
             "join_date": 0,
-            "last_activity_date": 1580517001.635901,
+            "last_activity_date": 1580517901.590029,
             "last_donation_date": 1580517001.635901,
             "role": "coLeader",
             "status": "present",
@@ -22,11 +22,11 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580517001.635901,
-            "last_donation_date": 1580508901.52579,
+            "last_activity_date": 1580517901.590029,
+            "last_donation_date": 1580517901.590029,
             "role": "coLeader",
             "status": "present",
-            "donations": 208,
+            "donations": 218,
             "donations_last_week": 0,
             "events": [
                 {
@@ -118,11 +118,11 @@
         "#2YVYJUPV": {
             "name": "BOSSOME",
             "join_date": 0,
-            "last_activity_date": 1580508901.52579,
-            "last_donation_date": 1580431501.90449,
+            "last_activity_date": 1580517901.590029,
+            "last_donation_date": 1580517901.590029,
             "role": "elder",
             "status": "present",
-            "donations": 34,
+            "donations": 46,
             "donations_last_week": 0,
             "events": [
                 {
@@ -172,7 +172,7 @@
         "#PQRPRYQLP": {
             "name": "Gobysmasher",
             "join_date": 0,
-            "last_activity_date": 1580508901.52579,
+            "last_activity_date": 1580517901.590029,
             "last_donation_date": 1580507101.481079,
             "role": "coLeader",
             "status": "present",
@@ -208,7 +208,7 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1580517001.635901,
+            "last_activity_date": 1580517901.590029,
             "last_donation_date": 1580516101.695715,
             "role": "elder",
             "status": "present",
@@ -262,7 +262,7 @@
         "#PYJQG098Q": {
             "name": "viper325",
             "join_date": 0,
-            "last_activity_date": 1580508001.561986,
+            "last_activity_date": 1580517901.590029,
             "last_donation_date": 1580508001.561986,
             "role": "member",
             "status": "present",
@@ -442,7 +442,7 @@
         "#PYQC9QRV": {
             "name": "default DAN",
             "join_date": 1580353201.33282,
-            "last_activity_date": 1580517001.635901,
+            "last_activity_date": 1580517901.590029,
             "last_donation_date": 1580516101.695715,
             "role": "coLeader",
             "status": "present",
@@ -588,7 +588,7 @@
             "join_date": 1580489105.384032,
             "last_activity_date": 1580489105.384032,
             "last_donation_date": 1580489105.384032,
-            "role": "member",
+            "role": "coLeader",
             "status": "present",
             "donations": 0,
             "donations_last_week": 0,
@@ -598,6 +598,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 1580489105.384032
+                },
+                {
+                    "event": "role change",
+                    "type": "promotion",
+                    "role": "coLeader",
+                    "date": 1580517901.590029
                 }
             ]
         },
