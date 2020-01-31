@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 29408,
+    "clan_score": 29541,
     "required_trophies": 0,
     "donations_per_week": 1790,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 25,
+    "members": 26,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -347,7 +347,7 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 6,
-            "trophies": 1466,
+            "trophies": 1486,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
@@ -412,6 +412,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#P2Y8L89QR",
+            "name": "bouchy",
+            "exp_level": 6,
+            "trophies": 1070,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "member",
+            "last_seen": "20200131T085558.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 4,
@@ -422,7 +439,7 @@
             },
             "role": "member",
             "last_seen": "20200131T014323.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 23,
             "donations": 40,
             "donations_received": 0,
@@ -439,7 +456,7 @@
             },
             "role": "member",
             "last_seen": "20200131T024404.000Z",
-            "clan_rank": 25,
+            "clan_rank": 26,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 10,
