@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 32551,
+    "clan_score": 32566,
     "required_trophies": 2600,
-    "donations_per_week": 2238,
+    "donations_per_week": 2318,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -33,7 +33,7 @@
             "last_seen": "20200131T192943.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 202,
+            "donations": 212,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -58,17 +58,17 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5098,
+            "trophies": 5128,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T194110.000Z",
+            "last_seen": "20200131T195750.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 374,
-            "donations_received": 260,
+            "donations": 384,
+            "donations_received": 300,
             "clan_chest_points": 0
         },
         {
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200131T172142.000Z",
+            "last_seen": "20200131T195808.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 5,
-            "donations": 308,
+            "donations": 328,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -149,10 +149,10 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200131T193827.000Z",
+            "last_seen": "20200131T195913.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 179,
+            "donations": 199,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -183,10 +183,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200131T164419.000Z",
+            "last_seen": "20200131T195723.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 0,
-            "donations": 24,
+            "donations": 44,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -268,11 +268,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200131T115414.000Z",
+            "last_seen": "20200131T195443.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 12,
             "donations": 98,
-            "donations_received": 390,
+            "donations_received": 430,
             "clan_chest_points": 0
         },
         {
@@ -319,7 +319,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200131T194032.000Z",
+            "last_seen": "20200131T195406.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 10,
@@ -336,7 +336,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200131T193342.000Z",
+            "last_seen": "20200131T194810.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 12,
