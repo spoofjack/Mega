@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 31131,
+    "clan_score": 31150,
     "required_trophies": 0,
     "donations_per_week": 1990,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 37,
+    "members": 39,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -134,7 +134,7 @@
             "role": "coLeader",
             "last_seen": "20200131T132523.000Z",
             "clan_rank": 7,
-            "previous_clan_rank": 11,
+            "previous_clan_rank": 7,
             "donations": 131,
             "donations_received": 120,
             "clan_chest_points": 0
@@ -151,7 +151,7 @@
             "role": "elder",
             "last_seen": "20200130T193022.000Z",
             "clan_rank": 8,
-            "previous_clan_rank": 7,
+            "previous_clan_rank": 8,
             "donations": 34,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -166,7 +166,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200131T134107.000Z",
+            "last_seen": "20200131T134822.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 0,
             "donations": 8,
@@ -185,7 +185,7 @@
             "role": "coLeader",
             "last_seen": "20200130T234303.000Z",
             "clan_rank": 10,
-            "previous_clan_rank": 8,
+            "previous_clan_rank": 9,
             "donations": 78,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -202,7 +202,7 @@
             "role": "member",
             "last_seen": "20200130T173428.000Z",
             "clan_rank": 11,
-            "previous_clan_rank": 9,
+            "previous_clan_rank": 10,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -219,7 +219,7 @@
             "role": "coLeader",
             "last_seen": "20200130T222038.000Z",
             "clan_rank": 12,
-            "previous_clan_rank": 10,
+            "previous_clan_rank": 11,
             "donations": 64,
             "donations_received": 20,
             "clan_chest_points": 0
@@ -304,7 +304,7 @@
             "role": "member",
             "last_seen": "20200131T122231.000Z",
             "clan_rank": 17,
-            "previous_clan_rank": 17,
+            "previous_clan_rank": 16,
             "donations": 10,
             "donations_received": 80,
             "clan_chest_points": 0
@@ -321,7 +321,7 @@
             "role": "member",
             "last_seen": "20200131T131918.000Z",
             "clan_rank": 18,
-            "previous_clan_rank": 16,
+            "previous_clan_rank": 17,
             "donations": 6,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -346,8 +346,8 @@
         {
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
-            "exp_level": 7,
-            "trophies": 1717,
+            "exp_level": 8,
+            "trophies": 1773,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
@@ -440,7 +440,7 @@
             "role": "member",
             "last_seen": "20200131T031611.000Z",
             "clan_rank": 25,
-            "previous_clan_rank": 22,
+            "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 20,
             "clan_chest_points": 0
@@ -457,7 +457,7 @@
             "role": "member",
             "last_seen": "20200131T131653.000Z",
             "clan_rank": 26,
-            "previous_clan_rank": 21,
+            "previous_clan_rank": 22,
             "donations": 48,
             "donations_received": 100,
             "clan_chest_points": 0
@@ -599,6 +599,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YQL9998RV",
+            "name": "Espen",
+            "exp_level": 2,
+            "trophies": 58,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T135556.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L88JL2GCJ",
             "name": "duncandonuts",
             "exp_level": 2,
@@ -609,7 +626,7 @@
             },
             "role": "member",
             "last_seen": "20200131T122929.000Z",
-            "clan_rank": 35,
+            "clan_rank": 36,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -626,7 +643,24 @@
             },
             "role": "member",
             "last_seen": "20200131T123028.000Z",
-            "clan_rank": 36,
+            "clan_rank": 37,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#8PG9VVYQG",
+            "name": "Clan Bomber",
+            "exp_level": 1,
+            "trophies": 0,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200131T134731.000Z",
+            "clan_rank": 38,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -643,7 +677,7 @@
             },
             "role": "member",
             "last_seen": "20200131T130109.000Z",
-            "clan_rank": 37,
+            "clan_rank": 39,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
