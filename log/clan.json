@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33617,
+    "clan_score": 33625,
     "required_trophies": 2600,
-    "donations_per_week": 2604,
+    "donations_per_week": 2624,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 400,
-            "donations_received": 320,
+            "donations_received": 330,
             "clan_chest_points": 0
         },
         {
@@ -251,11 +251,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200201T050438.000Z",
+            "last_seen": "20200201T061129.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 126,
-            "donations_received": 440,
+            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -364,16 +364,16 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 7,
-            "trophies": 2058,
+            "trophies": 2084,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200201T030040.000Z",
+            "last_seen": "20200201T061037.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 21,
-            "donations": 44,
+            "donations": 64,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -500,13 +500,13 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 907,
+            "trophies": 937,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200201T050309.000Z",
+            "last_seen": "20200201T060550.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 0,
             "donations": 20,
