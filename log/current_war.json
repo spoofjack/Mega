@@ -8,9 +8,9 @@
         "badge_id": 16000107,
         "clan_score": 0,
         "participants": 10,
-        "crowns": 7,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 3
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "cards_earned": 255,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 200,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -103,6 +94,15 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "cards_earned": 200,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -134,9 +134,9 @@
             "badge_id": 16000107,
             "clan_score": 0,
             "participants": 10,
-            "crowns": 7,
-            "battles_remaining": 6,
-            "battles_played": 4,
+            "crowns": 8,
+            "battles_remaining": 5,
+            "battles_played": 5,
             "wins": 3
         },
         {
