@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33631,
+    "clan_score": 33623,
     "required_trophies": 2600,
     "donations_per_week": 2624,
     "clan_war_trophies": 0,
@@ -242,23 +242,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "exp_level": 7,
-            "trophies": 3484,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "coLeader",
-            "last_seen": "20200201T061129.000Z",
-            "clan_rank": 14,
-            "previous_clan_rank": 14,
-            "donations": 126,
-            "donations_received": 450,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
@@ -269,7 +252,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T033526.000Z",
-            "clan_rank": 15,
+            "clan_rank": 14,
             "previous_clan_rank": 13,
             "donations": 194,
             "donations_received": 60,
@@ -286,10 +269,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200201T031456.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 12,
             "donations": 80,
             "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "exp_level": 7,
+            "trophies": 3459,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200201T064927.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 14,
+            "donations": 126,
+            "donations_received": 450,
             "clan_chest_points": 0
         },
         {
@@ -415,7 +415,7 @@
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
             "exp_level": 6,
-            "trophies": 1714,
+            "trophies": 1703,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
