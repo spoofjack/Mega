@@ -3,13 +3,13 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34767,
+    "clan_score": 34828,
     "required_trophies": 2600,
-    "donations_per_week": 3258,
+    "donations_per_week": 3266,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 34,
+    "members": 35,
     "location": {
         "id": 57000249,
         "name": "United States",
@@ -228,7 +228,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3814,
+            "trophies": 3873,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 14,
             "donations": 141,
-            "donations_received": 116,
+            "donations_received": 124,
             "clan_chest_points": 0
         },
         {
@@ -262,16 +262,16 @@
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
-            "trophies": 3514,
+            "trophies": 3602,
             "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
+                "id": 54000011,
+                "name": "Arena 12"
             },
             "role": "elder",
             "last_seen": "20200201T232548.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 16,
-            "donations": 206,
+            "donations": 214,
             "donations_received": 60,
             "clan_chest_points": 0
         },
@@ -449,7 +449,7 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 1399,
+            "trophies": 1456,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
@@ -594,6 +594,23 @@
             "last_seen": "20200131T113632.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 33,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YR29PV082",
+            "name": "witte",
+            "exp_level": 3,
+            "trophies": 173,
+            "arena": {
+                "id": 54000001,
+                "name": "Arena 1"
+            },
+            "role": "member",
+            "last_seen": "20200201T233036.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
