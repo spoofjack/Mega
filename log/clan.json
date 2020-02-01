@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34799,
+    "clan_score": 34793,
     "required_trophies": 2600,
-    "donations_per_week": 3172,
+    "donations_per_week": 3210,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -149,18 +149,18 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200201T200307.000Z",
+            "last_seen": "20200201T223710.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 289,
-            "donations_received": 240,
+            "donations": 307,
+            "donations_received": 260,
             "clan_chest_points": 0
         },
         {
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4320,
+            "trophies": 4308,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -169,8 +169,8 @@
             "last_seen": "20200201T215552.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 0,
-            "donations": 46,
-            "donations_received": 60,
+            "donations": 56,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
@@ -217,7 +217,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200201T215620.000Z",
+            "last_seen": "20200201T223914.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 124,
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 150,
-            "donations_received": 540,
+            "donations_received": 548,
             "clan_chest_points": 0
         },
         {
@@ -373,7 +373,7 @@
             "last_seen": "20200201T221315.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 20,
-            "donations": 18,
+            "donations": 28,
             "donations_received": 30,
             "clan_chest_points": 0
         },
@@ -455,7 +455,7 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200201T171648.000Z",
+            "last_seen": "20200201T223101.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 29,
             "donations": 20,
