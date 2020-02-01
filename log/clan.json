@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33445,
+    "clan_score": 33446,
     "required_trophies": 2600,
     "donations_per_week": 2516,
     "clan_war_trophies": 0,
@@ -259,23 +259,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "exp_level": 7,
-            "trophies": 3467,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "coLeader",
-            "last_seen": "20200201T015638.000Z",
-            "clan_rank": 15,
-            "previous_clan_rank": 14,
-            "donations": 116,
-            "donations_received": 430,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
@@ -286,10 +269,27 @@
             },
             "role": "elder",
             "last_seen": "20200131T230223.000Z",
-            "clan_rank": 16,
+            "clan_rank": 15,
             "previous_clan_rank": 13,
             "donations": 194,
             "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "exp_level": 7,
+            "trophies": 3394,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200201T020928.000Z",
+            "clan_rank": 16,
+            "previous_clan_rank": 14,
+            "donations": 116,
+            "donations_received": 430,
             "clan_chest_points": 0
         },
         {
@@ -381,13 +381,13 @@
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
-            "trophies": 1833,
+            "trophies": 1811,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "elder",
-            "last_seen": "20200201T013547.000Z",
+            "last_seen": "20200201T020711.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 74,
@@ -415,10 +415,10 @@
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
             "exp_level": 6,
-            "trophies": 1443,
+            "trophies": 1619,
             "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
+                "id": 54000006,
+                "name": "Arena 6"
             },
             "role": "member",
             "last_seen": "20200201T015034.000Z",
