@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33637,
+    "clan_score": 33647,
     "required_trophies": 2600,
-    "donations_per_week": 2556,
+    "donations_per_week": 2572,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,16 +58,16 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5145,
+            "trophies": 5174,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200131T215035.000Z",
+            "last_seen": "20200201T042614.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 384,
+            "donations": 400,
             "donations_received": 300,
             "clan_chest_points": 0
         },
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 10,
-            "donations_received": 118,
+            "donations_received": 126,
             "clan_chest_points": 0
         },
         {
@@ -463,23 +463,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#Y20RLJJR0",
-            "name": "yeet",
-            "exp_level": 6,
-            "trophies": 1147,
-            "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
-            },
-            "role": "member",
-            "last_seen": "20200131T172149.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 25,
-            "donations": 0,
-            "donations_received": 20,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PLLU8LRV9",
             "name": "SP3C_Luckzy01",
             "exp_level": 6,
@@ -490,10 +473,27 @@
             },
             "role": "elder",
             "last_seen": "20200122T162137.000Z",
-            "clan_rank": 28,
+            "clan_rank": 27,
             "previous_clan_rank": 24,
             "donations": 0,
             "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#Y20RLJJR0",
+            "name": "yeet",
+            "exp_level": 6,
+            "trophies": 1107,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "member",
+            "last_seen": "20200201T042414.000Z",
+            "clan_rank": 28,
+            "previous_clan_rank": 25,
+            "donations": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
