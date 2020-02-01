@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33721,
+    "clan_score": 33708,
     "required_trophies": 2600,
-    "donations_per_week": 2672,
+    "donations_per_week": 2726,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,23 +51,23 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 246,
-            "donations_received": 230,
+            "donations_received": 238,
             "clan_chest_points": 0
         },
         {
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5131,
+            "trophies": 5110,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200201T042614.000Z",
+            "last_seen": "20200201T134105.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 400,
+            "donations": 444,
             "donations_received": 340,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 12,
             "donations": 90,
-            "donations_received": 68,
+            "donations_received": 76,
             "clan_chest_points": 0
         },
         {
@@ -279,7 +279,7 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 7,
-            "trophies": 3463,
+            "trophies": 3439,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 14,
             "donations": 134,
-            "donations_received": 480,
+            "donations_received": 500,
             "clan_chest_points": 0
         },
         {
@@ -336,11 +336,11 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200201T122730.000Z",
+            "last_seen": "20200201T134425.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 10,
-            "donations_received": 126,
+            "donations_received": 134,
             "clan_chest_points": 0
         },
         {
@@ -517,17 +517,17 @@
             "tag": "#LYJ8RCQJ8",
             "name": "log is the goat",
             "exp_level": 5,
-            "trophies": 803,
+            "trophies": 832,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200201T120005.000Z",
+            "last_seen": "20200201T134401.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 31,
-            "donations": 10,
-            "donations_received": 30,
+            "donations": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
