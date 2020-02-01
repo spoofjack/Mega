@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34793,
+    "clan_score": 34771,
     "required_trophies": 2600,
-    "donations_per_week": 3210,
+    "donations_per_week": 3232,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,16 +58,16 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5087,
+            "trophies": 5043,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200201T175230.000Z",
+            "last_seen": "20200201T225758.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 462,
+            "donations": 484,
             "donations_received": 340,
             "clan_chest_points": 0
         },
@@ -149,11 +149,11 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200201T223710.000Z",
+            "last_seen": "20200201T225103.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 307,
-            "donations_received": 260,
+            "donations_received": 270,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 0,
             "donations": 56,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 150,
-            "donations_received": 548,
+            "donations_received": 550,
             "clan_chest_points": 0
         },
         {
