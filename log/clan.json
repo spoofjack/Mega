@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33377,
+    "clan_score": 33393,
     "required_trophies": 2600,
-    "donations_per_week": 2386,
+    "donations_per_week": 2424,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200131T225313.000Z",
+            "last_seen": "20200131T235200.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 212,
+            "donations": 238,
             "donations_received": 312,
             "clan_chest_points": 0
         },
@@ -126,17 +126,34 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4376,
+            "trophies": 4351,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200131T232545.000Z",
+            "last_seen": "20200131T234917.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
-            "donations": 235,
+            "donations": 243,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#CC89GPR",
+            "name": "unicorn",
+            "exp_level": 9,
+            "trophies": 4268,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "elder",
+            "last_seen": "20200131T235139.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -150,25 +167,8 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 6,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#CC89GPR",
-            "name": "unicorn",
-            "exp_level": 9,
-            "trophies": 4211,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "elder",
-            "last_seen": "20200131T225242.000Z",
             "clan_rank": 9,
-            "previous_clan_rank": 0,
+            "previous_clan_rank": 6,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 11,
             "donations": 80,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 10,
-            "donations_received": 106,
+            "donations_received": 114,
             "clan_chest_points": 0
         },
         {
@@ -370,10 +370,10 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200131T220209.000Z",
+            "last_seen": "20200131T235934.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 0,
-            "donations": 20,
+            "donations": 24,
             "donations_received": 40,
             "clan_chest_points": 0
         },
