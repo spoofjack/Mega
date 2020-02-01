@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34513,
+    "clan_score": 34515,
     "required_trophies": 2600,
-    "donations_per_week": 2832,
+    "donations_per_week": 2858,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,7 +24,7 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 5730,
+            "trophies": 5735,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
@@ -132,10 +132,10 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200201T151429.000Z",
+            "last_seen": "20200201T153259.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 8,
-            "donations": 10,
+            "donations": 36,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 263,
-            "donations_received": 220,
+            "donations_received": 230,
             "clan_chest_points": 0
         },
         {
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 0,
             "donations": 38,
-            "donations_received": 24,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 90,
-            "donations_received": 92,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
