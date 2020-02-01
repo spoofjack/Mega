@@ -8,21 +8,12 @@
         "badge_id": 16000107,
         "clan_score": 0,
         "participants": 10,
-        "crowns": 11,
+        "crowns": 12,
         "battles_remaining": null,
-        "battles_played": 7,
-        "wins": 4
+        "battles_played": 8,
+        "wins": 5
     },
     "participants": [
-        {
-            "tag": "#902PYQUV9",
-            "name": "tjz043411",
-            "cards_earned": 300,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#PYJQG098Q",
             "name": "viper325",
@@ -48,6 +39,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#902PYQUV9",
+            "name": "tjz043411",
+            "cards_earned": 300,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -107,6 +107,17 @@
     ],
     "clans": [
         {
+            "tag": "#YQQUGLU8",
+            "name": "Mega PP gang",
+            "badge_id": 16000107,
+            "clan_score": 0,
+            "participants": 10,
+            "crowns": 12,
+            "battles_remaining": 2,
+            "battles_played": 8,
+            "wins": 5
+        },
+        {
             "tag": "#Y99YUJCG",
             "name": "The Coup",
             "badge_id": 16000045,
@@ -116,17 +127,6 @@
             "battles_remaining": 5,
             "battles_played": 5,
             "wins": 5
-        },
-        {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 11,
-            "battles_remaining": 3,
-            "battles_played": 7,
-            "wins": 4
         },
         {
             "tag": "#YUVUQYV0",
@@ -146,8 +146,8 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 6,
-            "battles_remaining": 4,
-            "battles_played": 6,
+            "battles_remaining": 3,
+            "battles_played": 7,
             "wins": 1
         },
         {
