@@ -118,6 +118,17 @@
             "wins": 4
         },
         {
+            "tag": "#Y99YUJCG",
+            "name": "The Coup",
+            "badge_id": 16000045,
+            "clan_score": 0,
+            "participants": 10,
+            "crowns": 8,
+            "battles_remaining": 6,
+            "battles_played": 4,
+            "wins": 4
+        },
+        {
             "tag": "#YUVUQYV0",
             "name": "el horno",
             "badge_id": 16000009,
@@ -127,17 +138,6 @@
             "battles_remaining": 4,
             "battles_played": 6,
             "wins": 4
-        },
-        {
-            "tag": "#Y99YUJCG",
-            "name": "The Coup",
-            "badge_id": 16000045,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 6,
-            "battles_remaining": 7,
-            "battles_played": 3,
-            "wins": 3
         },
         {
             "tag": "#L0UGVQR2",
