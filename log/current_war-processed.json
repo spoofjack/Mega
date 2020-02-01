@@ -134,10 +134,21 @@
             "badge_id": 16000009,
             "clan_score": 5,
             "participants": 10,
+            "crowns": 6,
+            "battles_remaining": 5,
+            "battles_played": 5,
+            "wins": 3
+        },
+        {
+            "tag": "#L0UGVQR2",
+            "name": "allassac",
+            "badge_id": 16000078,
+            "clan_score": 0,
+            "participants": 10,
             "crowns": 5,
-            "battles_remaining": 6,
-            "battles_played": 4,
-            "wins": 2
+            "battles_remaining": 5,
+            "battles_played": 5,
+            "wins": 1
         },
         {
             "tag": "#PCLY9PRC",
@@ -149,17 +160,6 @@
             "battles_remaining": 6,
             "battles_played": 4,
             "wins": 1
-        },
-        {
-            "tag": "#L0UGVQR2",
-            "name": "allassac",
-            "badge_id": 16000078,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 2,
-            "battles_remaining": 6,
-            "battles_played": 4,
-            "wins": 0
         }
     ],
     "cards": 2815,
