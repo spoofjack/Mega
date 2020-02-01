@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33691,
+    "clan_score": 33702,
     "required_trophies": 2600,
     "donations_per_week": 2644,
     "clan_war_trophies": 0,
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YG8QJR922",
+            "name": "Lil Muck",
+            "exp_level": 6,
+            "trophies": 1821,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200201T112519.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 22,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
@@ -388,7 +405,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T033748.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 20,
             "donations": 74,
             "donations_received": 0,
@@ -405,25 +422,8 @@
             },
             "role": "member",
             "last_seen": "20200126T174118.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 19,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YG8QJR922",
-            "name": "Lil Muck",
-            "exp_level": 6,
-            "trophies": 1733,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "member",
-            "last_seen": "20200201T112519.000Z",
             "clan_rank": 24,
-            "previous_clan_rank": 22,
+            "previous_clan_rank": 19,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
