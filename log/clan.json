@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34760,
+    "clan_score": 34767,
     "required_trophies": 2600,
-    "donations_per_week": 3232,
+    "donations_per_week": 3258,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -149,11 +149,11 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200201T225103.000Z",
+            "last_seen": "20200201T232647.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 307,
-            "donations_received": 270,
+            "donations": 315,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -183,10 +183,10 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200201T185613.000Z",
+            "last_seen": "20200201T232625.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
-            "donations": 86,
+            "donations": 96,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -217,10 +217,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200201T223914.000Z",
+            "last_seen": "20200201T232440.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
-            "donations": 124,
+            "donations": 132,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -228,17 +228,17 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3785,
+            "trophies": 3814,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200201T203948.000Z",
+            "last_seen": "20200201T232022.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 14,
             "donations": 141,
-            "donations_received": 100,
+            "donations_received": 116,
             "clan_chest_points": 0
         },
         {
@@ -268,7 +268,7 @@
                 "name": "Arena 11"
             },
             "role": "elder",
-            "last_seen": "20200201T202636.000Z",
+            "last_seen": "20200201T232548.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 16,
             "donations": 206,
@@ -455,7 +455,7 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200201T223101.000Z",
+            "last_seen": "20200201T232651.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 29,
             "donations": 20,
