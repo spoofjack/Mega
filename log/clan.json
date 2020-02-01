@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33623,
+    "clan_score": 33670,
     "required_trophies": 2600,
-    "donations_per_week": 2624,
+    "donations_per_week": 2644,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,16 +41,16 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 5255,
+            "trophies": 5348,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000016,
+                "name": "Master II"
             },
             "role": "coLeader",
             "last_seen": "20200201T104327.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 226,
+            "donations": 246,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 400,
-            "donations_received": 330,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -289,7 +289,7 @@
             "clan_rank": 16,
             "previous_clan_rank": 14,
             "donations": 126,
-            "donations_received": 450,
+            "donations_received": 460,
             "clan_chest_points": 0
         },
         {
