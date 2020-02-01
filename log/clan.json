@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34546,
+    "clan_score": 34561,
     "required_trophies": 2600,
     "donations_per_week": 2900,
     "clan_war_trophies": 0,
@@ -30,7 +30,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200201T152222.000Z",
+            "last_seen": "20200201T162813.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 290,
@@ -245,13 +245,13 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3562,
+            "trophies": 3622,
             "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
+                "id": 54000011,
+                "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200201T154903.000Z",
+            "last_seen": "20200201T161959.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 105,
