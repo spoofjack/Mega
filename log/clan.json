@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34745,
+    "clan_score": 34786,
     "required_trophies": 2600,
     "donations_per_week": 3122,
     "clan_war_trophies": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "exp_level": 10,
+            "trophies": 4291,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200201T210506.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 0,
+            "donations": 38,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
@@ -167,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T185613.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 86,
             "donations_received": 80,
@@ -184,27 +201,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "exp_level": 10,
-            "trophies": 4202,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200201T210506.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 0,
-            "donations": 38,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -234,7 +234,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200201T201957.000Z",
+            "last_seen": "20200201T212948.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 12,
             "donations": 98,
