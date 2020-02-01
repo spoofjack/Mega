@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34515,
+    "clan_score": 34530,
     "required_trophies": 2600,
-    "donations_per_week": 2858,
+    "donations_per_week": 2897,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 246,
-            "donations_received": 254,
+            "donations_received": 270,
             "clan_chest_points": 0
         },
         {
@@ -135,7 +135,7 @@
             "last_seen": "20200201T153259.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 8,
-            "donations": 36,
+            "donations": 52,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -149,11 +149,11 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200201T150807.000Z",
+            "last_seen": "20200201T154516.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 263,
-            "donations_received": 230,
+            "donations": 271,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 0,
             "donations": 38,
-            "donations_received": 32,
+            "donations_received": 37,
             "clan_chest_points": 0
         },
         {
@@ -245,16 +245,16 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3498,
+            "trophies": 3558,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200201T131355.000Z",
+            "last_seen": "20200201T154903.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
-            "donations": 90,
+            "donations": 105,
             "donations_received": 100,
             "clan_chest_points": 0
         },
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 10,
-            "donations_received": 144,
+            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
