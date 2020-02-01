@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33555,
+    "clan_score": 33628,
     "required_trophies": 2600,
     "donations_per_week": 2556,
     "clan_war_trophies": 0,
@@ -126,7 +126,7 @@
             "tag": "#CC89GPR",
             "name": "unicorn",
             "exp_level": 9,
-            "trophies": 4412,
+            "trophies": 4545,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -364,10 +364,10 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 7,
-            "trophies": 1994,
+            "trophies": 2054,
             "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
+                "id": 54000008,
+                "name": "Arena 7"
             },
             "role": "member",
             "last_seen": "20200201T021855.000Z",
