@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34795,
+    "clan_score": 34794,
     "required_trophies": 2600,
-    "donations_per_week": 3132,
+    "donations_per_week": 3166,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -33,7 +33,7 @@
             "last_seen": "20200201T210558.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 336,
+            "donations": 344,
             "donations_received": 360,
             "clan_chest_points": 0
         },
@@ -166,11 +166,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200201T214014.000Z",
+            "last_seen": "20200201T215552.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 0,
-            "donations": 38,
-            "donations_received": 50,
+            "donations": 46,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -217,10 +217,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200201T185504.000Z",
+            "last_seen": "20200201T215620.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
-            "donations": 106,
+            "donations": 124,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -285,11 +285,11 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200201T214119.000Z",
+            "last_seen": "20200201T215458.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
             "donations": 150,
-            "donations_received": 510,
+            "donations_received": 534,
             "clan_chest_points": 0
         },
         {
@@ -568,13 +568,13 @@
             "tag": "#P0QR989GJ",
             "name": "dear hunter",
             "exp_level": 7,
-            "trophies": 616,
+            "trophies": 604,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200201T213316.000Z",
+            "last_seen": "20200201T215009.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 32,
             "donations": 0,
