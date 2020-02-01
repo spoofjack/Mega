@@ -10,7 +10,7 @@
         "participants": 10,
         "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 5,
+        "battles_played": 6,
         "wins": 3
     },
     "participants": [
@@ -45,15 +45,6 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9JVPPVLPU",
-            "name": "ggfy",
-            "cards_earned": 280,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -103,6 +94,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9JVPPVLPU",
+            "name": "ggfy",
+            "cards_earned": 280,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -113,8 +113,8 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 3,
-            "battles_remaining": 5,
-            "battles_played": 5,
+            "battles_remaining": 4,
+            "battles_played": 6,
             "wins": 1
         },
         {
@@ -135,8 +135,8 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 8,
-            "battles_remaining": 5,
-            "battles_played": 5,
+            "battles_remaining": 4,
+            "battles_played": 6,
             "wins": 3
         },
         {
