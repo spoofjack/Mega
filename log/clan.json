@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34741,
+    "clan_score": 34757,
     "required_trophies": 2600,
-    "donations_per_week": 3030,
+    "donations_per_week": 3050,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4243,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "elder",
+            "last_seen": "20200201T185613.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 10,
+            "donations": 86,
+            "donations_received": 56,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#VLV8U89",
             "name": "fusion",
             "exp_level": 10,
@@ -167,27 +184,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4211,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "elder",
-            "last_seen": "20200201T185613.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 10,
-            "donations": 76,
-            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -220,7 +220,7 @@
             "last_seen": "20200201T185504.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
-            "donations": 96,
+            "donations": 106,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -370,11 +370,11 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200201T184232.000Z",
+            "last_seen": "20200201T191120.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 12,
-            "donations_received": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
