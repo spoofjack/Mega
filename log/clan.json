@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33418,
+    "clan_score": 33424,
     "required_trophies": 2600,
-    "donations_per_week": 2512,
+    "donations_per_week": 2516,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,7 +115,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200201T012518.000Z",
+            "last_seen": "20200201T013333.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 360,
@@ -279,13 +279,13 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 7,
-            "trophies": 3431,
+            "trophies": 3436,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200201T012227.000Z",
+            "last_seen": "20200201T013748.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 12,
             "donations": 116,
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 10,
-            "donations_received": 114,
+            "donations_received": 118,
             "clan_chest_points": 0
         },
         {
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 8,
+            "trophies": 1803,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "elder",
+            "last_seen": "20200201T013547.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 19,
+            "donations": 74,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8G2LCU09G",
             "name": "Feebear2.0",
             "exp_level": 7,
@@ -388,26 +405,9 @@
             },
             "role": "member",
             "last_seen": "20200126T174118.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 18,
             "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "exp_level": 8,
-            "trophies": 1773,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "elder",
-            "last_seen": "20200131T134437.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 19,
-            "donations": 70,
             "donations_received": 0,
             "clan_chest_points": 0
         },
