@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34481,
+    "clan_score": 34498,
     "required_trophies": 2600,
-    "donations_per_week": 2746,
+    "donations_per_week": 2770,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 246,
-            "donations_received": 238,
+            "donations_received": 246,
             "clan_chest_points": 0
         },
         {
@@ -177,17 +177,17 @@
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4156,
+            "trophies": 4176,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200201T142305.000Z",
+            "last_seen": "20200201T145637.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 0,
-            "donations": 20,
-            "donations_received": 0,
+            "donations": 28,
+            "donations_received": 8,
             "clan_chest_points": 0
         },
         {
@@ -305,7 +305,7 @@
             "last_seen": "20200201T144106.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 15,
-            "donations": 134,
+            "donations": 150,
             "donations_received": 510,
             "clan_chest_points": 0
         },
@@ -347,13 +347,13 @@
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "exp_level": 8,
-            "trophies": 2173,
+            "trophies": 2203,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200201T134425.000Z",
+            "last_seen": "20200201T144610.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 10,
@@ -523,11 +523,11 @@
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200201T060550.000Z",
+            "last_seen": "20200201T145031.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 20,
-            "donations_received": 10,
+            "donations_received": 18,
             "clan_chest_points": 0
         },
         {
