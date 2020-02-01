@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34498,
+    "clan_score": 34513,
     "required_trophies": 2600,
-    "donations_per_week": 2780,
+    "donations_per_week": 2832,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,16 +24,16 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 5701,
+            "trophies": 5730,
             "arena": {
                 "id": 54000017,
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200201T022412.000Z",
+            "last_seen": "20200201T152222.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 248,
+            "donations": 290,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 246,
-            "donations_received": 246,
+            "donations_received": 254,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 263,
-            "donations_received": 200,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
@@ -183,11 +183,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200201T150318.000Z",
+            "last_seen": "20200201T151638.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 0,
-            "donations": 28,
-            "donations_received": 16,
+            "donations": 38,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 90,
-            "donations_received": 84,
+            "donations_received": 92,
             "clan_chest_points": 0
         },
         {
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 10,
-            "donations_received": 136,
+            "donations_received": 144,
             "clan_chest_points": 0
         },
         {
