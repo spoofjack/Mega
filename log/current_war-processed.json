@@ -10,7 +10,7 @@
         "participants": 10,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 27,
+        "battles_played": 28,
         "wins": 8
     },
     "participants": [
@@ -62,9 +62,9 @@
         {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 320,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -106,7 +106,7 @@
         }
     ],
     "clans": null,
-    "cards": 2635,
+    "cards": 2715,
     "state_label": "Collection Day",
     "collection_end_time_label": "13 hours",
     "end_label": "1 day, 13 hours"
