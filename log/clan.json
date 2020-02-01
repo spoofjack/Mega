@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34612,
+    "clan_score": 34630,
     "required_trophies": 2600,
-    "donations_per_week": 2910,
+    "donations_per_week": 2921,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,11 +30,11 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200201T164747.000Z",
+            "last_seen": "20200201T171929.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 290,
-            "donations_received": 330,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -200,10 +200,10 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200201T033446.000Z",
+            "last_seen": "20200201T172932.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 10,
-            "donations": 46,
+            "donations": 57,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -245,7 +245,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3712,
+            "trophies": 3741,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 10,
-            "donations_received": 152,
+            "donations_received": 153,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 5,
+            "trophies": 1201,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "member",
+            "last_seen": "20200201T171648.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 29,
+            "donations": 20,
+            "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PC2LYL0RJ",
             "name": "mrcorndog",
             "exp_level": 6,
@@ -456,7 +473,7 @@
             },
             "role": "member",
             "last_seen": "20200131T170521.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 25,
             "donations": 48,
             "donations_received": 100,
@@ -473,7 +490,7 @@
             },
             "role": "member",
             "last_seen": "20200131T210541.000Z",
-            "clan_rank": 27,
+            "clan_rank": 28,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 0,
@@ -490,27 +507,10 @@
             },
             "role": "elder",
             "last_seen": "20200122T162137.000Z",
-            "clan_rank": 28,
+            "clan_rank": 29,
             "previous_clan_rank": 28,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 5,
-            "trophies": 1115,
-            "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
-            },
-            "role": "member",
-            "last_seen": "20200201T171236.000Z",
-            "clan_rank": 29,
-            "previous_clan_rank": 29,
-            "donations": 20,
-            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
