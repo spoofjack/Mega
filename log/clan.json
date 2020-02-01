@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33647,
+    "clan_score": 33622,
     "required_trophies": 2600,
-    "donations_per_week": 2572,
+    "donations_per_week": 2582,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,7 +58,7 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5174,
+            "trophies": 5131,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 400,
-            "donations_received": 300,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -483,7 +483,7 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1107,
+            "trophies": 1076,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
@@ -506,10 +506,10 @@
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200201T035415.000Z",
+            "last_seen": "20200201T044023.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 0,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 8,
             "clan_chest_points": 0
         },
@@ -557,7 +557,7 @@
                 "name": "Arena 2"
             },
             "role": "member",
-            "last_seen": "20200131T131917.000Z",
+            "last_seen": "20200201T044323.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 30,
             "donations": 0,
