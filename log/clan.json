@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34757,
     "required_trophies": 2600,
-    "donations_per_week": 3050,
+    "donations_per_week": 3076,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200201T171929.000Z",
+            "last_seen": "20200201T192736.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 290,
+            "donations": 316,
             "donations_received": 360,
             "clan_chest_points": 0
         },
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 8,
             "donations": 72,
-            "donations_received": 72,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 10,
             "donations": 86,
-            "donations_received": 56,
+            "donations_received": 64,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 12,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {

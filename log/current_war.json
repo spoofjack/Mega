@@ -113,8 +113,8 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 3,
-            "battles_remaining": 6,
-            "battles_played": 4,
+            "battles_remaining": 5,
+            "battles_played": 5,
             "wins": 1
         },
         {
@@ -145,10 +145,10 @@
             "badge_id": 16000009,
             "clan_score": 5,
             "participants": 10,
-            "crowns": 6,
-            "battles_remaining": 5,
-            "battles_played": 5,
-            "wins": 3
+            "crowns": 7,
+            "battles_remaining": 4,
+            "battles_played": 6,
+            "wins": 4
         },
         {
             "tag": "#L0UGVQR2",

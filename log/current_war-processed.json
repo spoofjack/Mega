@@ -107,6 +107,17 @@
     ],
     "clans": [
         {
+            "tag": "#YUVUQYV0",
+            "name": "el horno",
+            "badge_id": 16000009,
+            "clan_score": 5,
+            "participants": 10,
+            "crowns": 7,
+            "battles_remaining": 4,
+            "battles_played": 6,
+            "wins": 4
+        },
+        {
             "tag": "#YQQUGLU8",
             "name": "Mega PP gang",
             "badge_id": 16000107,
@@ -129,17 +140,6 @@
             "wins": 3
         },
         {
-            "tag": "#YUVUQYV0",
-            "name": "el horno",
-            "badge_id": 16000009,
-            "clan_score": 5,
-            "participants": 10,
-            "crowns": 6,
-            "battles_remaining": 5,
-            "battles_played": 5,
-            "wins": 3
-        },
-        {
             "tag": "#L0UGVQR2",
             "name": "allassac",
             "badge_id": 16000078,
@@ -157,13 +157,13 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 3,
-            "battles_remaining": 6,
-            "battles_played": 4,
+            "battles_remaining": 5,
+            "battles_played": 5,
             "wins": 1
         }
     ],
     "cards": 2815,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "22 hours"
+    "end_label": "21 hours"
 }
