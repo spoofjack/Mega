@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34424,
+    "clan_score": 34431,
     "required_trophies": 2600,
-    "donations_per_week": 3732,
+    "donations_per_week": 3762,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -75,7 +75,7 @@
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
-            "trophies": 4940,
+            "trophies": 4948,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -149,10 +149,10 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200202T154844.000Z",
+            "last_seen": "20200202T160926.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
-            "donations": 363,
+            "donations": 373,
             "donations_received": 310,
             "clan_chest_points": 0
         },
@@ -169,7 +169,7 @@
             "last_seen": "20200202T152138.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 86,
+            "donations": 96,
             "donations_received": 100,
             "clan_chest_points": 0
         },
@@ -220,7 +220,7 @@
             "last_seen": "20200202T154003.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 12,
-            "donations": 180,
+            "donations": 190,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 170,
-            "donations_received": 590,
+            "donations_received": 620,
             "clan_chest_points": 0
         },
         {
@@ -585,7 +585,7 @@
             "tag": "#YR29PV082",
             "name": "witte",
             "exp_level": 4,
-            "trophies": 196,
+            "trophies": 226,
             "arena": {
                 "id": 54000001,
                 "name": "Arena 1"
