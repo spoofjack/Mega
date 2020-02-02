@@ -7,13 +7,22 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 55,
-        "participants": 7,
+        "participants": 8,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 19,
-        "wins": 13
+        "battles_played": 21,
+        "wins": 15
     },
     "participants": [
+        {
+            "tag": "#2VYL2GP9R",
+            "name": "Squirrel",
+            "cards_earned": 340,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
+            "number_of_battles": 3
+        },
         {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
