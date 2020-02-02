@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34288,
+    "clan_score": 34304,
     "required_trophies": 2600,
-    "donations_per_week": 3266,
+    "donations_per_week": 3274,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "exp_level": 10,
+            "trophies": 4815,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200202T003055.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 383,
+            "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
@@ -99,27 +116,10 @@
             },
             "role": "leader",
             "last_seen": "20200131T163029.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 0,
             "donations_received": 10,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "exp_level": 10,
-            "trophies": 4785,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200201T181316.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 375,
-            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200201T235435.000Z",
+            "last_seen": "20200202T003747.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 315,
@@ -228,17 +228,17 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3873,
+            "trophies": 3878,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200201T232022.000Z",
+            "last_seen": "20200202T003349.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 14,
             "donations": 141,
-            "donations_received": 124,
+            "donations_received": 132,
             "clan_chest_points": 0
         },
         {
