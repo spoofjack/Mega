@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35955,
+    "clan_score": 35971,
     "required_trophies": 2600,
-    "donations_per_week": 4036,
+    "donations_per_week": 4048,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 172,
-            "donations_received": 120,
+            "donations_received": 132,
             "clan_chest_points": 0
         },
         {
@@ -296,16 +296,16 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
-            "trophies": 3499,
+            "trophies": 3528,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200202T215841.000Z",
+            "last_seen": "20200202T223759.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 15,
-            "donations": 178,
+            "donations": 186,
             "donations_received": 630,
             "clan_chest_points": 0
         },
@@ -330,7 +330,7 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3157,
+            "trophies": 3133,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
@@ -415,7 +415,7 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
-            "trophies": 1822,
+            "trophies": 1940,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
@@ -424,7 +424,7 @@
             "last_seen": "20200202T222211.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 25,
-            "donations": 32,
+            "donations": 36,
             "donations_received": 60,
             "clan_chest_points": 0
         },
