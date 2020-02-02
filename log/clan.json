@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35207,
+    "clan_score": 35215,
     "required_trophies": 2600,
     "donations_per_week": 3962,
     "clan_war_trophies": 55,
@@ -30,7 +30,7 @@
                 "name": "Master III"
             },
             "role": "coLeader",
-            "last_seen": "20200202T141600.000Z",
+            "last_seen": "20200202T194108.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 420,
@@ -64,7 +64,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200202T191659.000Z",
+            "last_seen": "20200202T193144.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 542,
@@ -149,7 +149,7 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200202T181752.000Z",
+            "last_seen": "20200202T194214.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 401,
@@ -347,13 +347,13 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 7,
-            "trophies": 2274,
+            "trophies": 2306,
             "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
+                "id": 54000009,
+                "name": "Arena 8"
             },
             "role": "member",
-            "last_seen": "20200202T183954.000Z",
+            "last_seen": "20200202T193813.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 21,
             "donations": 70,
