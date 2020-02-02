@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35177,
+    "clan_score": 35191,
     "required_trophies": 2600,
     "donations_per_week": 3962,
     "clan_war_trophies": 55,
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200202T183424.000Z",
+            "last_seen": "20200202T185942.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 144,
@@ -234,7 +234,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200202T183623.000Z",
+            "last_seen": "20200202T184811.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 12,
             "donations": 208,
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9VL202PRQ",
+            "name": "Yn4",
+            "exp_level": 7,
+            "trophies": 2203,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "member",
+            "last_seen": "20200202T183954.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 21,
+            "donations": 70,
+            "donations_received": 70,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "exp_level": 8,
@@ -371,27 +388,10 @@
             },
             "role": "member",
             "last_seen": "20200202T172342.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 28,
             "donations_received": 30,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9VL202PRQ",
-            "name": "Yn4",
-            "exp_level": 7,
-            "trophies": 2089,
-            "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
-            },
-            "role": "member",
-            "last_seen": "20200202T183954.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 21,
-            "donations": 70,
-            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
