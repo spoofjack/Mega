@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34383,
+    "clan_score": 34424,
     "required_trophies": 2600,
-    "donations_per_week": 3722,
+    "donations_per_week": 3732,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -75,16 +75,16 @@
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
-            "trophies": 4850,
+            "trophies": 4940,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200202T144455.000Z",
+            "last_seen": "20200202T154735.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 10,
+            "donations": 20,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -149,7 +149,7 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200202T154220.000Z",
+            "last_seen": "20200202T154844.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 363,
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 86,
-            "donations_received": 90,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
@@ -228,7 +228,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3871,
+            "trophies": 3847,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -261,14 +261,14 @@
         {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
-            "exp_level": 7,
+            "exp_level": 8,
             "trophies": 3499,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200202T051434.000Z",
+            "last_seen": "20200202T155532.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 170,
@@ -584,14 +584,14 @@
         {
             "tag": "#YR29PV082",
             "name": "witte",
-            "exp_level": 3,
-            "trophies": 173,
+            "exp_level": 4,
+            "trophies": 196,
             "arena": {
                 "id": 54000001,
                 "name": "Arena 1"
             },
             "role": "member",
-            "last_seen": "20200202T011104.000Z",
+            "last_seen": "20200202T155244.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 0,
