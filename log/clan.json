@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34335,
+    "clan_score": 34342,
     "required_trophies": 2600,
     "donations_per_week": 3322,
     "clan_war_trophies": 0,
@@ -432,10 +432,10 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 1555,
+            "trophies": 1615,
             "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
+                "id": 54000006,
+                "name": "Arena 6"
             },
             "role": "member",
             "last_seen": "20200202T041128.000Z",
