@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34349,
     "required_trophies": 2600,
-    "donations_per_week": 3342,
+    "donations_per_week": 3372,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20200131T163029.000Z",
+            "last_seen": "20200202T123441.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 5,
-            "donations": 0,
+            "donations": 30,
             "donations_received": 10,
             "clan_chest_points": 0
         },
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 142,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 16,
             "donations": 170,
-            "donations_received": 550,
+            "donations_received": 560,
             "clan_chest_points": 0
         },
         {
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 28,
             "donations": 0,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
