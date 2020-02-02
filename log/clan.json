@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34347,
     "required_trophies": 2600,
-    "donations_per_week": 3322,
+    "donations_per_week": 3342,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 142,
-            "donations_received": 140,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -271,7 +271,7 @@
             "last_seen": "20200202T051434.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 16,
-            "donations": 150,
+            "donations": 170,
             "donations_received": 550,
             "clan_chest_points": 0
         },
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 28,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
