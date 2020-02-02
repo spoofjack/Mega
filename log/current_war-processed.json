@@ -157,13 +157,13 @@
             "clan_score": 0,
             "participants": 10,
             "crowns": 3,
-            "battles_remaining": 4,
-            "battles_played": 6,
+            "battles_remaining": 3,
+            "battles_played": 7,
             "wins": 1
         }
     ],
     "cards": 2815,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "11 hours"
+    "end_label": "10 hours"
 }
