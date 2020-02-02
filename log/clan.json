@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34376,
     "required_trophies": 2600,
-    "donations_per_week": 3682,
+    "donations_per_week": 3712,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 420,
-            "donations_received": 390,
+            "donations_received": 400,
             "clan_chest_points": 0
         },
         {
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 10,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 353,
-            "donations_received": 300,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -166,10 +166,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200201T215552.000Z",
+            "last_seen": "20200202T152138.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 56,
+            "donations": 86,
             "donations_received": 80,
             "clan_chest_points": 0
         },
