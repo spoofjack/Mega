@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34313,
+    "clan_score": 34325,
     "required_trophies": 2600,
     "donations_per_week": 3274,
     "clan_war_trophies": 0,
@@ -143,7 +143,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4469,
+            "trophies": 4497,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -183,7 +183,7 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200201T232625.000Z",
+            "last_seen": "20200202T011324.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 96,
@@ -268,7 +268,7 @@
                 "name": "Arena 11"
             },
             "role": "coLeader",
-            "last_seen": "20200201T222011.000Z",
+            "last_seen": "20200202T010626.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 150,
@@ -353,7 +353,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200201T221315.000Z",
+            "last_seen": "20200202T010924.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 20,
             "donations": 28,
@@ -432,13 +432,13 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 1456,
+            "trophies": 1435,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200202T005736.000Z",
+            "last_seen": "20200202T010244.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 29,
             "donations": 20,
@@ -591,7 +591,7 @@
                 "name": "Arena 1"
             },
             "role": "member",
-            "last_seen": "20200201T233036.000Z",
+            "last_seen": "20200202T011104.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 0,
             "donations": 0,
