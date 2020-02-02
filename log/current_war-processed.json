@@ -140,6 +140,17 @@
             "wins": 5
         },
         {
+            "tag": "#L0UGVQR2",
+            "name": "allassac",
+            "badge_id": 16000078,
+            "clan_score": 0,
+            "participants": 10,
+            "crowns": 8,
+            "battles_remaining": 1,
+            "battles_played": 9,
+            "wins": 3
+        },
+        {
             "tag": "#PCLY9PRC",
             "name": "Edem",
             "badge_id": 16000101,
@@ -149,21 +160,10 @@
             "battles_remaining": 1,
             "battles_played": 9,
             "wins": 3
-        },
-        {
-            "tag": "#L0UGVQR2",
-            "name": "allassac",
-            "badge_id": 16000078,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 7,
-            "battles_remaining": 2,
-            "battles_played": 8,
-            "wins": 2
         }
     ],
     "cards": 2815,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "3 hours"
+    "end_label": "2 hours"
 }
