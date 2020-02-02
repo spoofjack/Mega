@@ -1,165 +1,46 @@
 {
-    "state": "warDay",
-    "war_end_time": "20200202T171527.342Z",
-    "collection_end_time": null,
+    "state": "collectionDay",
+    "war_end_time": null,
+    "collection_end_time": "20200203T172008.183Z",
     "clan": {
         "tag": "#YQQUGLU8",
         "name": "Mega PP gang",
         "badge_id": 16000107,
-        "clan_score": 0,
-        "participants": 10,
-        "crowns": 12,
+        "clan_score": 55,
+        "participants": 3,
+        "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 8,
-        "wins": 5
+        "battles_played": 4,
+        "wins": 2
     },
     "participants": [
         {
-            "tag": "#2VYL2GP9R",
-            "name": "Squirrel",
-            "cards_earned": 255,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9JVPPVLPU",
-            "name": "ggfy",
-            "cards_earned": 280,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "cards_earned": 400,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 200,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 210,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
-            "cards_earned": 320,
+            "cards_earned": 80,
             "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 1,
             "wins": 0,
-            "number_of_battles": 1
+            "number_of_battles": 3
         },
         {
-            "tag": "#902PYQUV9",
-            "name": "tjz043411",
-            "cards_earned": 300,
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "cards_earned": 160,
             "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 1,
             "wins": 1,
-            "number_of_battles": 1
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "cards_earned": 135,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
         }
     ],
-    "clans": [
-        {
-            "tag": "#PCLY9PRC",
-            "name": "Edem",
-            "badge_id": 16000101,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 7,
-            "battles_remaining": 1,
-            "battles_played": 9,
-            "wins": 3
-        },
-        {
-            "tag": "#Y99YUJCG",
-            "name": "The Coup",
-            "badge_id": 16000045,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 16,
-            "battles_remaining": 2,
-            "battles_played": 8,
-            "wins": 7
-        },
-        {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 12,
-            "battles_remaining": 2,
-            "battles_played": 8,
-            "wins": 5
-        },
-        {
-            "tag": "#YUVUQYV0",
-            "name": "el horno",
-            "badge_id": 16000009,
-            "clan_score": 5,
-            "participants": 10,
-            "crowns": 8,
-            "battles_remaining": 2,
-            "battles_played": 8,
-            "wins": 5
-        },
-        {
-            "tag": "#L0UGVQR2",
-            "name": "allassac",
-            "badge_id": 16000078,
-            "clan_score": 0,
-            "participants": 10,
-            "crowns": 8,
-            "battles_remaining": 1,
-            "battles_played": 9,
-            "wins": 3
-        }
-    ]
+    "clans": null
 }
