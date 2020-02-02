@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35176,
+    "clan_score": 35177,
     "required_trophies": 2600,
-    "donations_per_week": 3942,
+    "donations_per_week": 3962,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -149,7 +149,7 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200202T165135.000Z",
+            "last_seen": "20200202T175856.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 401,
@@ -166,10 +166,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200202T172022.000Z",
+            "last_seen": "20200202T175930.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 134,
+            "donations": 144,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -251,10 +251,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200202T153411.000Z",
+            "last_seen": "20200202T174838.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 13,
-            "donations": 179,
+            "donations": 189,
             "donations_received": 180,
             "clan_chest_points": 0
         },
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 16,
-            "donations_received": 194,
+            "donations_received": 214,
             "clan_chest_points": 0
         },
         {
@@ -449,13 +449,13 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 1783,
+            "trophies": 1790,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200202T172408.000Z",
+            "last_seen": "20200202T174503.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 22,
