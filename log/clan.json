@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34431,
+    "clan_score": 34420,
     "required_trophies": 2600,
-    "donations_per_week": 3762,
+    "donations_per_week": 3840,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -92,17 +92,17 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4824,
+            "trophies": 4804,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200202T145458.000Z",
+            "last_seen": "20200202T163041.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 383,
-            "donations_received": 200,
+            "donations": 403,
+            "donations_received": 238,
             "clan_chest_points": 0
         },
         {
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20200202T123441.000Z",
+            "last_seen": "20200202T164323.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
-            "donations": 30,
+            "donations": 38,
             "donations_received": 50,
             "clan_chest_points": 0
         },
@@ -152,7 +152,7 @@
             "last_seen": "20200202T162347.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
-            "donations": 373,
+            "donations": 391,
             "donations_received": 310,
             "clan_chest_points": 0
         },
@@ -169,8 +169,8 @@
             "last_seen": "20200202T152138.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 96,
-            "donations_received": 100,
+            "donations": 114,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -183,7 +183,7 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200202T132959.000Z",
+            "last_seen": "20200202T164254.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 166,
@@ -220,7 +220,7 @@
             "last_seen": "20200202T154003.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 12,
-            "donations": 190,
+            "donations": 198,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 15,
             "donations": 170,
-            "donations_received": 620,
+            "donations_received": 630,
             "clan_chest_points": 0
         },
         {
@@ -370,11 +370,11 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200202T044503.000Z",
+            "last_seen": "20200202T163737.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 21,
-            "donations": 64,
-            "donations_received": 40,
+            "donations": 70,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
@@ -438,7 +438,7 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200202T043939.000Z",
+            "last_seen": "20200202T164340.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 25,
             "donations": 20,
@@ -585,13 +585,13 @@
             "tag": "#YR29PV082",
             "name": "witte",
             "exp_level": 4,
-            "trophies": 226,
+            "trophies": 218,
             "arena": {
                 "id": 54000001,
                 "name": "Arena 1"
             },
             "role": "member",
-            "last_seen": "20200202T155244.000Z",
+            "last_seen": "20200202T163856.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 0,
