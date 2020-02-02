@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34304,
+    "clan_score": 34313,
     "required_trophies": 2600,
     "donations_per_week": 3274,
     "clan_war_trophies": 0,
@@ -92,13 +92,13 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4815,
+            "trophies": 4844,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200202T003055.000Z",
+            "last_seen": "20200202T005333.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 383,
@@ -228,7 +228,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3878,
+            "trophies": 3853,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -438,7 +438,7 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200201T232651.000Z",
+            "last_seen": "20200202T005736.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 29,
             "donations": 20,
