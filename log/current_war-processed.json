@@ -15,20 +15,20 @@
     },
     "participants": [
         {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "cards_earned": 255,
             "battles_played": 0,
             "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYJQG098Q",
+            "name": "viper325",
+            "cards_earned": 100,
+            "battles_played": 0,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -156,10 +156,10 @@
             "badge_id": 16000078,
             "clan_score": 0,
             "participants": 10,
-            "crowns": 6,
-            "battles_remaining": 3,
-            "battles_played": 7,
-            "wins": 1
+            "crowns": 7,
+            "battles_remaining": 2,
+            "battles_played": 8,
+            "wins": 2
         }
     ],
     "cards": 2815,
