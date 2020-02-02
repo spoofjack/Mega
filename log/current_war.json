@@ -42,45 +42,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#902PYQUV9",
-            "name": "tjz043411",
-            "cards_earned": 300,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 320,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 210,
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -96,9 +60,45 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "cards_earned": 400,
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 210,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#902PYQUV9",
+            "name": "tjz043411",
+            "cards_earned": 300,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -123,10 +123,10 @@
             "badge_id": 16000045,
             "clan_score": 0,
             "participants": 10,
-            "crowns": 11,
-            "battles_remaining": 5,
-            "battles_played": 5,
-            "wins": 5
+            "crowns": 12,
+            "battles_remaining": 4,
+            "battles_played": 6,
+            "wins": 6
         },
         {
             "tag": "#YQQUGLU8",
