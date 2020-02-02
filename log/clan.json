@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36009,
+    "clan_score": 36017,
     "required_trophies": 2600,
     "donations_per_week": 4158,
     "clan_war_trophies": 55,
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200202T232950.000Z",
+            "last_seen": "20200202T233230.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 192,
@@ -200,7 +200,7 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200202T172511.000Z",
+            "last_seen": "20200202T233233.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 176,
@@ -228,13 +228,13 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4106,
+            "trophies": 4123,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200202T230820.000Z",
+            "last_seen": "20200202T233535.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -378,6 +378,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 6,
+            "trophies": 2209,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "member",
+            "last_seen": "20200202T232926.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 25,
+            "donations": 66,
+            "donations_received": 60,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "exp_level": 8,
@@ -388,27 +405,10 @@
             },
             "role": "member",
             "last_seen": "20200202T232458.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 19,
             "donations": 16,
             "donations_received": 214,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 6,
-            "trophies": 2179,
-            "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
-            },
-            "role": "member",
-            "last_seen": "20200202T232926.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 25,
-            "donations": 66,
-            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
