@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34325,
+    "clan_score": 34329,
     "required_trophies": 2600,
-    "donations_per_week": 3302,
+    "donations_per_week": 3322,
     "clan_war_trophies": 0,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -186,7 +186,7 @@
             "last_seen": "20200202T021648.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
-            "donations": 106,
+            "donations": 116,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -217,10 +217,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200202T021645.000Z",
+            "last_seen": "20200202T024054.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
-            "donations": 132,
+            "donations": 142,
             "donations_received": 140,
             "clan_chest_points": 0
         },
@@ -432,17 +432,17 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 5,
-            "trophies": 1462,
+            "trophies": 1499,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200202T020556.000Z",
+            "last_seen": "20200202T024432.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 29,
             "donations": 20,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
