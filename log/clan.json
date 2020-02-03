@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34147,
     "required_trophies": 2600,
-    "donations_per_week": 518,
+    "donations_per_week": 524,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -404,11 +404,11 @@
                 "name": "Arena 8"
             },
             "role": "member",
-            "last_seen": "20200203T055926.000Z",
+            "last_seen": "20200203T181800.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 6,
             "clan_chest_points": 0
         },
         {
@@ -441,7 +441,7 @@
             "last_seen": "20200203T175934.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 25,
-            "donations": 0,
+            "donations": 6,
             "donations_received": 0,
             "clan_chest_points": 0
         },

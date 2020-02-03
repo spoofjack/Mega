@@ -8,12 +8,21 @@
         "badge_id": 16000107,
         "clan_score": 55,
         "participants": 12,
-        "crowns": 4,
+        "crowns": 5,
         "battles_remaining": null,
-        "battles_played": 2,
+        "battles_played": 3,
         "wins": 1
     },
     "participants": [
+        {
+            "tag": "#PYJQG098Q",
+            "name": "viper325",
+            "cards_earned": 100,
+            "battles_played": 0,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
         {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
@@ -31,15 +40,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#2VYL2GP9R",
@@ -60,17 +60,26 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "cards_earned": 225,
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 0,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
             "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -87,19 +96,10 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "cards_earned": 480,
-            "battles_played": 0,
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "cards_earned": 225,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -141,7 +141,18 @@
             "badge_id": 16000107,
             "clan_score": 55,
             "participants": 12,
-            "crowns": 4,
+            "crowns": 5,
+            "battles_remaining": 9,
+            "battles_played": 3,
+            "wins": 1
+        },
+        {
+            "tag": "#PCQQ9PGG",
+            "name": "Doramions",
+            "badge_id": 16000146,
+            "clan_score": 429,
+            "participants": 12,
+            "crowns": 2,
             "battles_remaining": 10,
             "battles_played": 2,
             "wins": 1
@@ -155,17 +166,6 @@
             "crowns": 1,
             "battles_remaining": 12,
             "battles_played": 2,
-            "wins": 0
-        },
-        {
-            "tag": "#PCQQ9PGG",
-            "name": "Doramions",
-            "badge_id": 16000146,
-            "clan_score": 429,
-            "participants": 12,
-            "crowns": 0,
-            "battles_remaining": 11,
-            "battles_played": 1,
             "wins": 0
         },
         {
@@ -183,5 +183,5 @@
     "cards": 3685,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
