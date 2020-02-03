@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33615,
+    "clan_score": 33747,
     "required_trophies": 2600,
-    "donations_per_week": 368,
+    "donations_per_week": 378,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200203T122914.000Z",
+            "last_seen": "20200203T131314.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 10,
+            "trophies": 4264,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "coLeader",
+            "last_seen": "20200203T131433.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 8,
+            "donations": 30,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
@@ -116,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20200203T122117.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 10,
             "donations": 8,
             "donations_received": 0,
@@ -133,7 +150,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
@@ -150,7 +167,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 11,
             "donations": 0,
             "donations_received": 0,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200203T011533.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
@@ -184,7 +201,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200202T221732.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 2,
             "donations": 0,
             "donations_received": 0,
@@ -201,27 +218,10 @@
             },
             "role": "member",
             "last_seen": "20200203T060001.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 10,
-            "trophies": 4001,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "coLeader",
-            "last_seen": "20200203T023523.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 8,
-            "donations": 30,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -319,7 +319,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T120433.000Z",
+            "last_seen": "20200203T131445.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 15,
             "donations": 16,
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 25,
             "donations": 16,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
