@@ -125,6 +125,17 @@
     ],
     "clans": [
         {
+            "tag": "#YULCR8VY",
+            "name": "los carantiguas",
+            "badge_id": 16000172,
+            "clan_score": 441,
+            "participants": 13,
+            "crowns": 7,
+            "battles_remaining": 6,
+            "battles_played": 7,
+            "wins": 5
+        },
+        {
             "tag": "#PCQQ9PGG",
             "name": "Doramions",
             "badge_id": 16000146,
@@ -133,17 +144,6 @@
             "crowns": 7,
             "battles_remaining": 3,
             "battles_played": 9,
-            "wins": 4
-        },
-        {
-            "tag": "#YULCR8VY",
-            "name": "los carantiguas",
-            "badge_id": 16000172,
-            "clan_score": 441,
-            "participants": 13,
-            "crowns": 4,
-            "battles_remaining": 7,
-            "battles_played": 6,
             "wins": 4
         },
         {
