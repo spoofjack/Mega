@@ -24,6 +24,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 300,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "cards_earned": 100,
@@ -49,15 +58,6 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 300,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#2VYL2GP9R",
@@ -96,6 +96,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "cards_earned": 250,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "cards_earned": 225,
@@ -112,15 +121,6 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 250,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -136,6 +136,17 @@
             "wins": 4
         },
         {
+            "tag": "#YULCR8VY",
+            "name": "los carantiguas",
+            "badge_id": 16000172,
+            "clan_score": 441,
+            "participants": 13,
+            "crowns": 4,
+            "battles_remaining": 7,
+            "battles_played": 6,
+            "wins": 4
+        },
+        {
             "tag": "#YQQUGLU8",
             "name": "Mega PP gang",
             "badge_id": 16000107,
@@ -144,17 +155,6 @@
             "crowns": 9,
             "battles_remaining": 5,
             "battles_played": 7,
-            "wins": 3
-        },
-        {
-            "tag": "#YULCR8VY",
-            "name": "los carantiguas",
-            "badge_id": 16000172,
-            "clan_score": 441,
-            "participants": 13,
-            "crowns": 3,
-            "battles_remaining": 8,
-            "battles_played": 5,
             "wins": 3
         },
         {
