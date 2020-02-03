@@ -10,7 +10,7 @@
         "participants": 12,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 30,
+        "battles_played": 31,
         "wins": 20
     },
     "participants": [
@@ -53,9 +53,9 @@
         {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
-            "cards_earned": 340,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
+            "cards_earned": 420,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 3
         },
