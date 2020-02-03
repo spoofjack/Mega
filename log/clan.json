@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36174,
+    "clan_score": 36170,
     "required_trophies": 2600,
     "donations_per_week": 108,
     "clan_war_trophies": 55,
@@ -58,7 +58,7 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5050,
+            "trophies": 5044,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -98,7 +98,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200203T003634.000Z",
+            "last_seen": "20200203T033908.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 8,
@@ -364,7 +364,7 @@
             "tag": "#9VL202PRQ",
             "name": "Yn4",
             "exp_level": 7,
-            "trophies": 2366,
+            "trophies": 2352,
             "arena": {
                 "id": 54000009,
                 "name": "Arena 8"
@@ -421,7 +421,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200203T025359.000Z",
+            "last_seen": "20200203T033249.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 20,
             "donations": 0,
