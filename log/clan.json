@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36170,
+    "clan_score": 36166,
     "required_trophies": 2600,
-    "donations_per_week": 98,
+    "donations_per_week": 108,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "leader",
-            "last_seen": "20200202T213916.000Z",
+            "last_seen": "20200203T030914.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 12,
             "donations": 10,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -296,13 +296,13 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
-            "trophies": 3660,
+            "trophies": 3645,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T025030.000Z",
+            "last_seen": "20200203T030802.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 0,
