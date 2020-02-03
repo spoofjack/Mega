@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34274,
+    "clan_score": 34328,
     "required_trophies": 2600,
-    "donations_per_week": 863,
+    "donations_per_week": 903,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,10 +115,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200203T223045.000Z",
+            "last_seen": "20200203T225918.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 0,
-            "donations": 69,
+            "donations": 79,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#VLV8U89",
+            "name": "fusion",
+            "exp_level": 10,
+            "trophies": 4109,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "coLeader",
+            "last_seen": "20200203T224619.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 12,
+            "donations": 10,
+            "donations_received": 20,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PGJU89CQL",
             "name": "Jar432",
             "exp_level": 9,
@@ -167,7 +184,7 @@
             },
             "role": "member",
             "last_seen": "20200203T220705.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 40,
@@ -184,25 +201,8 @@
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 7,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#VLV8U89",
-            "name": "fusion",
-            "exp_level": 10,
-            "trophies": 4001,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "coLeader",
-            "last_seen": "20200124T025820.000Z",
             "clan_rank": 11,
-            "previous_clan_rank": 12,
+            "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -288,7 +288,7 @@
             "last_seen": "20200203T224302.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
-            "donations": 110,
+            "donations": 120,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 29,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -387,10 +387,10 @@
                 "name": "Arena 8"
             },
             "role": "member",
-            "last_seen": "20200203T220227.000Z",
+            "last_seen": "20200203T225852.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 21,
-            "donations": 36,
+            "donations": 46,
             "donations_received": 90,
             "clan_chest_points": 0
         },
