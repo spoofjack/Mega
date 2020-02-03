@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34196,
+    "clan_score": 34238,
     "required_trophies": 2600,
     "donations_per_week": 708,
     "clan_war_trophies": 55,
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PGJU89CQL",
+            "name": "Jar432",
+            "exp_level": 9,
+            "trophies": 4077,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200203T212733.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CC89GPR",
             "name": "unicorn",
             "exp_level": 9,
@@ -167,7 +184,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
@@ -184,7 +201,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 12,
             "donations": 0,
             "donations_received": 0,
@@ -201,27 +218,10 @@
             },
             "role": "member",
             "last_seen": "20200203T011533.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 13,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PGJU89CQL",
-            "name": "Jar432",
-            "exp_level": 9,
-            "trophies": 4001,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200203T060001.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -381,7 +381,7 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
-            "trophies": 2423,
+            "trophies": 2455,
             "arena": {
                 "id": 54000009,
                 "name": "Arena 8"
@@ -455,7 +455,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200203T204534.000Z",
+            "last_seen": "20200203T212751.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 24,
             "donations": 10,
