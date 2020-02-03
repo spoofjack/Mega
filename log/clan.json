@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33593,
+    "clan_score": 33613,
     "required_trophies": 2600,
     "donations_per_week": 438,
     "clan_war_trophies": 55,
@@ -123,23 +123,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 10,
-            "trophies": 4002,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200203T131614.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 30,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#CC89GPR",
             "name": "unicorn",
             "exp_level": 9,
@@ -150,7 +133,7 @@
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
-            "clan_rank": 8,
+            "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
@@ -167,7 +150,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200124T025820.000Z",
-            "clan_rank": 9,
+            "clan_rank": 8,
             "previous_clan_rank": 12,
             "donations": 0,
             "donations_received": 0,
@@ -184,7 +167,7 @@
             },
             "role": "member",
             "last_seen": "20200203T011533.000Z",
-            "clan_rank": 10,
+            "clan_rank": 9,
             "previous_clan_rank": 13,
             "donations": 0,
             "donations_received": 0,
@@ -201,7 +184,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200202T221732.000Z",
-            "clan_rank": 11,
+            "clan_rank": 10,
             "previous_clan_rank": 2,
             "donations": 0,
             "donations_received": 0,
@@ -218,10 +201,27 @@
             },
             "role": "member",
             "last_seen": "20200203T060001.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 10,
+            "trophies": 4001,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200203T131614.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -446,6 +446,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 8,
+            "trophies": 1857,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "elder",
+            "last_seen": "20200203T141931.000Z",
+            "clan_rank": 26,
+            "previous_clan_rank": 25,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
             "exp_level": 6,
@@ -456,7 +473,7 @@
             },
             "role": "member",
             "last_seen": "20200201T220934.000Z",
-            "clan_rank": 26,
+            "clan_rank": 27,
             "previous_clan_rank": 26,
             "donations": 0,
             "donations_received": 0,
@@ -473,25 +490,8 @@
             },
             "role": "member",
             "last_seen": "20200202T231331.000Z",
-            "clan_rank": 27,
-            "previous_clan_rank": 27,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "exp_level": 8,
-            "trophies": 1769,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "elder",
-            "last_seen": "20200203T141013.000Z",
             "clan_rank": 28,
-            "previous_clan_rank": 25,
+            "previous_clan_rank": 27,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -500,13 +500,13 @@
             "tag": "#PLLU8LRV9",
             "name": "SP3C_Luckzy01",
             "exp_level": 6,
-            "trophies": 1235,
+            "trophies": 1328,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
             },
             "role": "elder",
-            "last_seen": "20200203T141455.000Z",
+            "last_seen": "20200203T142728.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 30,
             "donations": 0,
