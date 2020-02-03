@@ -105,21 +105,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "cards_earned": 225,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "cards_earned": 320,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "cards_earned": 225,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         }
     ],
@@ -164,8 +164,8 @@
             "clan_score": 337,
             "participants": 12,
             "crowns": 6,
-            "battles_remaining": 5,
-            "battles_played": 7,
+            "battles_remaining": 4,
+            "battles_played": 8,
             "wins": 2
         },
         {
@@ -174,10 +174,10 @@
             "badge_id": 16000016,
             "clan_score": 84,
             "participants": 14,
-            "crowns": 1,
-            "battles_remaining": 12,
-            "battles_played": 2,
-            "wins": 0
+            "crowns": 3,
+            "battles_remaining": 11,
+            "battles_played": 3,
+            "wins": 1
         }
     ],
     "cards": 3685,
