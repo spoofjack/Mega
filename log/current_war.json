@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 55,
         "participants": 12,
-        "crowns": 5,
+        "crowns": 7,
         "battles_remaining": null,
-        "battles_played": 3,
-        "wins": 1
+        "battles_played": 5,
+        "wins": 2
     },
     "participants": [
         {
@@ -60,24 +60,6 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "cards_earned": 300,
@@ -87,8 +69,8 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
             "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
@@ -121,6 +103,24 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -130,10 +130,10 @@
             "badge_id": 16000146,
             "clan_score": 429,
             "participants": 12,
-            "crowns": 2,
-            "battles_remaining": 10,
-            "battles_played": 2,
-            "wins": 1
+            "crowns": 4,
+            "battles_remaining": 7,
+            "battles_played": 5,
+            "wins": 2
         },
         {
             "tag": "#YQQUGLU8",
@@ -141,10 +141,10 @@
             "badge_id": 16000107,
             "clan_score": 55,
             "participants": 12,
-            "crowns": 5,
-            "battles_remaining": 9,
-            "battles_played": 3,
-            "wins": 1
+            "crowns": 7,
+            "battles_remaining": 7,
+            "battles_played": 5,
+            "wins": 2
         },
         {
             "tag": "#P0UYPVRL",

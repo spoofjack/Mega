@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34147,
+    "clan_score": 34149,
     "required_trophies": 2600,
-    "donations_per_week": 524,
+    "donations_per_week": 556,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -92,17 +92,17 @@
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
-            "trophies": 4377,
+            "trophies": 4381,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200203T171653.000Z",
+            "last_seen": "20200203T190134.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
-            "donations": 80,
-            "donations_received": 40,
+            "donations": 96,
+            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
@@ -115,11 +115,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T172719.000Z",
+            "last_seen": "20200203T190205.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 9,
-            "donations": 78,
-            "donations_received": 48,
+            "donations": 94,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200203T122117.000Z",
+            "last_seen": "20200203T190225.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 11,
             "donations": 8,
@@ -408,7 +408,7 @@
             "clan_rank": 23,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 6,
+            "donations_received": 22,
             "clan_chest_points": 0
         },
         {
