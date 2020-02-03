@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33635,
+    "clan_score": 33607,
     "required_trophies": 2600,
-    "donations_per_week": 418,
+    "donations_per_week": 428,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -75,7 +75,7 @@
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
-            "trophies": 4400,
+            "trophies": 4379,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -126,7 +126,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4066,
+            "trophies": 4033,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 20,
+            "donations_received": 30,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T122015.000Z",
+            "last_seen": "20200203T134221.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 12,
-            "donations": 26,
+            "donations": 36,
             "donations_received": 40,
             "clan_chest_points": 0
         },
