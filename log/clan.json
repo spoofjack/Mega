@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36166,
+    "clan_score": 36174,
     "required_trophies": 2600,
     "donations_per_week": 108,
     "clan_war_trophies": 55,
@@ -64,7 +64,7 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200202T193144.000Z",
+            "last_seen": "20200203T032715.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 0,
@@ -296,7 +296,7 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
-            "trophies": 3645,
+            "trophies": 3651,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9VL202PRQ",
+            "name": "Yn4",
+            "exp_level": 7,
+            "trophies": 2366,
+            "arena": {
+                "id": 54000009,
+                "name": "Arena 8"
+            },
+            "role": "member",
+            "last_seen": "20200203T032043.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 21,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
@@ -371,27 +388,10 @@
             },
             "role": "member",
             "last_seen": "20200203T024941.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 25,
             "donations": 10,
             "donations_received": 30,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9VL202PRQ",
-            "name": "Yn4",
-            "exp_level": 7,
-            "trophies": 2306,
-            "arena": {
-                "id": 54000009,
-                "name": "Arena 8"
-            },
-            "role": "member",
-            "last_seen": "20200202T193813.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 21,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
