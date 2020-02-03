@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 33607,
+    "clan_score": 33583,
     "required_trophies": 2600,
-    "donations_per_week": 428,
+    "donations_per_week": 438,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -75,7 +75,7 @@
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
-            "trophies": 4379,
+            "trophies": 4355,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -84,7 +84,7 @@
             "last_seen": "20200203T132215.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 6,
-            "donations": 60,
+            "donations": 70,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -126,7 +126,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4033,
+            "trophies": 4005,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -251,11 +251,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T134221.000Z",
+            "last_seen": "20200203T135040.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 12,
             "donations": 36,
-            "donations_received": 40,
+            "donations_received": 50,
             "clan_chest_points": 0
         },
         {
@@ -514,6 +514,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PLLU8LRV9",
+            "name": "SP3C_Luckzy01",
+            "exp_level": 6,
+            "trophies": 1149,
+            "arena": {
+                "id": 54000004,
+                "name": "Arena 4"
+            },
+            "role": "elder",
+            "last_seen": "20200203T135406.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 28,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 4,
@@ -524,25 +541,8 @@
             },
             "role": "member",
             "last_seen": "20200203T093255.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 27,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PLLU8LRV9",
-            "name": "SP3C_Luckzy01",
-            "exp_level": 6,
-            "trophies": 1120,
-            "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
-            },
-            "role": "elder",
-            "last_seen": "20200122T162137.000Z",
             "clan_rank": 31,
-            "previous_clan_rank": 28,
+            "previous_clan_rank": 27,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
