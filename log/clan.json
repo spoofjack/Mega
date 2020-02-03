@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34229,
+    "clan_score": 34275,
     "required_trophies": 2600,
-    "donations_per_week": 742,
+    "donations_per_week": 778,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 11,
+            "trophies": 4324,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200203T220044.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 0,
+            "donations": 59,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
@@ -116,27 +133,10 @@
             },
             "role": "member",
             "last_seen": "20200203T210833.000Z",
-            "clan_rank": 6,
+            "clan_rank": 7,
             "previous_clan_rank": 9,
             "donations": 96,
             "donations_received": 88,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 10,
-            "trophies": 4264,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200203T205504.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 0,
-            "donations": 33,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -160,13 +160,13 @@
             "tag": "#PGJU89CQL",
             "name": "Jar432",
             "exp_level": 9,
-            "trophies": 4077,
+            "trophies": 4108,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T213938.000Z",
+            "last_seen": "20200203T220705.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 24,
-            "donations_received": 50,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
@@ -387,11 +387,11 @@
                 "name": "Arena 8"
             },
             "role": "member",
-            "last_seen": "20200203T211424.000Z",
+            "last_seen": "20200203T220227.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 21,
-            "donations": 26,
-            "donations_received": 68,
+            "donations": 36,
+            "donations_received": 76,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 0,
-            "donations_received": 46,
+            "donations_received": 54,
             "clan_chest_points": 0
         },
         {
