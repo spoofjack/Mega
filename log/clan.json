@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36852,
+    "clan_score": 36850,
     "required_trophies": 2600,
     "donations_per_week": 108,
     "clan_war_trophies": 55,
@@ -378,23 +378,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9VL202PRQ",
-            "name": "Yn4",
-            "exp_level": 7,
-            "trophies": 2339,
-            "arena": {
-                "id": 54000009,
-                "name": "Arena 8"
-            },
-            "role": "member",
-            "last_seen": "20200203T055926.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 21,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
@@ -405,10 +388,27 @@
             },
             "role": "member",
             "last_seen": "20200203T024941.000Z",
-            "clan_rank": 23,
+            "clan_rank": 22,
             "previous_clan_rank": 25,
             "donations": 10,
             "donations_received": 30,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9VL202PRQ",
+            "name": "Yn4",
+            "exp_level": 7,
+            "trophies": 2319,
+            "arena": {
+                "id": 54000009,
+                "name": "Arena 8"
+            },
+            "role": "member",
+            "last_seen": "20200203T055926.000Z",
+            "clan_rank": 23,
+            "previous_clan_rank": 21,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
