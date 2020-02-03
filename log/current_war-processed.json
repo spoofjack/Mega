@@ -8,21 +8,12 @@
         "badge_id": 16000107,
         "clan_score": 55,
         "participants": 12,
-        "crowns": 3,
+        "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 1,
+        "battles_played": 2,
         "wins": 1
     },
     "participants": [
-        {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
@@ -40,6 +31,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#PYJQG098Q",
+            "name": "viper325",
+            "cards_earned": 100,
+            "battles_played": 0,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
         },
         {
             "tag": "#2VYL2GP9R",
@@ -78,6 +78,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 300,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "cards_earned": 240,
@@ -96,19 +105,10 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 300,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "cards_earned": 250,
-            "battles_played": 0,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -131,8 +131,8 @@
             "clan_score": 337,
             "participants": 12,
             "crowns": 3,
-            "battles_remaining": 10,
-            "battles_played": 2,
+            "battles_remaining": 9,
+            "battles_played": 3,
             "wins": 2
         },
         {
@@ -141,9 +141,9 @@
             "badge_id": 16000107,
             "clan_score": 55,
             "participants": 12,
-            "crowns": 3,
-            "battles_remaining": 11,
-            "battles_played": 1,
+            "crowns": 4,
+            "battles_remaining": 10,
+            "battles_played": 2,
             "wins": 1
         },
         {
@@ -153,8 +153,8 @@
             "clan_score": 84,
             "participants": 14,
             "crowns": 1,
-            "battles_remaining": 13,
-            "battles_played": 1,
+            "battles_remaining": 12,
+            "battles_played": 2,
             "wins": 0
         },
         {
