@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34280,
+    "clan_score": 34274,
     "required_trophies": 2600,
-    "donations_per_week": 817,
+    "donations_per_week": 863,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -109,17 +109,17 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 11,
-            "trophies": 4324,
+            "trophies": 4312,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200203T220044.000Z",
+            "last_seen": "20200203T223045.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 0,
-            "donations": 59,
-            "donations_received": 60,
+            "donations": 69,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -285,10 +285,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T193302.000Z",
+            "last_seen": "20200203T224302.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
-            "donations": 90,
+            "donations": 110,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -319,10 +319,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T221613.000Z",
+            "last_seen": "20200203T223816.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
-            "donations": 24,
+            "donations": 40,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 29,
-            "donations_received": 0,
+            "donations_received": 20,
             "clan_chest_points": 0
         },
         {
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 21,
             "donations": 36,
-            "donations_received": 84,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
