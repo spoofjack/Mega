@@ -147,6 +147,17 @@
             "wins": 3
         },
         {
+            "tag": "#YULCR8VY",
+            "name": "los carantiguas",
+            "badge_id": 16000172,
+            "clan_score": 441,
+            "participants": 13,
+            "crowns": 3,
+            "battles_remaining": 8,
+            "battles_played": 5,
+            "wins": 3
+        },
+        {
             "tag": "#PQU88GPL",
             "name": "Kryptonians Ols",
             "badge_id": 16000098,
@@ -155,17 +166,6 @@
             "crowns": 5,
             "battles_remaining": 6,
             "battles_played": 6,
-            "wins": 2
-        },
-        {
-            "tag": "#YULCR8VY",
-            "name": "los carantiguas",
-            "badge_id": 16000172,
-            "clan_score": 441,
-            "participants": 13,
-            "crowns": 2,
-            "battles_remaining": 9,
-            "battles_played": 4,
             "wins": 2
         },
         {
