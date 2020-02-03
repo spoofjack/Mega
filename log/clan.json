@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36848,
+    "clan_score": 34613,
     "required_trophies": 2600,
-    "donations_per_week": 108,
+    "donations_per_week": 118,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,10 +24,10 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 5744,
+            "trophies": 4872,
             "arena": {
-                "id": 54000017,
-                "name": "Master III"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20200202T194108.000Z",
@@ -41,10 +41,10 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 5414,
+            "trophies": 4707,
             "arena": {
-                "id": 54000016,
-                "name": "Master II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "coLeader",
             "last_seen": "20200202T221732.000Z",
@@ -58,16 +58,16 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5114,
+            "trophies": 4616,
             "arena": {
-                "id": 54000015,
-                "name": "Master I"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200203T032715.000Z",
+            "last_seen": "20200203T104844.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 0,
+            "donations": 10,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -75,10 +75,10 @@
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
-            "trophies": 4948,
+            "trophies": 4474,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "member",
             "last_seen": "20200202T154735.000Z",
@@ -92,10 +92,10 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4804,
+            "trophies": 4402,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "member",
             "last_seen": "20200203T033908.000Z",
@@ -109,10 +109,10 @@
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
-            "trophies": 4723,
+            "trophies": 4362,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "leader",
             "last_seen": "20200203T030914.000Z",
@@ -126,10 +126,10 @@
             "tag": "#CC89GPR",
             "name": "unicorn",
             "exp_level": 9,
-            "trophies": 4606,
+            "trophies": 4303,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
@@ -143,10 +143,10 @@
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4535,
+            "trophies": 4268,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000012,
+                "name": "Legendary Arena"
             },
             "role": "member",
             "last_seen": "20200203T023617.000Z",
@@ -160,10 +160,10 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 10,
-            "trophies": 4527,
+            "trophies": 4264,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000012,
+                "name": "Legendary Arena"
             },
             "role": "coLeader",
             "last_seen": "20200203T023523.000Z",
@@ -177,10 +177,10 @@
             "tag": "#8UYUVJRJ8",
             "name": "vortex123",
             "exp_level": 10,
-            "trophies": 4293,
+            "trophies": 4147,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000012,
+                "name": "Legendary Arena"
             },
             "role": "member",
             "last_seen": "20200202T173917.000Z",
@@ -194,7 +194,7 @@
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
-            "trophies": 4243,
+            "trophies": 4122,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -211,7 +211,7 @@
             "tag": "#VLV8U89",
             "name": "fusion",
             "exp_level": 10,
-            "trophies": 4217,
+            "trophies": 4109,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -228,7 +228,7 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4137,
+            "trophies": 4069,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -245,7 +245,7 @@
             "tag": "#PGJU89CQL",
             "name": "Jar432",
             "exp_level": 9,
-            "trophies": 4121,
+            "trophies": 4061,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -255,14 +255,14 @@
             "clan_rank": 14,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
             "tag": "#P2LYQ2JG",
             "name": "Moto Moto",
             "exp_level": 11,
-            "trophies": 4002,
+            "trophies": 4001,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
