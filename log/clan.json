@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34187,
     "required_trophies": 2600,
-    "donations_per_week": 692,
+    "donations_per_week": 700,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 40,
-            "donations_received": 24,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -132,7 +132,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T195213.000Z",
+            "last_seen": "20200203T200454.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 0,
             "donations": 33,
@@ -149,10 +149,10 @@
                 "name": "Legendary Arena"
             },
             "role": "elder",
-            "last_seen": "20200203T193646.000Z",
+            "last_seen": "20200203T201147.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 11,
-            "donations": 32,
+            "donations": 40,
             "donations_received": 40,
             "clan_chest_points": 0
         },
