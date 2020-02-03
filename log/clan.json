@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36170,
+    "clan_score": 36213,
     "required_trophies": 2600,
     "donations_per_week": 108,
     "clan_war_trophies": 55,
@@ -58,7 +58,7 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 5044,
+            "trophies": 5107,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -296,13 +296,13 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
-            "trophies": 3651,
+            "trophies": 3711,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T030802.000Z",
+            "last_seen": "20200203T035223.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 0,
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9VL202PRQ",
-            "name": "Yn4",
-            "exp_level": 7,
-            "trophies": 2352,
-            "arena": {
-                "id": 54000009,
-                "name": "Arena 8"
-            },
-            "role": "member",
-            "last_seen": "20200203T032043.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 21,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
@@ -388,10 +371,27 @@
             },
             "role": "member",
             "last_seen": "20200203T024941.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 25,
             "donations": 10,
             "donations_received": 30,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9VL202PRQ",
+            "name": "Yn4",
+            "exp_level": 7,
+            "trophies": 2331,
+            "arena": {
+                "id": 54000009,
+                "name": "Arena 8"
+            },
+            "role": "member",
+            "last_seen": "20200203T032043.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 21,
+            "donations": 0,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -506,7 +506,7 @@
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200131T210541.000Z",
+            "last_seen": "20200203T035346.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 27,
             "donations": 0,
