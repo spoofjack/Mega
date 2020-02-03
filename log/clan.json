@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36017,
+    "clan_score": 36015,
     "required_trophies": 2600,
-    "donations_per_week": 4158,
+    "donations_per_week": 4204,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -119,7 +119,7 @@
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 78,
-            "donations_received": 82,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 457,
-            "donations_received": 350,
+            "donations_received": 360,
             "clan_chest_points": 0
         },
         {
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 192,
-            "donations_received": 144,
+            "donations_received": 152,
             "clan_chest_points": 0
         },
         {
@@ -228,7 +228,7 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4123,
+            "trophies": 4115,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -268,10 +268,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200202T183203.000Z",
+            "last_seen": "20200202T234944.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 13,
-            "donations": 189,
+            "donations": 235,
             "donations_received": 180,
             "clan_chest_points": 0
         },
@@ -306,7 +306,7 @@
             "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 196,
-            "donations_received": 660,
+            "donations_received": 670,
             "clan_chest_points": 0
         },
         {
@@ -340,7 +340,7 @@
             "clan_rank": 19,
             "previous_clan_rank": 17,
             "donations": 94,
-            "donations_received": 70,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
