@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36213,
+    "clan_score": 36210,
     "required_trophies": 2600,
     "donations_per_week": 108,
     "clan_war_trophies": 55,
@@ -429,23 +429,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "exp_level": 8,
-            "trophies": 1811,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "elder",
-            "last_seen": "20200202T172300.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 22,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
             "exp_level": 6,
@@ -456,7 +439,7 @@
             },
             "role": "member",
             "last_seen": "20200201T220934.000Z",
-            "clan_rank": 26,
+            "clan_rank": 25,
             "previous_clan_rank": 23,
             "donations": 0,
             "donations_received": 0,
@@ -473,8 +456,25 @@
             },
             "role": "member",
             "last_seen": "20200202T231331.000Z",
-            "clan_rank": 27,
+            "clan_rank": 26,
             "previous_clan_rank": 24,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 8,
+            "trophies": 1790,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "elder",
+            "last_seen": "20200203T045245.000Z",
+            "clan_rank": 27,
+            "previous_clan_rank": 22,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
