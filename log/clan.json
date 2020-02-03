@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34181,
+    "clan_score": 34187,
     "required_trophies": 2600,
-    "donations_per_week": 676,
+    "donations_per_week": 692,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,27 +30,27 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200203T193345.000Z",
+            "last_seen": "20200203T195047.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 40,
-            "donations_received": 8,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 4707,
+            "trophies": 4718,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200203T192804.000Z",
+            "last_seen": "20200203T194600.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 21,
+            "donations": 29,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -132,7 +132,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T194426.000Z",
+            "last_seen": "20200203T195213.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 0,
             "donations": 33,
@@ -288,7 +288,7 @@
             "last_seen": "20200203T193302.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 15,
-            "donations": 82,
+            "donations": 90,
             "donations_received": 0,
             "clan_chest_points": 0
         },
@@ -455,7 +455,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200203T194440.000Z",
+            "last_seen": "20200203T194559.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 24,
             "donations": 10,
