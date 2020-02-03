@@ -15,9 +15,18 @@
     },
     "participants": [
         {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 80,
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "cards_earned": 480,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PYJQG098Q",
+            "name": "viper325",
+            "cards_earned": 100,
             "battles_played": 0,
             "collection_day_battles_played": 1,
             "wins": 0,
@@ -33,6 +42,15 @@
             "number_of_battles": 2
         },
         {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "cards_earned": 80,
+            "battles_played": 0,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "cards_earned": 300,
@@ -42,21 +60,39 @@
             "number_of_battles": 2
         },
         {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
+            "tag": "#2VYL2GP9R",
+            "name": "Squirrel",
+            "cards_earned": 510,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 420,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -85,42 +121,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "cards_earned": 480,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 420,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#2VYL2GP9R",
-            "name": "Squirrel",
-            "cards_earned": 510,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -131,8 +131,8 @@
             "clan_score": 429,
             "participants": 12,
             "crowns": 7,
-            "battles_remaining": 4,
-            "battles_played": 8,
+            "battles_remaining": 3,
+            "battles_played": 9,
             "wins": 4
         },
         {
