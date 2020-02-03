@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36004,
+    "clan_score": 36019,
     "required_trophies": 2600,
     "donations_per_week": 8,
     "clan_war_trophies": 55,
@@ -228,13 +228,13 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4115,
+            "trophies": 4146,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200202T233535.000Z",
+            "last_seen": "20200203T010846.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "exp_level": 8,
+            "trophies": 3487,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "coLeader",
+            "last_seen": "20200203T011234.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 15,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "exp_level": 9,
@@ -303,25 +320,8 @@
             },
             "role": "member",
             "last_seen": "20200202T172459.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 16,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "exp_level": 8,
-            "trophies": 3458,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "coLeader",
-            "last_seen": "20200203T000207.000Z",
             "clan_rank": 18,
-            "previous_clan_rank": 15,
+            "previous_clan_rank": 16,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
