@@ -24,6 +24,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "cards_earned": 420,
@@ -51,21 +60,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "cards_earned": 480,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "cards_earned": 225,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -78,15 +87,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 250,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "cards_earned": 320,
@@ -96,9 +96,9 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "cards_earned": 225,
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "cards_earned": 250,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -152,9 +152,9 @@
             "badge_id": 16000016,
             "clan_score": 84,
             "participants": 14,
-            "crowns": 6,
-            "battles_remaining": 7,
-            "battles_played": 7,
+            "crowns": 7,
+            "battles_remaining": 6,
+            "battles_played": 8,
             "wins": 2
         },
         {
