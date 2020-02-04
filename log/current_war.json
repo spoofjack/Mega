@@ -10,8 +10,8 @@
         "participants": 12,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 27,
-        "wins": 17
+        "battles_played": 30,
+        "wins": 20
     },
     "participants": [
         {
@@ -62,10 +62,10 @@
         {
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
-            "cards_earned": 320,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 2,
+            "cards_earned": 480,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
@@ -116,10 +116,10 @@
         {
             "tag": "#P2LYQ2JG",
             "name": "Moto Moto",
-            "cards_earned": 160,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 480,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         }
     ],

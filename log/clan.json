@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37209,
+    "clan_score": 37238,
     "required_trophies": 2600,
-    "donations_per_week": 2064,
+    "donations_per_week": 2088,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -136,23 +136,23 @@
             "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 226,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 11,
-            "trophies": 4362,
+            "trophies": 4421,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T195924.000Z",
+            "last_seen": "20200204T211930.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 6,
-            "donations": 233,
+            "donations": 257,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 176,
-            "donations_received": 32,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T210652.000Z",
+            "last_seen": "20200204T212723.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 68,
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 140,
-            "donations_received": 144,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
