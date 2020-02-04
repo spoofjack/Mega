@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37158,
+    "clan_score": 37188,
     "required_trophies": 2600,
-    "donations_per_week": 2006,
+    "donations_per_week": 2016,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -132,11 +132,11 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T203533.000Z",
+            "last_seen": "20200204T204522.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 226,
-            "donations_received": 120,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -432,16 +432,16 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 2907,
+            "trophies": 3029,
             "arena": {
-                "id": 54000010,
-                "name": "Arena 9"
+                "id": 54000007,
+                "name": "Arena 10"
             },
             "role": "member",
             "last_seen": "20200204T202422.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 22,
-            "donations": 130,
+            "donations": 140,
             "donations_received": 136,
             "clan_chest_points": 0
         },
@@ -619,13 +619,13 @@
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 5,
-            "trophies": 1192,
+            "trophies": 1281,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200204T130327.000Z",
+            "last_seen": "20200204T204551.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 31,
             "donations": 0,
@@ -670,13 +670,13 @@
             "tag": "#YR29PV082",
             "name": "witte",
             "exp_level": 4,
-            "trophies": 371,
+            "trophies": 430,
             "arena": {
                 "id": 54000002,
                 "name": "Arena 2"
             },
             "role": "member",
-            "last_seen": "20200204T131821.000Z",
+            "last_seen": "20200204T204636.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 35,
             "donations": 10,
