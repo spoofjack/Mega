@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37901,
+    "clan_score": 37930,
     "required_trophies": 2600,
-    "donations_per_week": 2176,
+    "donations_per_week": 2184,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T222427.000Z",
+            "last_seen": "20200204T231500.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 107,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 0,
             "donations": 20,
-            "donations_received": 48,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -98,7 +98,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T225107.000Z",
+            "last_seen": "20200204T230931.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 285,
@@ -115,10 +115,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T224006.000Z",
+            "last_seen": "20200204T230400.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 4,
-            "donations": 226,
+            "donations": 234,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -157,6 +157,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4328,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "elder",
+            "last_seen": "20200204T230424.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 8,
+            "donations": 54,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
@@ -167,27 +184,10 @@
             },
             "role": "member",
             "last_seen": "20200204T223840.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 7,
             "donations": 204,
             "donations_received": 168,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4270,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "elder",
-            "last_seen": "20200204T021023.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 8,
-            "donations": 54,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -245,7 +245,7 @@
             "tag": "#VLV8U89",
             "name": "fusion",
             "exp_level": 10,
-            "trophies": 4184,
+            "trophies": 4175,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -602,7 +602,7 @@
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 5,
-            "trophies": 1360,
+            "trophies": 1390,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
