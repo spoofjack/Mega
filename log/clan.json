@@ -3,10 +3,10 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36673,
+    "clan_score": 36726,
     "required_trophies": 2600,
     "donations_per_week": 1688,
-    "clan_war_trophies": 55,
+    "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
     "members": 39,
@@ -24,7 +24,7 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4919,
+            "trophies": 4979,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -132,7 +132,7 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T163521.000Z",
+            "last_seen": "20200204T172932.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 182,
@@ -191,6 +191,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LUJRLGYU",
+            "name": "Josh",
+            "exp_level": 10,
+            "trophies": 4190,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200204T171610.000Z",
+            "clan_rank": 11,
+            "previous_clan_rank": 9,
+            "donations": 20,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8CCQ98JY",
             "name": "Colin Harrison",
             "exp_level": 10,
@@ -201,27 +218,10 @@
             },
             "role": "member",
             "last_seen": "20200204T171227.000Z",
-            "clan_rank": 11,
+            "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LUJRLGYU",
-            "name": "Josh",
-            "exp_level": 10,
-            "trophies": 4160,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200204T170625.000Z",
-            "clan_rank": 12,
-            "previous_clan_rank": 9,
-            "donations": 20,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -285,7 +285,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T171023.000Z",
+            "last_seen": "20200204T172534.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 14,
             "donations": 72,
@@ -370,7 +370,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200204T171433.000Z",
+            "last_seen": "20200204T171555.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 19,
             "donations": 0,
@@ -398,7 +398,7 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3140,
+            "trophies": 3202,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
@@ -432,7 +432,7 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 2667,
+            "trophies": 2728,
             "arena": {
                 "id": 54000010,
                 "name": "Arena 9"
@@ -568,10 +568,10 @@
             "tag": "#PC2LYL0RJ",
             "name": "mrcorndog",
             "exp_level": 6,
-            "trophies": 1293,
+            "trophies": 1303,
             "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
+                "id": 54000005,
+                "name": "Arena 5"
             },
             "role": "member",
             "last_seen": "20200204T171254.000Z",
