@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36013,
+    "clan_score": 36017,
     "required_trophies": 2600,
-    "donations_per_week": 1544,
+    "donations_per_week": 1556,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 119,
-            "donations_received": 56,
+            "donations_received": 68,
             "clan_chest_points": 0
         },
         {
@@ -421,10 +421,10 @@
                 "name": "Arena 9"
             },
             "role": "member",
-            "last_seen": "20200204T120931.000Z",
+            "last_seen": "20200204T135606.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 22,
-            "donations": 108,
+            "donations": 114,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -466,16 +466,16 @@
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
-            "trophies": 2149,
+            "trophies": 2179,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "elder",
-            "last_seen": "20200203T185023.000Z",
+            "last_seen": "20200204T135256.000Z",
             "clan_rank": 27,
             "previous_clan_rank": 28,
-            "donations": 6,
+            "donations": 12,
             "donations_received": 0,
             "clan_chest_points": 0
         },
