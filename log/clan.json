@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 34418,
     "required_trophies": 2600,
-    "donations_per_week": 935,
+    "donations_per_week": 984,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -33,7 +33,7 @@
             "last_seen": "20200204T014426.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 48,
+            "donations": 71,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 29,
-            "donations_received": 16,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200203T210833.000Z",
+            "last_seen": "20200204T015603.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 9,
-            "donations": 96,
+            "donations": 122,
             "donations_received": 88,
             "clan_chest_points": 0
         },
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 18,
-            "donations_received": 20,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -408,7 +408,7 @@
             "clan_rank": 23,
             "previous_clan_rank": 22,
             "donations": 6,
-            "donations_received": 46,
+            "donations_received": 54,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 0,
-            "donations_received": 55,
+            "donations_received": 60,
             "clan_chest_points": 0
         },
         {
