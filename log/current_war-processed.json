@@ -24,15 +24,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "cards_earned": 420,
@@ -56,6 +47,15 @@
             "cards_earned": 80,
             "battles_played": 1,
             "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -105,21 +105,21 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 300,
-            "battles_played": 2,
-            "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "cards_earned": 280,
             "battles_played": 2,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 2
+        },
+        {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 300,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 2
         }
     ],
@@ -131,8 +131,8 @@
             "clan_score": 441,
             "participants": 13,
             "crowns": 13,
-            "battles_remaining": 1,
-            "battles_played": 12,
+            "battles_remaining": 0,
+            "battles_played": 13,
             "wins": 8
         },
         {
@@ -147,6 +147,17 @@
             "wins": 6
         },
         {
+            "tag": "#PCQQ9PGG",
+            "name": "Doramions",
+            "badge_id": 16000146,
+            "clan_score": 429,
+            "participants": 12,
+            "crowns": 10,
+            "battles_remaining": 0,
+            "battles_played": 12,
+            "wins": 6
+        },
+        {
             "tag": "#PQU88GPL",
             "name": "Kryptonians Ols",
             "badge_id": 16000098,
@@ -155,17 +166,6 @@
             "crowns": 9,
             "battles_remaining": 0,
             "battles_played": 13,
-            "wins": 4
-        },
-        {
-            "tag": "#PCQQ9PGG",
-            "name": "Doramions",
-            "badge_id": 16000146,
-            "clan_score": 429,
-            "participants": 12,
-            "crowns": 7,
-            "battles_remaining": 2,
-            "battles_played": 10,
             "wins": 4
         },
         {
@@ -183,5 +183,5 @@
     "cards": 3685,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "3 hours"
+    "end_label": "2 hours"
 }
