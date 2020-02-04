@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37291,
+    "clan_score": 37316,
     "required_trophies": 2600,
     "donations_per_week": 2088,
     "clan_war_trophies": 61,
@@ -89,6 +89,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 11,
+            "trophies": 4540,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200204T211930.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 257,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
@@ -99,26 +116,26 @@
             },
             "role": "coLeader",
             "last_seen": "20200204T114925.000Z",
-            "clan_rank": 5,
+            "clan_rank": 6,
             "previous_clan_rank": 3,
             "donations": 104,
             "donations_received": 80,
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 11,
-            "trophies": 4510,
+            "tag": "#88PJC2Y0R",
+            "name": "MoneyMann",
+            "exp_level": 9,
+            "trophies": 4465,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
-            "role": "member",
-            "last_seen": "20200204T211930.000Z",
-            "clan_rank": 6,
-            "previous_clan_rank": 6,
-            "donations": 257,
+            "role": "leader",
+            "last_seen": "20200204T214212.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 4,
+            "donations": 226,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -133,27 +150,10 @@
             },
             "role": "member",
             "last_seen": "20200204T163737.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 5,
             "donations": 162,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#88PJC2Y0R",
-            "name": "MoneyMann",
-            "exp_level": 9,
-            "trophies": 4434,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "leader",
-            "last_seen": "20200204T214212.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 4,
-            "donations": 226,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -251,7 +251,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T202737.000Z",
+            "last_seen": "20200204T215923.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 11,
             "donations": 26,
@@ -313,13 +313,13 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3917,
+            "trophies": 3896,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T213914.000Z",
+            "last_seen": "20200204T215647.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 176,
