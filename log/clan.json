@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37159,
+    "clan_score": 37151,
     "required_trophies": 2600,
-    "donations_per_week": 1910,
+    "donations_per_week": 1998,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,7 +24,7 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4938,
+            "trophies": 4917,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -33,8 +33,8 @@
             "last_seen": "20200204T200906.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 187,
-            "donations_received": 96,
+            "donations": 197,
+            "donations_received": 118,
             "clan_chest_points": 0
         },
         {
@@ -51,7 +51,7 @@
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 97,
-            "donations_received": 110,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T172932.000Z",
+            "last_seen": "20200204T201807.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 4,
-            "donations": 182,
+            "donations": 218,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 233,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T123534.000Z",
+            "last_seen": "20200204T202737.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 11,
-            "donations": 0,
+            "donations": 26,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 176,
-            "donations_received": 16,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
@@ -357,7 +357,7 @@
             "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 68,
-            "donations_received": 130,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,24 @@
             "clan_rank": 24,
             "previous_clan_rank": 20,
             "donations": 39,
-            "donations_received": 70,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 7,
+            "trophies": 2847,
+            "arena": {
+                "id": 54000010,
+                "name": "Arena 9"
+            },
+            "role": "member",
+            "last_seen": "20200204T202422.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 22,
+            "donations": 130,
+            "donations_received": 128,
             "clan_chest_points": 0
         },
         {
@@ -439,27 +456,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200130T024127.000Z",
-            "clan_rank": 25,
+            "clan_rank": 26,
             "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 7,
-            "trophies": 2817,
-            "arena": {
-                "id": 54000010,
-                "name": "Arena 9"
-            },
-            "role": "member",
-            "last_seen": "20200204T182631.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 22,
-            "donations": 114,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
