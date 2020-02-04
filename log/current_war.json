@@ -7,13 +7,22 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 12,
+        "participants": 13,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 30,
+        "battles_played": 31,
         "wins": 20
     },
     "participants": [
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "cards_earned": 75,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
         {
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
