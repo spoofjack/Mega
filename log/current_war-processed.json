@@ -10,7 +10,7 @@
         "participants": 13,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 31,
+        "battles_played": 32,
         "wins": 20
     },
     "participants": [
@@ -89,9 +89,9 @@
         {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
-            "cards_earned": 100,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
+            "cards_earned": 150,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -133,8 +133,8 @@
         }
     ],
     "clans": null,
-    "cards": 3830,
+    "cards": 3880,
     "state_label": "Collection Day",
-    "collection_end_time_label": "19 hours",
-    "end_label": "1 day, 19 hours"
+    "collection_end_time_label": "18 hours",
+    "end_label": "1 day, 18 hours"
 }
