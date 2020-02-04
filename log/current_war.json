@@ -24,15 +24,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 80,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#P2LYQ2JG",
             "name": "Moto Moto",
             "cards_earned": 480,
@@ -42,11 +33,11 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "cards_earned": 80,
+            "battles_played": 0,
+            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -69,27 +60,18 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "cards_earned": 480,
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
             "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#L2L98J8CJ",
-            "name": "BrandoComando",
-            "cards_earned": 250,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "cards_earned": 320,
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "cards_earned": 480,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
@@ -105,13 +87,22 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 300,
-            "battles_played": 2,
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "cards_earned": 320,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 2,
-            "number_of_battles": 2
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "cards_earned": 250,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         },
         {
             "tag": "#Y8VQ22Y0G",
@@ -120,6 +111,15 @@
             "battles_played": 2,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 2
+        },
+        {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 300,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 2
         }
     ],
@@ -152,9 +152,9 @@
             "badge_id": 16000016,
             "clan_score": 84,
             "participants": 14,
-            "crowns": 3,
-            "battles_remaining": 11,
-            "battles_played": 3,
+            "crowns": 4,
+            "battles_remaining": 10,
+            "battles_played": 4,
             "wins": 1
         },
         {
@@ -175,8 +175,8 @@
             "clan_score": 337,
             "participants": 12,
             "crowns": 7,
-            "battles_remaining": 2,
-            "battles_played": 10,
+            "battles_remaining": 1,
+            "battles_played": 11,
             "wins": 3
         }
     ]
