@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35790,
+    "clan_score": 35758,
     "required_trophies": 2600,
-    "donations_per_week": 1038,
+    "donations_per_week": 1090,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T004625.000Z",
+            "last_seen": "20200204T112920.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 11,
-            "donations": 29,
+            "donations": 49,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -68,23 +68,23 @@
             "clan_rank": 3,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 18,
             "clan_chest_points": 0
         },
         {
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 4615,
+            "trophies": 4564,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200203T193715.000Z",
+            "last_seen": "20200204T111649.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 2,
-            "donations": 50,
+            "donations": 66,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -92,17 +92,17 @@
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
-            "trophies": 4433,
+            "trophies": 4419,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T013435.000Z",
+            "last_seen": "20200204T112538.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 4,
-            "donations": 138,
-            "donations_received": 80,
+            "donations": 154,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
@@ -374,7 +374,7 @@
             "clan_rank": 21,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
