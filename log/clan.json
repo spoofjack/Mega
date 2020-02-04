@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 36369,
     "required_trophies": 2600,
-    "donations_per_week": 1556,
+    "donations_per_week": 1584,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 119,
-            "donations_received": 68,
+            "donations_received": 76,
             "clan_chest_points": 0
         },
         {
@@ -115,10 +115,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T112538.000Z",
+            "last_seen": "20200204T152840.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 4,
-            "donations": 154,
+            "donations": 182,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 14,
             "donations": 62,
-            "donations_received": 110,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -408,7 +408,7 @@
             "clan_rank": 23,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
@@ -438,7 +438,7 @@
                 "name": "Arena 9"
             },
             "role": "member",
-            "last_seen": "20200204T140448.000Z",
+            "last_seen": "20200204T151855.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 114,
