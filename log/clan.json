@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 34349,
+    "clan_score": 34387,
     "required_trophies": 2600,
     "donations_per_week": 911,
     "clan_war_trophies": 55,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LUJRLGYU",
+            "name": "Josh",
+            "exp_level": 10,
+            "trophies": 4130,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200203T235656.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 13,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
@@ -150,7 +167,7 @@
             },
             "role": "elder",
             "last_seen": "20200203T201147.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 11,
             "donations": 40,
             "donations_received": 40,
@@ -167,7 +184,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200203T224619.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 12,
             "donations": 18,
             "donations_received": 20,
@@ -184,7 +201,7 @@
             },
             "role": "member",
             "last_seen": "20200203T220705.000Z",
-            "clan_rank": 10,
+            "clan_rank": 11,
             "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 40,
@@ -201,25 +218,8 @@
             },
             "role": "elder",
             "last_seen": "20200201T175757.000Z",
-            "clan_rank": 11,
-            "previous_clan_rank": 7,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LUJRLGYU",
-            "name": "Josh",
-            "exp_level": 10,
-            "trophies": 4001,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200203T011533.000Z",
             "clan_rank": 12,
-            "previous_clan_rank": 13,
+            "previous_clan_rank": 7,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -319,7 +319,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T233527.000Z",
+            "last_seen": "20200203T234534.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 40,
