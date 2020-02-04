@@ -10,8 +10,8 @@
         "participants": 9,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 17,
-        "wins": 10
+        "battles_played": 19,
+        "wins": 11
     },
     "participants": [
         {
@@ -35,10 +35,10 @@
         {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
-            "cards_earned": 160,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 1,
+            "cards_earned": 400,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
             "number_of_battles": 3
         },
         {
@@ -97,7 +97,7 @@
         }
     ],
     "clans": null,
-    "cards": 1915,
+    "cards": 2155,
     "state_label": "Collection Day",
     "collection_end_time_label": "21 hours",
     "end_label": "1 day, 21 hours"
