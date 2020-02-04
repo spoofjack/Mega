@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37960,
+    "clan_score": 37968,
     "required_trophies": 2600,
-    "donations_per_week": 2184,
+    "donations_per_week": 2204,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,10 +47,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T231859.000Z",
+            "last_seen": "20200204T233757.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 107,
+            "donations": 117,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -115,10 +115,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T230400.000Z",
+            "last_seen": "20200204T233105.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 4,
-            "donations": 234,
+            "donations": 244,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -160,17 +160,17 @@
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
-            "trophies": 4358,
+            "trophies": 4375,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200204T232746.000Z",
+            "last_seen": "20200204T234426.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 54,
-            "donations_received": 80,
+            "donations_received": 100,
             "clan_chest_points": 0
         },
         {
