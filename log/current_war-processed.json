@@ -10,7 +10,7 @@
         "participants": 12,
         "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 10,
+        "battles_played": 11,
         "wins": 5
     },
     "participants": [
@@ -42,6 +42,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 240,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "cards_earned": 420,
@@ -57,24 +66,6 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "cards_earned": 280,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "cards_earned": 240,
-            "battles_played": 1,
-            "collection_day_battles_played": 2,
-            "wins": 0,
             "number_of_battles": 1
         },
         {
@@ -121,6 +112,15 @@
             "collection_day_battles_played": 3,
             "wins": 2,
             "number_of_battles": 2
+        },
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "cards_earned": 280,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -142,8 +142,8 @@
             "clan_score": 55,
             "participants": 12,
             "crowns": 11,
-            "battles_remaining": 2,
-            "battles_played": 10,
+            "battles_remaining": 1,
+            "battles_played": 11,
             "wins": 5
         },
         {
@@ -183,5 +183,5 @@
     "cards": 3685,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "15 hours"
+    "end_label": "14 hours"
 }
