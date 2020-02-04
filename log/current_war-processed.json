@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 4,
+        "participants": 5,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 6,
-        "wins": 3
+        "battles_played": 7,
+        "wins": 4
     },
     "participants": [
         {
@@ -26,6 +26,15 @@
         {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
             "cards_earned": 160,
             "battles_played": 1,
             "collection_day_battles_played": 1,
@@ -52,8 +61,8 @@
         }
     ],
     "clans": null,
-    "cards": 650,
+    "cards": 810,
     "state_label": "Collection Day",
-    "collection_end_time_label": "22 hours",
-    "end_label": "1 day, 22 hours"
+    "collection_end_time_label": "21 hours",
+    "end_label": "1 day, 21 hours"
 }

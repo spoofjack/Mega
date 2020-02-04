@@ -1,5 +1,5 @@
 {
-    "last_update": 1580861701.571583,
+    "last_update": 1580862601.815707,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
@@ -22,7 +22,7 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1580861701.571583,
+            "last_activity_date": 1580862601.815707,
             "last_donation_date": 1580854501.530762,
             "role": "coLeader",
             "status": "present",
@@ -154,7 +154,7 @@
         "#9YP8Y9U9V": {
             "name": "bugs33",
             "join_date": 0,
-            "last_activity_date": 1580861701.571583,
+            "last_activity_date": 1580862601.815707,
             "last_donation_date": 1580502601.518907,
             "role": "member",
             "status": "present",
@@ -172,11 +172,11 @@
         "#PQRPRYQLP": {
             "name": "Gobysmasher",
             "join_date": 0,
-            "last_activity_date": 1580854501.530762,
-            "last_donation_date": 1580788801.715963,
+            "last_activity_date": 1580862601.815707,
+            "last_donation_date": 1580862601.815707,
             "role": "coLeader",
             "status": "present",
-            "donations": 120,
+            "donations": 128,
             "donations_last_week": 235,
             "events": [
                 {
@@ -286,7 +286,7 @@
         "#L2L98J8CJ": {
             "name": "BrandoComando",
             "join_date": 0,
-            "last_activity_date": 1580861701.571583,
+            "last_activity_date": 1580862601.815707,
             "last_donation_date": 1580605202.154304,
             "role": "member",
             "status": "present",
@@ -1126,7 +1126,7 @@
         "#9CYC8228P": {
             "name": "Ram Rider",
             "join_date": 1580585402.21846,
-            "last_activity_date": 1580854501.530762,
+            "last_activity_date": 1580862601.815707,
             "last_donation_date": 1580853601.57056,
             "role": "member",
             "status": "present",
@@ -1180,11 +1180,11 @@
         "#LUJRLGYU": {
             "name": "Josh",
             "join_date": 1580697901.925313,
-            "last_activity_date": 1580861701.571583,
-            "last_donation_date": 1580854501.530762,
+            "last_activity_date": 1580862601.815707,
+            "last_donation_date": 1580862601.815707,
             "role": "member",
             "status": "present",
-            "donations": 20,
+            "donations": 28,
             "donations_last_week": 0,
             "events": [
                 {
@@ -1312,6 +1312,24 @@
                     "type": "new",
                     "role": "member",
                     "date": 1580853601.57056
+                }
+            ]
+        },
+        "#98L88RRGJ": {
+            "name": "baller118107",
+            "join_date": 1580862601.815707,
+            "last_activity_date": 1580862601.815707,
+            "last_donation_date": 1580862601.815707,
+            "role": "member",
+            "status": "present",
+            "donations": 0,
+            "donations_last_week": 0,
+            "events": [
+                {
+                    "event": "join",
+                    "type": "new",
+                    "role": "member",
+                    "date": 1580862601.815707
                 }
             ]
         }
