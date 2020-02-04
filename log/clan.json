@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36026,
+    "clan_score": 36068,
     "required_trophies": 2600,
     "donations_per_week": 1588,
     "clan_war_trophies": 55,
@@ -41,13 +41,13 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 4749,
+            "trophies": 4759,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T162838.000Z",
+            "last_seen": "20200204T163016.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 59,
@@ -106,6 +106,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "exp_level": 10,
+            "trophies": 4438,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200204T163737.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 5,
+            "donations": 162,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
             "exp_level": 9,
@@ -115,28 +132,11 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T152840.000Z",
-            "clan_rank": 6,
+            "last_seen": "20200204T163521.000Z",
+            "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 182,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "exp_level": 10,
-            "trophies": 4408,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200204T114502.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 5,
-            "donations": 162,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -149,11 +149,28 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T134403.000Z",
+            "last_seen": "20200204T163542.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 175,
             "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "exp_level": 10,
+            "trophies": 4298,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200204T163447.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 7,
+            "donations": 136,
+            "donations_received": 128,
             "clan_chest_points": 0
         },
         {
@@ -167,27 +184,10 @@
             },
             "role": "elder",
             "last_seen": "20200204T021023.000Z",
-            "clan_rank": 9,
+            "clan_rank": 10,
             "previous_clan_rank": 8,
             "donations": 54,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "exp_level": 10,
-            "trophies": 4268,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200204T162819.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 7,
-            "donations": 136,
-            "donations_received": 128,
             "clan_chest_points": 0
         },
         {
@@ -302,7 +302,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T003357.000Z",
+            "last_seen": "20200204T163742.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 16,
             "donations": 120,
@@ -319,7 +319,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200203T020232.000Z",
+            "last_seen": "20200204T163742.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 0,
@@ -387,7 +387,7 @@
                 "name": "Arena 10"
             },
             "role": "elder",
-            "last_seen": "20200203T222515.000Z",
+            "last_seen": "20200204T164111.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 29,
@@ -415,13 +415,13 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 6,
-            "trophies": 2604,
+            "trophies": 2662,
             "arena": {
                 "id": 54000010,
                 "name": "Arena 9"
             },
             "role": "member",
-            "last_seen": "20200204T162851.000Z",
+            "last_seen": "20200204T164352.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 114,
@@ -591,7 +591,7 @@
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200203T170642.000Z",
+            "last_seen": "20200204T164336.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 32,
             "donations": 0,
