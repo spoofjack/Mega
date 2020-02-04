@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37188,
+    "clan_score": 37209,
     "required_trophies": 2600,
-    "donations_per_week": 2016,
+    "donations_per_week": 2064,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 197,
-            "donations_received": 118,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 226,
-            "donations_received": 130,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -160,16 +160,16 @@
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4287,
+            "trophies": 4316,
             "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T193525.000Z",
+            "last_seen": "20200204T210751.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 7,
-            "donations": 146,
+            "donations": 184,
             "donations_received": 168,
             "clan_chest_points": 0
         },
@@ -285,10 +285,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T172534.000Z",
+            "last_seen": "20200204T210949.000Z",
             "clan_rank": 16,
             "previous_clan_rank": 14,
-            "donations": 72,
+            "donations": 82,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -323,7 +323,7 @@
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 176,
-            "donations_received": 24,
+            "donations_received": 32,
             "clan_chest_points": 0
         },
         {
@@ -353,11 +353,11 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T204127.000Z",
+            "last_seen": "20200204T210652.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 68,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -432,17 +432,17 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 3029,
+            "trophies": 3059,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200204T202422.000Z",
+            "last_seen": "20200204T210047.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 140,
-            "donations_received": 136,
+            "donations_received": 144,
             "clan_chest_points": 0
         },
         {
@@ -599,6 +599,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8VVLJJ2JQ",
+            "name": "BigTastyTunk",
+            "exp_level": 5,
+            "trophies": 1321,
+            "arena": {
+                "id": 54000005,
+                "name": "Arena 5"
+            },
+            "role": "member",
+            "last_seen": "20200204T204551.000Z",
+            "clan_rank": 35,
+            "previous_clan_rank": 31,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PC2LYL0RJ",
             "name": "mrcorndog",
             "exp_level": 6,
@@ -609,27 +626,10 @@
             },
             "role": "member",
             "last_seen": "20200204T171254.000Z",
-            "clan_rank": 35,
+            "clan_rank": 36,
             "previous_clan_rank": 30,
             "donations": 10,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8VVLJJ2JQ",
-            "name": "BigTastyTunk",
-            "exp_level": 5,
-            "trophies": 1281,
-            "arena": {
-                "id": 54000004,
-                "name": "Arena 4"
-            },
-            "role": "member",
-            "last_seen": "20200204T204551.000Z",
-            "clan_rank": 36,
-            "previous_clan_rank": 31,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -670,7 +670,7 @@
             "tag": "#YR29PV082",
             "name": "witte",
             "exp_level": 4,
-            "trophies": 430,
+            "trophies": 419,
             "arena": {
                 "id": 54000002,
                 "name": "Arena 2"
