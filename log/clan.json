@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 35796,
+    "clan_score": 35790,
     "required_trophies": 2600,
     "donations_per_week": 1038,
     "clan_war_trophies": 55,
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2QY8JCLRQ",
-            "name": "ORIOLPRO777",
-            "exp_level": 10,
-            "trophies": 3551,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "member",
-            "last_seen": "20200204T075828.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "exp_level": 9,
@@ -371,8 +354,25 @@
             },
             "role": "member",
             "last_seen": "20200203T172926.000Z",
-            "clan_rank": 21,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2QY8JCLRQ",
+            "name": "ORIOLPRO777",
+            "exp_level": 10,
+            "trophies": 3525,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "member",
+            "last_seen": "20200204T075828.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 0,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
