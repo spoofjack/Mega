@@ -24,20 +24,20 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "cards_earned": 480,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "cards_earned": 80,
             "battles_played": 0,
             "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "cards_earned": 480,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -163,10 +163,10 @@
             "badge_id": 16000172,
             "clan_score": 441,
             "participants": 13,
-            "crowns": 10,
-            "battles_remaining": 2,
-            "battles_played": 11,
-            "wins": 7
+            "crowns": 13,
+            "battles_remaining": 1,
+            "battles_played": 12,
+            "wins": 8
         },
         {
             "tag": "#PQU88GPL",
