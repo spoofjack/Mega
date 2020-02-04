@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37154,
+    "clan_score": 37159,
     "required_trophies": 2600,
-    "donations_per_week": 1778,
+    "donations_per_week": 1910,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,34 +24,34 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4979,
+            "trophies": 4938,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T195845.000Z",
+            "last_seen": "20200204T200906.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 139,
-            "donations_received": 80,
+            "donations": 187,
+            "donations_received": 96,
             "clan_chest_points": 0
         },
         {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 4759,
+            "trophies": 4788,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T194339.000Z",
+            "last_seen": "20200204T200631.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 71,
-            "donations_received": 90,
+            "donations": 97,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 13,
             "donations": 90,
-            "donations_received": 60,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -152,8 +152,8 @@
             "last_seen": "20200204T195924.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 6,
-            "donations": 223,
-            "donations_received": 120,
+            "donations": 233,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -313,17 +313,17 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3858,
+            "trophies": 3887,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T194152.000Z",
+            "last_seen": "20200204T200037.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
-            "donations": 128,
-            "donations_received": 0,
+            "donations": 176,
+            "donations_received": 16,
             "clan_chest_points": 0
         },
         {
@@ -353,11 +353,11 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T174446.000Z",
+            "last_seen": "20200204T200958.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 18,
             "donations": 68,
-            "donations_received": 120,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 20,
             "donations": 39,
-            "donations_received": 60,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
@@ -510,7 +510,7 @@
             "clan_rank": 29,
             "previous_clan_rank": 26,
             "donations": 26,
-            "donations_received": 110,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -568,7 +568,7 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1424,
+            "trophies": 1454,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
