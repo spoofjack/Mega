@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 13,
+        "participants": 14,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 32,
-        "wins": 20
+        "battles_played": 35,
+        "wins": 22
     },
     "participants": [
         {
@@ -26,6 +26,15 @@
         {
             "tag": "#88PJC2Y0R",
             "name": "MoneyMann",
+            "cards_earned": 400,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#CYVYRRPR",
+            "name": "lokasweetmary",
             "cards_earned": 400,
             "battles_played": 3,
             "collection_day_battles_played": 3,
@@ -133,7 +142,7 @@
         }
     ],
     "clans": null,
-    "cards": 3880,
+    "cards": 4280,
     "state_label": "Collection Day",
     "collection_end_time_label": "18 hours",
     "end_label": "1 day, 18 hours"
