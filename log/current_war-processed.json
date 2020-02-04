@@ -147,6 +147,17 @@
             "wins": 5
         },
         {
+            "tag": "#PQU88GPL",
+            "name": "Kryptonians Ols",
+            "badge_id": 16000098,
+            "clan_score": 337,
+            "participants": 12,
+            "crowns": 9,
+            "battles_remaining": 0,
+            "battles_played": 12,
+            "wins": 4
+        },
+        {
             "tag": "#PCQQ9PGG",
             "name": "Doramions",
             "badge_id": 16000146,
@@ -156,17 +167,6 @@
             "battles_remaining": 2,
             "battles_played": 10,
             "wins": 4
-        },
-        {
-            "tag": "#PQU88GPL",
-            "name": "Kryptonians Ols",
-            "badge_id": 16000098,
-            "clan_score": 337,
-            "participants": 12,
-            "crowns": 7,
-            "battles_remaining": 1,
-            "battles_played": 11,
-            "wins": 3
         },
         {
             "tag": "#P0UYPVRL",
