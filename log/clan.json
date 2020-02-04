@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 36004,
+    "clan_score": 36010,
     "required_trophies": 2600,
-    "donations_per_week": 1502,
+    "donations_per_week": 1520,
     "clan_war_trophies": 55,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 119,
-            "donations_received": 40,
+            "donations_received": 48,
             "clan_chest_points": 0
         },
         {
@@ -187,7 +187,7 @@
             "clan_rank": 10,
             "previous_clan_rank": 5,
             "donations": 132,
-            "donations_received": 126,
+            "donations_received": 128,
             "clan_chest_points": 0
         },
         {
@@ -425,7 +425,7 @@
             "clan_rank": 24,
             "previous_clan_rank": 22,
             "donations": 108,
-            "donations_received": 106,
+            "donations_received": 114,
             "clan_chest_points": 0
         },
         {
@@ -506,7 +506,7 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200201T220934.000Z",
+            "last_seen": "20200204T130901.000Z",
             "clan_rank": 29,
             "previous_clan_rank": 26,
             "donations": 0,
@@ -567,14 +567,14 @@
         {
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
-            "exp_level": 4,
-            "trophies": 1135,
+            "exp_level": 5,
+            "trophies": 1192,
             "arena": {
                 "id": 54000004,
                 "name": "Arena 4"
             },
             "role": "member",
-            "last_seen": "20200203T093255.000Z",
+            "last_seen": "20200204T130327.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 31,
             "donations": 0,
