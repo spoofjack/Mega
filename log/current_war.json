@@ -24,15 +24,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 420,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "cards_earned": 510,
@@ -47,6 +38,15 @@
             "cards_earned": 80,
             "battles_played": 1,
             "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 420,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -130,10 +130,10 @@
             "badge_id": 16000146,
             "clan_score": 429,
             "participants": 12,
-            "crowns": 10,
+            "crowns": 11,
             "battles_remaining": 0,
-            "battles_played": 12,
-            "wins": 6
+            "battles_played": 13,
+            "wins": 7
         },
         {
             "tag": "#YQQUGLU8",
@@ -153,8 +153,8 @@
             "clan_score": 84,
             "participants": 14,
             "crowns": 7,
-            "battles_remaining": 6,
-            "battles_played": 8,
+            "battles_remaining": 5,
+            "battles_played": 9,
             "wins": 2
         },
         {
