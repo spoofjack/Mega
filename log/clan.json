@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38047,
+    "clan_score": 38097,
     "required_trophies": 2600,
-    "donations_per_week": 2232,
+    "donations_per_week": 2272,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,16 +24,16 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4957,
+            "trophies": 4986,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T234538.000Z",
+            "last_seen": "20200205T002157.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 215,
+            "donations": 225,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -115,11 +115,28 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T235107.000Z",
+            "last_seen": "20200205T002845.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 244,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4537,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "elder",
+            "last_seen": "20200205T000621.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 8,
+            "donations": 64,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -133,40 +150,23 @@
             },
             "role": "coLeader",
             "last_seen": "20200204T114925.000Z",
-            "clan_rank": 7,
+            "clan_rank": 8,
             "previous_clan_rank": 3,
             "donations": 104,
             "donations_received": 80,
             "clan_chest_points": 0
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4463,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "elder",
-            "last_seen": "20200205T000621.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 8,
-            "donations": 54,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4437,
+            "trophies": 4423,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T000900.000Z",
+            "last_seen": "20200205T001736.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 5,
             "donations": 162,
@@ -194,16 +194,16 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4256,
+            "trophies": 4245,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T194909.000Z",
+            "last_seen": "20200205T002313.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 9,
-            "donations": 28,
+            "donations": 38,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -211,7 +211,7 @@
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
-            "trophies": 4228,
+            "trophies": 4229,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -432,17 +432,17 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3202,
+            "trophies": 3177,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
             },
             "role": "elder",
-            "last_seen": "20200204T170223.000Z",
+            "last_seen": "20200205T002009.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 20,
             "donations": 39,
-            "donations_received": 80,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -582,6 +582,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#8VVLJJ2JQ",
+            "name": "BigTastyTunk",
+            "exp_level": 5,
+            "trophies": 1506,
+            "arena": {
+                "id": 54000005,
+                "name": "Arena 5"
+            },
+            "role": "member",
+            "last_seen": "20200205T001054.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 31,
+            "donations": 10,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
@@ -592,27 +609,10 @@
             },
             "role": "member",
             "last_seen": "20200204T193648.000Z",
-            "clan_rank": 34,
+            "clan_rank": 35,
             "previous_clan_rank": 32,
             "donations": 0,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#8VVLJJ2JQ",
-            "name": "BigTastyTunk",
-            "exp_level": 5,
-            "trophies": 1390,
-            "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
-            },
-            "role": "member",
-            "last_seen": "20200205T001054.000Z",
-            "clan_rank": 35,
-            "previous_clan_rank": 31,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
