@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 6
+        "battles_played": 13,
+        "wins": 7
     },
     "participants": [
         {
@@ -45,15 +45,6 @@
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "cards_earned": 250,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#LUJRLGYU",
-            "name": "Josh",
-            "cards_earned": 320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -128,6 +119,15 @@
             "cards_earned": 160,
             "battles_played": 1,
             "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#LUJRLGYU",
+            "name": "Josh",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
         },
@@ -224,10 +224,10 @@
             "badge_id": 16000107,
             "clan_score": 61,
             "participants": 20,
-            "crowns": 10,
-            "battles_remaining": 8,
-            "battles_played": 12,
-            "wins": 6
+            "crowns": 11,
+            "battles_remaining": 7,
+            "battles_played": 13,
+            "wins": 7
         },
         {
             "tag": "#L8QUC9C8",

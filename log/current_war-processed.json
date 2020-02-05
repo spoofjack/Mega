@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 10,
+        "crowns": 11,
         "battles_remaining": null,
-        "battles_played": 12,
-        "wins": 6
+        "battles_played": 13,
+        "wins": 7
     },
     "participants": [
         {
@@ -45,15 +45,6 @@
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "cards_earned": 250,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#LUJRLGYU",
-            "name": "Josh",
-            "cards_earned": 320,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -132,6 +123,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#LUJRLGYU",
+            "name": "Josh",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "cards_earned": 400,
@@ -197,6 +197,17 @@
     ],
     "clans": [
         {
+            "tag": "#YQQUGLU8",
+            "name": "Mega PP gang",
+            "badge_id": 16000107,
+            "clan_score": 61,
+            "participants": 20,
+            "crowns": 11,
+            "battles_remaining": 7,
+            "battles_played": 13,
+            "wins": 7
+        },
+        {
             "tag": "#L8QUC9C8",
             "name": "BCC ABIDJAN",
             "badge_id": 16000150,
@@ -205,17 +216,6 @@
             "crowns": 15,
             "battles_remaining": 8,
             "battles_played": 13,
-            "wins": 6
-        },
-        {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 61,
-            "participants": 20,
-            "crowns": 10,
-            "battles_remaining": 8,
-            "battles_played": 12,
             "wins": 6
         },
         {
@@ -255,5 +255,5 @@
     "cards": 6015,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "18 hours"
+    "end_label": "17 hours"
 }
