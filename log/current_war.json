@@ -10,7 +10,7 @@
         "participants": 20,
         "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 8,
+        "battles_played": 9,
         "wins": 3
     },
     "participants": [
@@ -63,15 +63,6 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -159,6 +150,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "cards_earned": 150,
@@ -225,8 +225,8 @@
             "clan_score": 61,
             "participants": 20,
             "crowns": 6,
-            "battles_remaining": 12,
-            "battles_played": 8,
+            "battles_remaining": 11,
+            "battles_played": 9,
             "wins": 3
         },
         {
@@ -235,10 +235,10 @@
             "badge_id": 16000150,
             "clan_score": 535,
             "participants": 21,
-            "crowns": 10,
-            "battles_remaining": 13,
-            "battles_played": 8,
-            "wins": 3
+            "crowns": 11,
+            "battles_remaining": 12,
+            "battles_played": 9,
+            "wins": 4
         },
         {
             "tag": "#LQ8JLUJY",
