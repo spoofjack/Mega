@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38442,
+    "clan_score": 38437,
     "required_trophies": 2600,
-    "donations_per_week": 3416,
+    "donations_per_week": 3424,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,10 +81,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T222718.000Z",
+            "last_seen": "20200205T233444.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 391,
+            "donations": 399,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -347,7 +347,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3867,
+            "trophies": 3817,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -415,17 +415,17 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 3369,
+            "trophies": 3429,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200205T224704.000Z",
+            "last_seen": "20200205T233018.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 236,
-            "donations_received": 198,
+            "donations_received": 206,
             "clan_chest_points": 0
         },
         {
