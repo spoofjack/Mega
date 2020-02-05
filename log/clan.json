@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38200,
+    "clan_score": 38206,
     "required_trophies": 2600,
-    "donations_per_week": 2544,
+    "donations_per_week": 2664,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200205T114153.000Z",
+            "last_seen": "20200205T115703.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 225,
+            "donations": 269,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -47,11 +47,11 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T113046.000Z",
+            "last_seen": "20200205T115153.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 135,
-            "donations_received": 140,
+            "donations": 143,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -64,11 +64,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T034615.000Z",
+            "last_seen": "20200205T115513.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
-            "donations": 28,
-            "donations_received": 80,
+            "donations": 58,
+            "donations_received": 96,
             "clan_chest_points": 0
         },
         {
@@ -85,24 +85,24 @@
             "clan_rank": 4,
             "previous_clan_rank": 8,
             "donations": 357,
-            "donations_received": 190,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
-            "trophies": 4592,
+            "trophies": 4605,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000014,
+                "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T112817.000Z",
+            "last_seen": "20200205T114733.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 4,
-            "donations": 90,
-            "donations_received": 80,
+            "donations": 108,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 6,
             "donations": 278,
-            "donations_received": 192,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 5,
             "donations": 168,
-            "donations_received": 90,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 204,
-            "donations_received": 206,
+            "donations_received": 208,
             "clan_chest_points": 0
         },
         {
@@ -221,7 +221,7 @@
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 38,
-            "donations_received": 76,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T114046.000Z",
+            "last_seen": "20200205T115146.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 17,
-            "donations": 212,
+            "donations": 232,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -540,7 +540,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200205T011917.000Z",
+            "last_seen": "20200205T115428.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 28,
             "donations": 26,
@@ -591,7 +591,7 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200205T022736.000Z",
+            "last_seen": "20200205T115100.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 35,
             "donations": 4,
