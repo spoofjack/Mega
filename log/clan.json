@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38192,
+    "clan_score": 38183,
     "required_trophies": 2600,
-    "donations_per_week": 2376,
+    "donations_per_week": 2384,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,13 +58,13 @@
             "tag": "#CYVYRRPR",
             "name": "lokasweetmary",
             "exp_level": 13,
-            "trophies": 4696,
+            "trophies": 4678,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T010649.000Z",
+            "last_seen": "20200205T030101.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 28,
@@ -160,16 +160,16 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4423,
+            "trophies": 4409,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T001736.000Z",
+            "last_seen": "20200205T030446.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 7,
-            "donations": 162,
+            "donations": 170,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -204,20 +204,20 @@
             "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 204,
-            "donations_received": 168,
+            "donations_received": 176,
             "clan_chest_points": 0
         },
         {
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4275,
+            "trophies": 4303,
             "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
+                "id": 54000013,
+                "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T015603.000Z",
+            "last_seen": "20200205T031337.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 11,
             "donations": 38,
