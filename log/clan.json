@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38183,
+    "clan_score": 38173,
     "required_trophies": 2600,
     "donations_per_week": 2384,
     "clan_war_trophies": 61,
@@ -58,7 +58,7 @@
             "tag": "#CYVYRRPR",
             "name": "lokasweetmary",
             "exp_level": 13,
-            "trophies": 4678,
+            "trophies": 4662,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -211,10 +211,10 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4303,
+            "trophies": 4292,
             "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
+                "id": 54000012,
+                "name": "Legendary Arena"
             },
             "role": "member",
             "last_seen": "20200205T031337.000Z",
