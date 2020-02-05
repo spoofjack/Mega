@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38380,
+    "clan_score": 38363,
     "required_trophies": 2600,
-    "donations_per_week": 3092,
+    "donations_per_week": 3270,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,17 +41,17 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 4818,
+            "trophies": 4798,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T193001.000Z",
+            "last_seen": "20200205T193352.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 143,
-            "donations_received": 160,
+            "donations": 167,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -98,11 +98,11 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T163024.000Z",
+            "last_seen": "20200205T193349.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 124,
-            "donations_received": 120,
+            "donations": 132,
+            "donations_received": 150,
             "clan_chest_points": 0
         },
         {
@@ -132,10 +132,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200205T171940.000Z",
+            "last_seen": "20200205T193340.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
-            "donations": 278,
+            "donations": 313,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -160,16 +160,16 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4470,
+            "trophies": 4457,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T193002.000Z",
+            "last_seen": "20200205T194301.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
-            "donations": 206,
+            "donations": 240,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -183,7 +183,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T171058.000Z",
+            "last_seen": "20200205T193339.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 8,
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 240,
-            "donations_received": 264,
+            "donations_received": 288,
             "clan_chest_points": 0
         },
         {
@@ -251,11 +251,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T192628.000Z",
+            "last_seen": "20200205T194435.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 15,
-            "donations": 80,
-            "donations_received": 40,
+            "donations": 106,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -305,8 +305,8 @@
             "last_seen": "20200205T193003.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
-            "donations": 92,
-            "donations_received": 160,
+            "donations": 119,
+            "donations_received": 192,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T182641.000Z",
+            "last_seen": "20200205T193856.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 232,
+            "donations": 256,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -391,7 +391,7 @@
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 28,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {

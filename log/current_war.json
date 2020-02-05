@@ -10,7 +10,7 @@
         "participants": 20,
         "crowns": 2,
         "battles_remaining": null,
-        "battles_played": 3,
+        "battles_played": 5,
         "wins": 1
     },
     "participants": [
@@ -18,15 +18,6 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "cards_earned": 300,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#88PJC2Y0R",
-            "name": "MoneyMann",
-            "cards_earned": 400,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -150,19 +141,19 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "cards_earned": 480,
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "cards_earned": 150,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "cards_earned": 150,
-            "battles_played": 0,
+            "tag": "#88PJC2Y0R",
+            "name": "MoneyMann",
+            "cards_earned": 400,
+            "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
@@ -192,6 +183,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "cards_earned": 480,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
             "number_of_battles": 1
         }
     ],
@@ -225,8 +225,8 @@
             "clan_score": 61,
             "participants": 20,
             "crowns": 2,
-            "battles_remaining": 17,
-            "battles_played": 3,
+            "battles_remaining": 15,
+            "battles_played": 5,
             "wins": 1
         },
         {
@@ -246,9 +246,9 @@
             "badge_id": 16000006,
             "clan_score": 7,
             "participants": 21,
-            "crowns": 6,
-            "battles_remaining": 17,
-            "battles_played": 4,
+            "crowns": 7,
+            "battles_remaining": 15,
+            "battles_played": 6,
             "wins": 3
         }
     ]
