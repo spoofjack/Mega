@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38031,
+    "clan_score": 38047,
     "required_trophies": 2600,
     "donations_per_week": 2232,
     "clan_war_trophies": 61,
@@ -98,7 +98,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T230931.000Z",
+            "last_seen": "20200205T000345.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
             "donations": 285,
@@ -140,6 +140,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4463,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "elder",
+            "last_seen": "20200205T000621.000Z",
+            "clan_rank": 8,
+            "previous_clan_rank": 8,
+            "donations": 54,
+            "donations_received": 120,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
@@ -149,28 +166,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200204T163737.000Z",
-            "clan_rank": 8,
+            "last_seen": "20200205T000900.000Z",
+            "clan_rank": 9,
             "previous_clan_rank": 5,
             "donations": 162,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4434,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "elder",
-            "last_seen": "20200204T234426.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 8,
-            "donations": 54,
-            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -211,13 +211,13 @@
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
-            "trophies": 4220,
+            "trophies": 4228,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200204T235148.000Z",
+            "last_seen": "20200205T001023.000Z",
             "clan_rank": 12,
             "previous_clan_rank": 0,
             "donations": 0,
@@ -336,7 +336,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T235221.000Z",
+            "last_seen": "20200205T000143.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 16,
             "donations": 186,
@@ -455,7 +455,7 @@
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200204T221205.000Z",
+            "last_seen": "20200205T000715.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 22,
             "donations": 140,
@@ -608,7 +608,7 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200204T225344.000Z",
+            "last_seen": "20200205T001054.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 31,
             "donations": 0,
