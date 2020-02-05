@@ -7,10 +7,10 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 19,
+        "participants": 20,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 52,
+        "battles_played": 53,
         "wins": 27
     },
     "participants": [
@@ -39,6 +39,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#CC89GPR",
+            "name": "unicorn",
+            "cards_earned": 80,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
             "number_of_battles": 3
         },
         {
@@ -187,7 +196,7 @@
         }
     ],
     "clans": null,
-    "cards": 5935,
+    "cards": 6015,
     "state_label": "Collection Day",
     "collection_end_time_label": "3 hours",
     "end_label": "1 day, 3 hours"
