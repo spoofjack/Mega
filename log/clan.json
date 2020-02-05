@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38178,
+    "clan_score": 38192,
     "required_trophies": 2600,
     "donations_per_week": 2390,
     "clan_war_trophies": 61,
@@ -497,6 +497,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 8,
+            "trophies": 2290,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "elder",
+            "last_seen": "20200205T040608.000Z",
+            "clan_rank": 29,
+            "previous_clan_rank": 29,
+            "donations": 18,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "exp_level": 8,
@@ -507,27 +524,10 @@
             },
             "role": "member",
             "last_seen": "20200204T222204.000Z",
-            "clan_rank": 29,
+            "clan_rank": 30,
             "previous_clan_rank": 27,
             "donations": 0,
             "donations_received": 60,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "exp_level": 8,
-            "trophies": 2171,
-            "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
-            },
-            "role": "elder",
-            "last_seen": "20200205T034613.000Z",
-            "clan_rank": 30,
-            "previous_clan_rank": 29,
-            "donations": 18,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
