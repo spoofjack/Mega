@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38398,
+    "clan_score": 38435,
     "required_trophies": 2600,
     "donations_per_week": 3408,
     "clan_war_trophies": 61,
@@ -330,7 +330,7 @@
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
-            "trophies": 3844,
+            "trophies": 3963,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -347,7 +347,7 @@
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
-            "trophies": 3833,
+            "trophies": 3867,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -567,14 +567,14 @@
         {
             "tag": "#YG8QJR922",
             "name": "Lil Muck",
-            "exp_level": 6,
+            "exp_level": 7,
             "trophies": 1807,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200205T172647.000Z",
+            "last_seen": "20200205T224116.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 32,
             "donations": 0,
