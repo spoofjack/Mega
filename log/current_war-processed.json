@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 6,
+        "crowns": 9,
         "battles_remaining": null,
-        "battles_played": 9,
-        "wins": 3
+        "battles_played": 11,
+        "wins": 5
     },
     "participants": [
         {
@@ -85,15 +85,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "cards_earned": 375,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#9YP8Y9U9V",
@@ -193,9 +184,29 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "cards_earned": 375,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 2,
+            "number_of_battles": 2
         }
     ],
     "clans": [
+        {
+            "tag": "#YQQUGLU8",
+            "name": "Mega PP gang",
+            "badge_id": 16000107,
+            "clan_score": 61,
+            "participants": 20,
+            "crowns": 9,
+            "battles_remaining": 9,
+            "battles_played": 11,
+            "wins": 5
+        },
         {
             "tag": "#L8QUC9C8",
             "name": "BCC ABIDJAN",
@@ -203,8 +214,8 @@
             "clan_score": 535,
             "participants": 21,
             "crowns": 11,
-            "battles_remaining": 12,
-            "battles_played": 9,
+            "battles_remaining": 11,
+            "battles_played": 10,
             "wins": 4
         },
         {
@@ -217,17 +228,6 @@
             "battles_remaining": 12,
             "battles_played": 9,
             "wins": 4
-        },
-        {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 61,
-            "participants": 20,
-            "crowns": 6,
-            "battles_remaining": 11,
-            "battles_played": 9,
-            "wins": 3
         },
         {
             "tag": "#8CRYJJYU",
