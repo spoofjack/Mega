@@ -203,9 +203,20 @@
             "clan_score": 539,
             "participants": 21,
             "crowns": 2,
+            "battles_remaining": 16,
+            "battles_played": 5,
+            "wins": 2
+        },
+        {
+            "tag": "#L8QUC9C8",
+            "name": "BCC ABIDJAN",
+            "badge_id": 16000150,
+            "clan_score": 535,
+            "participants": 21,
+            "crowns": 4,
             "battles_remaining": 17,
             "battles_played": 4,
-            "wins": 2
+            "wins": 1
         },
         {
             "tag": "#9YLV2Q9",
@@ -239,21 +250,10 @@
             "battles_remaining": 18,
             "battles_played": 2,
             "wins": 1
-        },
-        {
-            "tag": "#L8QUC9C8",
-            "name": "BCC ABIDJAN",
-            "badge_id": 16000150,
-            "clan_score": 535,
-            "participants": 21,
-            "crowns": 0,
-            "battles_remaining": 20,
-            "battles_played": 1,
-            "wins": 0
         }
     ],
     "cards": 6015,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "23 hours"
+    "end_label": "22 hours"
 }
