@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 17,
+        "participants": 18,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 44,
-        "wins": 22
+        "battles_played": 46,
+        "wins": 23
     },
     "participants": [
         {
@@ -30,6 +30,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#8G82CVLG",
+            "name": "CamaroBro",
+            "cards_earned": 240,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -169,8 +178,8 @@
         }
     ],
     "clans": null,
-    "cards": 4910,
+    "cards": 5150,
     "state_label": "Collection Day",
-    "collection_end_time_label": "6 hours",
-    "end_label": "1 day, 6 hours"
+    "collection_end_time_label": "5 hours",
+    "end_label": "1 day, 5 hours"
 }
