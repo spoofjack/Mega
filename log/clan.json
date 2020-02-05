@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38408,
+    "clan_score": 38436,
     "required_trophies": 2600,
     "donations_per_week": 3408,
     "clan_war_trophies": 61,
@@ -24,7 +24,7 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 5065,
+            "trophies": 5095,
             "arena": {
                 "id": 54000015,
                 "name": "Master I"
@@ -75,13 +75,13 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 11,
-            "trophies": 4654,
+            "trophies": 4619,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T211237.000Z",
+            "last_seen": "20200205T220105.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 391,
@@ -132,7 +132,7 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200205T215221.000Z",
+            "last_seen": "20200205T221351.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 343,
@@ -327,6 +327,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "exp_level": 8,
+            "trophies": 3866,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "coLeader",
+            "last_seen": "20200205T215326.000Z",
+            "clan_rank": 19,
+            "previous_clan_rank": 20,
+            "donations": 81,
+            "donations_received": 240,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
@@ -337,7 +354,7 @@
             },
             "role": "coLeader",
             "last_seen": "20200205T211715.000Z",
-            "clan_rank": 19,
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 286,
             "donations_received": 40,
@@ -354,27 +371,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200205T165827.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 21,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "exp_level": 8,
-            "trophies": 3746,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "coLeader",
-            "last_seen": "20200205T215326.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 20,
-            "donations": 81,
-            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -585,13 +585,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1743,
+            "trophies": 1763,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200205T215318.000Z",
+            "last_seen": "20200205T221113.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 4,
