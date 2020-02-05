@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38086,
+    "clan_score": 38105,
     "required_trophies": 2600,
-    "donations_per_week": 2304,
+    "donations_per_week": 2330,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,13 +24,13 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4986,
+            "trophies": 5013,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200205T002157.000Z",
+            "last_seen": "20200205T013923.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 225,
@@ -98,10 +98,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T012913.000Z",
+            "last_seen": "20200205T013141.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
-            "donations": 293,
+            "donations": 303,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -132,10 +132,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200205T002845.000Z",
+            "last_seen": "20200205T013231.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 4,
-            "donations": 244,
+            "donations": 252,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 10,
             "donations": 36,
-            "donations_received": 64,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -455,10 +455,10 @@
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200205T000715.000Z",
+            "last_seen": "20200205T013751.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 22,
-            "donations": 140,
+            "donations": 148,
             "donations_received": 150,
             "clan_chest_points": 0
         },
@@ -582,6 +582,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#Y20RLJJR0",
+            "name": "yeet",
+            "exp_level": 6,
+            "trophies": 1515,
+            "arena": {
+                "id": 54000005,
+                "name": "Arena 5"
+            },
+            "role": "member",
+            "last_seen": "20200205T013523.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 32,
+            "donations": 0,
+            "donations_received": 50,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 5,
@@ -592,27 +609,10 @@
             },
             "role": "member",
             "last_seen": "20200205T001054.000Z",
-            "clan_rank": 34,
+            "clan_rank": 35,
             "previous_clan_rank": 31,
             "donations": 10,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#Y20RLJJR0",
-            "name": "yeet",
-            "exp_level": 6,
-            "trophies": 1454,
-            "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
-            },
-            "role": "member",
-            "last_seen": "20200204T193648.000Z",
-            "clan_rank": 35,
-            "previous_clan_rank": 32,
-            "donations": 0,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
