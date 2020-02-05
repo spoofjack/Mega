@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38095,
+    "clan_score": 38086,
     "required_trophies": 2600,
-    "donations_per_week": 2280,
+    "donations_per_week": 2296,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -58,16 +58,16 @@
             "tag": "#CYVYRRPR",
             "name": "lokasweetmary",
             "exp_level": 13,
-            "trophies": 4715,
+            "trophies": 4696,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200204T223405.000Z",
+            "last_seen": "20200205T010649.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 0,
-            "donations": 20,
+            "donations": 28,
             "donations_received": 72,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 10,
             "donations": 36,
-            "donations_received": 40,
+            "donations_received": 56,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T004208.000Z",
+            "last_seen": "20200205T011127.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 16,
-            "donations": 186,
+            "donations": 194,
             "donations_received": 40,
             "clan_chest_points": 0
         },
