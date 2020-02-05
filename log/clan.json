@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38363,
+    "clan_score": 38366,
     "required_trophies": 2600,
-    "donations_per_week": 3270,
+    "donations_per_week": 3280,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,7 +81,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T172654.000Z",
+            "last_seen": "20200205T195628.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 391,
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 132,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -149,7 +149,7 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200205T112026.000Z",
+            "last_seen": "20200205T195428.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 8,
             "donations": 168,
@@ -339,7 +339,7 @@
             "last_seen": "20200205T193856.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 19,
-            "donations": 256,
+            "donations": 266,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -381,13 +381,13 @@
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "exp_level": 9,
-            "trophies": 3617,
+            "trophies": 3647,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200205T192120.000Z",
+            "last_seen": "20200205T195423.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,

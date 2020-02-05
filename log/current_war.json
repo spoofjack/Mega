@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 2,
+        "crowns": 6,
         "battles_remaining": null,
-        "battles_played": 5,
-        "wins": 1
+        "battles_played": 7,
+        "wins": 3
     },
     "participants": [
         {
@@ -65,15 +65,6 @@
             "cards_earned": 250,
             "battles_played": 0,
             "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8CCQ98JY",
-            "name": "Colin Harrison",
-            "cards_earned": 160,
-            "battles_played": 0,
-            "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
         },
@@ -132,15 +123,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PR8LY90G2",
-            "name": "RIP Kobe",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "cards_earned": 150,
@@ -156,6 +138,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#8CCQ98JY",
+            "name": "Colin Harrison",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -179,6 +170,15 @@
         {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
+            "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#PR8LY90G2",
+            "name": "RIP Kobe",
             "cards_earned": 400,
             "battles_played": 1,
             "collection_day_battles_played": 3,
@@ -224,10 +224,10 @@
             "badge_id": 16000107,
             "clan_score": 61,
             "participants": 20,
-            "crowns": 2,
-            "battles_remaining": 15,
-            "battles_played": 5,
-            "wins": 1
+            "crowns": 6,
+            "battles_remaining": 13,
+            "battles_played": 7,
+            "wins": 3
         },
         {
             "tag": "#L8QUC9C8",
@@ -246,10 +246,10 @@
             "badge_id": 16000006,
             "clan_score": 7,
             "participants": 21,
-            "crowns": 7,
-            "battles_remaining": 15,
-            "battles_played": 6,
-            "wins": 3
+            "crowns": 8,
+            "battles_remaining": 14,
+            "battles_played": 7,
+            "wins": 4
         }
     ]
 }
