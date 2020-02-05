@@ -8,10 +8,10 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 0,
+        "crowns": 1,
         "battles_remaining": null,
-        "battles_played": 1,
-        "wins": 0
+        "battles_played": 2,
+        "wins": 1
     },
     "participants": [
         {
@@ -141,15 +141,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
             "cards_earned": 70,
@@ -193,6 +184,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "cards_earned": 400,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
         }
     ],
     "clans": [
@@ -202,10 +202,32 @@
             "badge_id": 16000144,
             "clan_score": 569,
             "participants": 22,
-            "crowns": 0,
-            "battles_remaining": 21,
+            "crowns": 2,
+            "battles_remaining": 20,
+            "battles_played": 2,
+            "wins": 1
+        },
+        {
+            "tag": "#LQ8JLUJY",
+            "name": "#Polska2",
+            "badge_id": 16000006,
+            "clan_score": 7,
+            "participants": 21,
+            "crowns": 2,
+            "battles_remaining": 20,
             "battles_played": 1,
-            "wins": 0
+            "wins": 1
+        },
+        {
+            "tag": "#YQQUGLU8",
+            "name": "Mega PP gang",
+            "badge_id": 16000107,
+            "clan_score": 61,
+            "participants": 20,
+            "crowns": 1,
+            "battles_remaining": 18,
+            "battles_played": 2,
+            "wins": 1
         },
         {
             "tag": "#8CRYJJYU",
@@ -214,18 +236,7 @@
             "clan_score": 539,
             "participants": 21,
             "crowns": 0,
-            "battles_remaining": 21,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 61,
-            "participants": 20,
-            "crowns": 0,
-            "battles_remaining": 19,
+            "battles_remaining": 20,
             "battles_played": 1,
             "wins": 0
         },
@@ -236,19 +247,8 @@
             "clan_score": 535,
             "participants": 21,
             "crowns": 0,
-            "battles_remaining": 21,
-            "battles_played": 0,
-            "wins": 0
-        },
-        {
-            "tag": "#LQ8JLUJY",
-            "name": "#Polska2",
-            "badge_id": 16000006,
-            "clan_score": 7,
-            "participants": 21,
-            "crowns": 0,
-            "battles_remaining": 21,
-            "battles_played": 0,
+            "battles_remaining": 20,
+            "battles_played": 1,
             "wins": 0
         }
     ],
