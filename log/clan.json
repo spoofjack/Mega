@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 38380,
     "required_trophies": 2600,
-    "donations_per_week": 3072,
+    "donations_per_week": 3092,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T190903.000Z",
+            "last_seen": "20200205T193001.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 143,
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T172312.000Z",
+            "last_seen": "20200205T193002.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 206,
@@ -200,11 +200,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T190909.000Z",
+            "last_seen": "20200205T191720.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 240,
-            "donations_received": 248,
+            "donations_received": 264,
             "clan_chest_points": 0
         },
         {
@@ -251,10 +251,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T191456.000Z",
+            "last_seen": "20200205T192628.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 15,
-            "donations": 72,
+            "donations": 80,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -302,7 +302,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T163923.000Z",
+            "last_seen": "20200205T193003.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 92,
@@ -387,11 +387,11 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200205T190014.000Z",
+            "last_seen": "20200205T192120.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 24,
+            "donations_received": 28,
             "clan_chest_points": 0
         },
         {
@@ -438,10 +438,10 @@
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200205T190717.000Z",
+            "last_seen": "20200205T192314.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 26,
-            "donations": 218,
+            "donations": 226,
             "donations_received": 190,
             "clan_chest_points": 0
         },
@@ -642,10 +642,10 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200205T171026.000Z",
+            "last_seen": "20200205T192717.000Z",
             "clan_rank": 37,
             "previous_clan_rank": 37,
-            "donations": 18,
+            "donations": 22,
             "donations_received": 60,
             "clan_chest_points": 0
         },
