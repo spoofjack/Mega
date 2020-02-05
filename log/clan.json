@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 38380,
     "required_trophies": 2600,
-    "donations_per_week": 3370,
+    "donations_per_week": 3380,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200205T205403.000Z",
+            "last_seen": "20200205T213740.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 322,
+            "donations": 332,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -85,7 +85,7 @@
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 391,
-            "donations_received": 210,
+            "donations_received": 220,
             "clan_chest_points": 0
         },
         {
