@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38173,
+    "clan_score": 38178,
     "required_trophies": 2600,
-    "donations_per_week": 2384,
+    "donations_per_week": 2390,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -64,7 +64,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T030101.000Z",
+            "last_seen": "20200205T034615.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 28,
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 10,
             "donations": 204,
-            "donations_received": 176,
+            "donations_received": 182,
             "clan_chest_points": 0
         },
         {
@@ -514,6 +514,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PY0LJRJV0",
+            "name": "Inferior ark",
+            "exp_level": 8,
+            "trophies": 2171,
+            "arena": {
+                "id": 54000008,
+                "name": "Arena 7"
+            },
+            "role": "elder",
+            "last_seen": "20200205T034613.000Z",
+            "clan_rank": 30,
+            "previous_clan_rank": 29,
+            "donations": 18,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "exp_level": 8,
@@ -524,27 +541,10 @@
             },
             "role": "member",
             "last_seen": "20200205T011917.000Z",
-            "clan_rank": 30,
+            "clan_rank": 31,
             "previous_clan_rank": 28,
             "donations": 26,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PY0LJRJV0",
-            "name": "Inferior ark",
-            "exp_level": 8,
-            "trophies": 2134,
-            "arena": {
-                "id": 54000008,
-                "name": "Arena 7"
-            },
-            "role": "elder",
-            "last_seen": "20200205T034217.000Z",
-            "clan_rank": 31,
-            "previous_clan_rank": 29,
-            "donations": 12,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
