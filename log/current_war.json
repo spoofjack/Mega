@@ -8,21 +8,12 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 9,
+        "crowns": 10,
         "battles_remaining": null,
-        "battles_played": 11,
-        "wins": 5
+        "battles_played": 12,
+        "wins": 6
     },
     "participants": [
-        {
-            "tag": "#Y8VQ22Y0G",
-            "name": "bass",
-            "cards_earned": 300,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
         {
             "tag": "#CC89GPR",
             "name": "unicorn",
@@ -102,6 +93,15 @@
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#Y8VQ22Y0G",
+            "name": "bass",
+            "cards_earned": 300,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -224,10 +224,10 @@
             "badge_id": 16000107,
             "clan_score": 61,
             "participants": 20,
-            "crowns": 9,
-            "battles_remaining": 9,
-            "battles_played": 11,
-            "wins": 5
+            "crowns": 10,
+            "battles_remaining": 8,
+            "battles_played": 12,
+            "wins": 6
         },
         {
             "tag": "#L8QUC9C8",
@@ -235,10 +235,10 @@
             "badge_id": 16000150,
             "clan_score": 535,
             "participants": 21,
-            "crowns": 11,
-            "battles_remaining": 11,
-            "battles_played": 10,
-            "wins": 4
+            "crowns": 15,
+            "battles_remaining": 9,
+            "battles_played": 12,
+            "wins": 6
         },
         {
             "tag": "#LQ8JLUJY",
