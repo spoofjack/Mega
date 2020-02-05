@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38291,
+    "clan_score": 38327,
     "required_trophies": 2600,
     "donations_per_week": 2948,
     "clan_war_trophies": 61,
@@ -24,10 +24,10 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4949,
+            "trophies": 5005,
             "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
+                "id": 54000015,
+                "name": "Master I"
             },
             "role": "coLeader",
             "last_seen": "20200205T150739.000Z",
@@ -483,7 +483,7 @@
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
-            "trophies": 2364,
+            "trophies": 2429,
             "arena": {
                 "id": 54000009,
                 "name": "Arena 8"
