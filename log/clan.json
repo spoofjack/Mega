@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 38086,
     "required_trophies": 2600,
-    "donations_per_week": 2296,
+    "donations_per_week": 2304,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -98,10 +98,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T000345.000Z",
+            "last_seen": "20200205T012913.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 6,
-            "donations": 285,
+            "donations": 293,
             "donations_received": 160,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 10,
             "donations": 36,
-            "donations_received": 56,
+            "donations_received": 64,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200204T194418.000Z",
+            "last_seen": "20200205T011917.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 26,
             "donations": 26,
