@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38323,
+    "clan_score": 38343,
     "required_trophies": 2600,
     "donations_per_week": 2968,
     "clan_war_trophies": 61,
@@ -81,7 +81,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T131833.000Z",
+            "last_seen": "20200205T164416.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
             "donations": 391,
@@ -98,7 +98,7 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T150819.000Z",
+            "last_seen": "20200205T163024.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
             "donations": 124,
@@ -115,7 +115,7 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200205T131058.000Z",
+            "last_seen": "20200205T163613.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
             "donations": 90,
@@ -132,7 +132,7 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200205T162847.000Z",
+            "last_seen": "20200205T164458.000Z",
             "clan_rank": 7,
             "previous_clan_rank": 7,
             "donations": 278,
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T141854.000Z",
+            "last_seen": "20200205T163749.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 9,
             "donations": 206,
@@ -302,7 +302,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T162749.000Z",
+            "last_seen": "20200205T163923.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 92,
@@ -344,6 +344,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#902PYQUV9",
+            "name": "tjz043411",
+            "exp_level": 9,
+            "trophies": 3773,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "coLeader",
+            "last_seen": "20200205T163408.000Z",
+            "clan_rank": 20,
+            "previous_clan_rank": 21,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
@@ -354,27 +371,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200205T131625.000Z",
-            "clan_rank": 20,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 71,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#902PYQUV9",
-            "name": "tjz043411",
-            "exp_level": 9,
-            "trophies": 3738,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "coLeader",
-            "last_seen": "20200205T122857.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 21,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -429,6 +429,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 7,
+            "trophies": 3188,
+            "arena": {
+                "id": 54000007,
+                "name": "Arena 10"
+            },
+            "role": "member",
+            "last_seen": "20200205T163210.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 26,
+            "donations": 190,
+            "donations_received": 190,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
@@ -439,27 +456,10 @@
             },
             "role": "elder",
             "last_seen": "20200205T131654.000Z",
-            "clan_rank": 25,
+            "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 47,
             "donations_received": 160,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 7,
-            "trophies": 3098,
-            "arena": {
-                "id": 54000007,
-                "name": "Arena 10"
-            },
-            "role": "member",
-            "last_seen": "20200205T162836.000Z",
-            "clan_rank": 26,
-            "previous_clan_rank": 26,
-            "donations": 190,
-            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -523,7 +523,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200205T162915.000Z",
+            "last_seen": "20200205T164449.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 0,
@@ -540,7 +540,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200205T162747.000Z",
+            "last_seen": "20200205T163440.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 30,
             "donations": 28,
@@ -585,13 +585,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1694,
+            "trophies": 1701,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200205T122231.000Z",
+            "last_seen": "20200205T163512.000Z",
             "clan_rank": 34,
             "previous_clan_rank": 34,
             "donations": 4,
