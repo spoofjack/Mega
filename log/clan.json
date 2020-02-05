@@ -336,7 +336,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T215326.000Z",
+            "last_seen": "20200205T224535.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 81,
@@ -412,6 +412,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 7,
+            "trophies": 3369,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "member",
+            "last_seen": "20200205T224704.000Z",
+            "clan_rank": 24,
+            "previous_clan_rank": 26,
+            "donations": 236,
+            "donations_received": 190,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#98L88RRGJ",
             "name": "baller118107",
             "exp_level": 8,
@@ -422,27 +439,10 @@
             },
             "role": "member",
             "last_seen": "20200204T191627.000Z",
-            "clan_rank": 24,
+            "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 7,
-            "trophies": 3339,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "member",
-            "last_seen": "20200205T202821.000Z",
-            "clan_rank": 25,
-            "previous_clan_rank": 26,
-            "donations": 236,
-            "donations_received": 190,
             "clan_chest_points": 0
         },
         {
@@ -565,23 +565,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#YG8QJR922",
-            "name": "Lil Muck",
-            "exp_level": 7,
-            "trophies": 1807,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "member",
-            "last_seen": "20200205T224116.000Z",
-            "clan_rank": 33,
-            "previous_clan_rank": 32,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#8G2LCU09G",
             "name": "Feebear2.0",
             "exp_level": 7,
@@ -592,8 +575,25 @@
             },
             "role": "member",
             "last_seen": "20200202T231331.000Z",
-            "clan_rank": 34,
+            "clan_rank": 33,
             "previous_clan_rank": 33,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#YG8QJR922",
+            "name": "Lil Muck",
+            "exp_level": 7,
+            "trophies": 1764,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200205T225047.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 32,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -670,13 +670,13 @@
             "tag": "#P0QR989GJ",
             "name": "dear hunter",
             "exp_level": 7,
-            "trophies": 604,
+            "trophies": 600,
             "arena": {
                 "id": 54000003,
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200205T222443.000Z",
+            "last_seen": "20200205T224617.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 0,
