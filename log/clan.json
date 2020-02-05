@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38313,
+    "clan_score": 38291,
     "required_trophies": 2600,
-    "donations_per_week": 2926,
+    "donations_per_week": 2948,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,16 +24,16 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4970,
+            "trophies": 4949,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T131958.000Z",
+            "last_seen": "20200205T150739.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 284,
+            "donations": 292,
             "donations_received": 158,
             "clan_chest_points": 0
         },
@@ -92,16 +92,16 @@
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
-            "trophies": 4631,
+            "trophies": 4614,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T133038.000Z",
+            "last_seen": "20200205T150819.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 5,
-            "donations": 116,
+            "donations": 124,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -455,11 +455,11 @@
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200205T142652.000Z",
+            "last_seen": "20200205T150544.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 26,
             "donations": 190,
-            "donations_received": 150,
+            "donations_received": 172,
             "clan_chest_points": 0
         },
         {
@@ -483,16 +483,16 @@
             "tag": "#PY0LJRJV0",
             "name": "Inferior ark",
             "exp_level": 8,
-            "trophies": 2386,
+            "trophies": 2364,
             "arena": {
                 "id": 54000009,
                 "name": "Arena 8"
             },
             "role": "elder",
-            "last_seen": "20200205T141708.000Z",
+            "last_seen": "20200205T151225.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 31,
-            "donations": 42,
+            "donations": 48,
             "donations_received": 30,
             "clan_chest_points": 0
         },
@@ -676,7 +676,7 @@
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200205T024205.000Z",
+            "last_seen": "20200205T150519.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 0,
