@@ -7,20 +7,20 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 61,
-        "participants": 18,
+        "participants": 19,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 49,
-        "wins": 25
+        "battles_played": 52,
+        "wins": 27
     },
     "participants": [
         {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
-            "cards_earned": 75,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 0,
+            "cards_earned": 300,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -66,6 +66,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#8CCQ98JY",
+            "name": "Colin Harrison",
+            "cards_earned": 160,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -178,7 +187,7 @@
         }
     ],
     "clans": null,
-    "cards": 5550,
+    "cards": 5935,
     "state_label": "Collection Day",
     "collection_end_time_label": "5 hours",
     "end_label": "1 day, 5 hours"
