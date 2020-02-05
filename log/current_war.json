@@ -214,8 +214,8 @@
             "clan_score": 539,
             "participants": 21,
             "crowns": 5,
-            "battles_remaining": 14,
-            "battles_played": 7,
+            "battles_remaining": 13,
+            "battles_played": 8,
             "wins": 3
         },
         {
@@ -235,10 +235,10 @@
             "badge_id": 16000150,
             "clan_score": 535,
             "participants": 21,
-            "crowns": 8,
-            "battles_remaining": 14,
-            "battles_played": 7,
-            "wins": 2
+            "crowns": 10,
+            "battles_remaining": 13,
+            "battles_played": 8,
+            "wins": 3
         },
         {
             "tag": "#LQ8JLUJY",
@@ -247,8 +247,8 @@
             "clan_score": 7,
             "participants": 21,
             "crowns": 8,
-            "battles_remaining": 13,
-            "battles_played": 8,
+            "battles_remaining": 12,
+            "battles_played": 9,
             "wins": 4
         }
     ]
