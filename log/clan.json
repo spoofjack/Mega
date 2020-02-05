@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38376,
+    "clan_score": 38380,
     "required_trophies": 2600,
-    "donations_per_week": 3048,
+    "donations_per_week": 3072,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -47,7 +47,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T172418.000Z",
+            "last_seen": "20200205T190903.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 143,
@@ -200,10 +200,10 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T172151.000Z",
+            "last_seen": "20200205T190909.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
-            "donations": 232,
+            "donations": 240,
             "donations_received": 248,
             "clan_chest_points": 0
         },
@@ -251,10 +251,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T155842.000Z",
+            "last_seen": "20200205T191456.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 15,
-            "donations": 64,
+            "donations": 72,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -387,11 +387,11 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200205T185214.000Z",
+            "last_seen": "20200205T190014.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 24,
             "clan_chest_points": 0
         },
         {
@@ -438,10 +438,10 @@
                 "name": "Arena 10"
             },
             "role": "member",
-            "last_seen": "20200205T185824.000Z",
+            "last_seen": "20200205T190717.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 26,
-            "donations": 210,
+            "donations": 218,
             "donations_received": 190,
             "clan_chest_points": 0
         },
@@ -517,13 +517,13 @@
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
             "exp_level": 8,
-            "trophies": 2263,
+            "trophies": 2296,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200205T164449.000Z",
+            "last_seen": "20200205T190228.000Z",
             "clan_rank": 30,
             "previous_clan_rank": 29,
             "donations": 0,
@@ -676,7 +676,7 @@
                 "name": "Arena 3"
             },
             "role": "member",
-            "last_seen": "20200205T150519.000Z",
+            "last_seen": "20200205T190548.000Z",
             "clan_rank": 39,
             "previous_clan_rank": 39,
             "donations": 0,
