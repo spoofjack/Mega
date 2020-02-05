@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 37968,
+    "clan_score": 38031,
     "required_trophies": 2600,
-    "donations_per_week": 2204,
+    "donations_per_week": 2232,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -24,16 +24,16 @@
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "exp_level": 12,
-            "trophies": 4917,
+            "trophies": 4957,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T200906.000Z",
+            "last_seen": "20200204T234538.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 197,
+            "donations": 215,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -47,7 +47,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200204T233757.000Z",
+            "last_seen": "20200204T235046.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
             "donations": 117,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 0,
             "donations": 20,
-            "donations_received": 56,
+            "donations_received": 64,
             "clan_chest_points": 0
         },
         {
@@ -115,7 +115,7 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200204T233105.000Z",
+            "last_seen": "20200204T235107.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 4,
             "donations": 244,
@@ -160,7 +160,7 @@
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
-            "trophies": 4375,
+            "trophies": 4434,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -170,7 +170,7 @@
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 54,
-            "donations_received": 100,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -208,6 +208,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9JVPPVLPU",
+            "name": "ggfy",
+            "exp_level": 9,
+            "trophies": 4220,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200204T235148.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 0,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PGJU89CQL",
             "name": "Jar432",
             "exp_level": 9,
@@ -218,7 +235,7 @@
             },
             "role": "member",
             "last_seen": "20200204T215923.000Z",
-            "clan_rank": 12,
+            "clan_rank": 13,
             "previous_clan_rank": 11,
             "donations": 26,
             "donations_received": 80,
@@ -235,7 +252,7 @@
             },
             "role": "member",
             "last_seen": "20200204T193538.000Z",
-            "clan_rank": 13,
+            "clan_rank": 14,
             "previous_clan_rank": 0,
             "donations": 8,
             "donations_received": 0,
@@ -252,27 +269,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200204T224215.000Z",
-            "clan_rank": 14,
+            "clan_rank": 15,
             "previous_clan_rank": 10,
             "donations": 28,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9JVPPVLPU",
-            "name": "ggfy",
-            "exp_level": 9,
-            "trophies": 4171,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200204T225543.000Z",
-            "clan_rank": 15,
-            "previous_clan_rank": 0,
-            "donations": 0,
-            "donations_received": 0,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200204T221832.000Z",
+            "last_seen": "20200204T235221.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 16,
-            "donations": 176,
+            "donations": 186,
             "donations_received": 40,
             "clan_chest_points": 0
         },
