@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38224,
+    "clan_score": 38239,
     "required_trophies": 2600,
-    "donations_per_week": 2865,
+    "donations_per_week": 2904,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,11 +30,11 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200205T121013.000Z",
+            "last_seen": "20200205T131958.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 277,
-            "donations_received": 120,
+            "donations": 284,
+            "donations_received": 136,
             "clan_chest_points": 0
         },
         {
@@ -81,10 +81,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T121850.000Z",
+            "last_seen": "20200205T131833.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 8,
-            "donations": 375,
+            "donations": 391,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -109,7 +109,7 @@
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
-            "trophies": 4537,
+            "trophies": 4566,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -118,7 +118,7 @@
             "last_seen": "20200205T131058.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 9,
-            "donations": 82,
+            "donations": 90,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -238,7 +238,7 @@
             "clan_rank": 13,
             "previous_clan_rank": 0,
             "donations": 54,
-            "donations_received": 30,
+            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T131224.000Z",
+            "last_seen": "20200205T131625.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 71,
@@ -432,13 +432,13 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3184,
+            "trophies": 3159,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
             },
             "role": "elder",
-            "last_seen": "20200205T130349.000Z",
+            "last_seen": "20200205T131654.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 22,
             "donations": 47,
@@ -489,7 +489,7 @@
                 "name": "Arena 8"
             },
             "role": "elder",
-            "last_seen": "20200205T130145.000Z",
+            "last_seen": "20200205T131644.000Z",
             "clan_rank": 28,
             "previous_clan_rank": 29,
             "donations": 36,
@@ -527,7 +527,7 @@
             "clan_rank": 30,
             "previous_clan_rank": 27,
             "donations": 0,
-            "donations_received": 77,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
@@ -616,6 +616,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#PC2LYL0RJ",
+            "name": "mrcorndog",
+            "exp_level": 6,
+            "trophies": 1333,
+            "arena": {
+                "id": 54000005,
+                "name": "Arena 5"
+            },
+            "role": "member",
+            "last_seen": "20200205T131455.000Z",
+            "clan_rank": 36,
+            "previous_clan_rank": 33,
+            "donations": 18,
+            "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PLLU8LRV9",
             "name": "SP3C_Luckzy01",
             "exp_level": 6,
@@ -626,27 +643,10 @@
             },
             "role": "elder",
             "last_seen": "20200203T215225.000Z",
-            "clan_rank": 36,
+            "clan_rank": 37,
             "previous_clan_rank": 32,
             "donations": 0,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PC2LYL0RJ",
-            "name": "mrcorndog",
-            "exp_level": 6,
-            "trophies": 1303,
-            "arena": {
-                "id": 54000005,
-                "name": "Arena 5"
-            },
-            "role": "member",
-            "last_seen": "20200205T131455.000Z",
-            "clan_rank": 37,
-            "previous_clan_rank": 33,
-            "donations": 10,
-            "donations_received": 40,
             "clan_chest_points": 0
         },
         {
