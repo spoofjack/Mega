@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38515,
+    "clan_score": 38536,
     "required_trophies": 2600,
-    "donations_per_week": 3660,
+    "donations_per_week": 3676,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -68,7 +68,7 @@
             "clan_rank": 3,
             "previous_clan_rank": 3,
             "donations": 68,
-            "donations_received": 150,
+            "donations_received": 158,
             "clan_chest_points": 0
         },
         {
@@ -153,7 +153,7 @@
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 378,
-            "donations_received": 272,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -177,13 +177,13 @@
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
             "exp_level": 9,
-            "trophies": 4341,
+            "trophies": 4369,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T210443.000Z",
+            "last_seen": "20200206T035501.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 10,
             "donations": 18,
@@ -194,16 +194,16 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4321,
+            "trophies": 4351,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200205T232119.000Z",
+            "last_seen": "20200206T035411.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 13,
-            "donations": 38,
+            "donations": 54,
             "donations_received": 80,
             "clan_chest_points": 0
         },
