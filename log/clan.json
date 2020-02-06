@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38440,
+    "clan_score": 38454,
     "required_trophies": 2600,
-    "donations_per_week": 3521,
+    "donations_per_week": 3552,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -50,7 +50,7 @@
             "last_seen": "20200206T000754.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 177,
+            "donations": 192,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -75,7 +75,7 @@
             "tag": "#PYQC9QRV",
             "name": "default DAN",
             "exp_level": 11,
-            "trophies": 4619,
+            "trophies": 4651,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -118,7 +118,7 @@
             "last_seen": "20200206T001455.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
-            "donations": 110,
+            "donations": 118,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -149,11 +149,11 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200206T000645.000Z",
+            "last_seen": "20200206T002933.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
             "donations": 362,
-            "donations_received": 240,
+            "donations_received": 264,
             "clan_chest_points": 0
         },
         {
@@ -272,7 +272,7 @@
             "clan_rank": 15,
             "previous_clan_rank": 13,
             "donations": 54,
-            "donations_received": 113,
+            "donations_received": 120,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T235856.000Z",
+            "last_seen": "20200206T002937.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 302,
@@ -421,10 +421,10 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T000937.000Z",
+            "last_seen": "20200206T002232.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
-            "donations": 254,
+            "donations": 262,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -557,7 +557,7 @@
                 "name": "Arena 6"
             },
             "role": "member",
-            "last_seen": "20200205T221113.000Z",
+            "last_seen": "20200206T002803.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 34,
             "donations": 4,
@@ -602,13 +602,13 @@
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 5,
-            "trophies": 1506,
+            "trophies": 1484,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200205T122853.000Z",
+            "last_seen": "20200206T002253.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 35,
             "donations": 10,
@@ -625,7 +625,7 @@
                 "name": "Arena 5"
             },
             "role": "elder",
-            "last_seen": "20200205T165644.000Z",
+            "last_seen": "20200206T002801.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 0,
