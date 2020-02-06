@@ -10,8 +10,8 @@
         "participants": 14,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 29,
-        "wins": 17
+        "battles_played": 30,
+        "wins": 18
     },
     "participants": [
         {
@@ -125,10 +125,10 @@
         {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
-            "cards_earned": 320,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 2,
+            "cards_earned": 480,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
