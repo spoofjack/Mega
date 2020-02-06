@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39305,
+    "clan_score": 39313,
     "required_trophies": 2600,
-    "donations_per_week": 4188,
+    "donations_per_week": 4196,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -194,13 +194,13 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4358,
+            "trophies": 4388,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T151941.000Z",
+            "last_seen": "20200206T154812.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 62,
@@ -319,10 +319,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200206T151943.000Z",
+            "last_seen": "20200206T154857.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
-            "donations": 140,
+            "donations": 148,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -442,7 +442,7 @@
             "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 294,
-            "donations_received": 230,
+            "donations_received": 238,
             "clan_chest_points": 0
         },
         {
