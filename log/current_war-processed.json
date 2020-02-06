@@ -219,6 +219,17 @@
             "wins": 7
         },
         {
+            "tag": "#9YLV2Q9",
+            "name": "Mumbai ace",
+            "badge_id": 16000144,
+            "clan_score": 569,
+            "participants": 22,
+            "crowns": 10,
+            "battles_remaining": 6,
+            "battles_played": 16,
+            "wins": 5
+        },
+        {
             "tag": "#LQ8JLUJY",
             "name": "#Polska2",
             "badge_id": 16000006,
@@ -228,17 +239,6 @@
             "battles_remaining": 10,
             "battles_played": 11,
             "wins": 5
-        },
-        {
-            "tag": "#9YLV2Q9",
-            "name": "Mumbai ace",
-            "badge_id": 16000144,
-            "clan_score": 569,
-            "participants": 22,
-            "crowns": 8,
-            "battles_remaining": 7,
-            "battles_played": 15,
-            "wins": 4
         },
         {
             "tag": "#8CRYJJYU",
