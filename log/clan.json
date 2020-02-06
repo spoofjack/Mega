@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38536,
+    "clan_score": 38511,
     "required_trophies": 2600,
     "donations_per_week": 3676,
     "clan_war_trophies": 61,
@@ -174,34 +174,17 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9JVPPVLPU",
-            "name": "ggfy",
-            "exp_level": 9,
-            "trophies": 4369,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200206T035501.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 10,
-            "donations": 18,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4351,
+            "trophies": 4339,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T035411.000Z",
-            "clan_rank": 11,
+            "last_seen": "20200206T041253.000Z",
+            "clan_rank": 10,
             "previous_clan_rank": 13,
             "donations": 54,
             "donations_received": 80,
@@ -218,10 +201,27 @@
             },
             "role": "member",
             "last_seen": "20200205T191720.000Z",
-            "clan_rank": 12,
+            "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 240,
             "donations_received": 288,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9JVPPVLPU",
+            "name": "ggfy",
+            "exp_level": 9,
+            "trophies": 4309,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200206T035501.000Z",
+            "clan_rank": 12,
+            "previous_clan_rank": 10,
+            "donations": 18,
+            "donations_received": 0,
             "clan_chest_points": 0
         },
         {

@@ -230,6 +230,17 @@
             "wins": 5
         },
         {
+            "tag": "#9YLV2Q9",
+            "name": "Mumbai ace",
+            "badge_id": 16000144,
+            "clan_score": 569,
+            "participants": 22,
+            "crowns": 6,
+            "battles_remaining": 15,
+            "battles_played": 7,
+            "wins": 4
+        },
+        {
             "tag": "#8CRYJJYU",
             "name": "Chile Team",
             "badge_id": 16000038,
@@ -238,17 +249,6 @@
             "crowns": 6,
             "battles_remaining": 9,
             "battles_played": 12,
-            "wins": 3
-        },
-        {
-            "tag": "#9YLV2Q9",
-            "name": "Mumbai ace",
-            "badge_id": 16000144,
-            "clan_score": 569,
-            "participants": 22,
-            "crowns": 5,
-            "battles_remaining": 16,
-            "battles_played": 6,
             "wins": 3
         }
     ],
