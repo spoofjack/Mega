@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39524,
+    "clan_score": 39534,
     "required_trophies": 2600,
-    "donations_per_week": 4538,
+    "donations_per_week": 4558,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,10 +81,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200206T193906.000Z",
+            "last_seen": "20200206T200648.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 3,
-            "donations": 90,
+            "donations": 110,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 6,
             "donations": 172,
-            "donations_received": 150,
+            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -160,7 +160,7 @@
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4550,
+            "trophies": 4564,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -204,7 +204,7 @@
             "clan_rank": 11,
             "previous_clan_rank": 8,
             "donations": 438,
-            "donations_received": 340,
+            "donations_received": 350,
             "clan_chest_points": 0
         },
         {
@@ -438,7 +438,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T192459.000Z",
+            "last_seen": "20200206T201422.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 304,
@@ -619,13 +619,13 @@
             "tag": "#8VVLJJ2JQ",
             "name": "BigTastyTunk",
             "exp_level": 5,
-            "trophies": 1546,
+            "trophies": 1576,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200206T121240.000Z",
+            "last_seen": "20200206T200012.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 35,
             "donations": 10,
