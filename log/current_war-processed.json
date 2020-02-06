@@ -224,10 +224,10 @@
             "badge_id": 16000144,
             "clan_score": 569,
             "participants": 22,
-            "crowns": 11,
-            "battles_remaining": 4,
-            "battles_played": 18,
-            "wins": 5
+            "crowns": 13,
+            "battles_remaining": 3,
+            "battles_played": 19,
+            "wins": 6
         },
         {
             "tag": "#LQ8JLUJY",
@@ -255,5 +255,5 @@
     "cards": 6015,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "1 hours"
+    "end_label": "0 hours"
 }

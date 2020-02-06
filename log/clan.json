@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39320,
+    "clan_score": 39318,
     "required_trophies": 2600,
-    "donations_per_week": 4196,
+    "donations_per_week": 4206,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -166,7 +166,7 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200206T113348.000Z",
+            "last_seen": "20200206T162711.000Z",
             "clan_rank": 9,
             "previous_clan_rank": 8,
             "donations": 404,
@@ -200,11 +200,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T160520.000Z",
+            "last_seen": "20200206T162005.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
             "donations": 62,
-            "donations_received": 120,
+            "donations_received": 130,
             "clan_chest_points": 0
         },
         {
@@ -438,10 +438,10 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T152556.000Z",
+            "last_seen": "20200206T162852.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
-            "donations": 294,
+            "donations": 304,
             "donations_received": 238,
             "clan_chest_points": 0
         },
@@ -568,13 +568,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 2102,
+            "trophies": 2080,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200206T122406.000Z",
+            "last_seen": "20200206T162740.000Z",
             "clan_rank": 33,
             "previous_clan_rank": 32,
             "donations": 4,
