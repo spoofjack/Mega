@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39467,
+    "clan_score": 39524,
     "required_trophies": 2600,
-    "donations_per_week": 4448,
+    "donations_per_week": 4538,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200206T193620.000Z",
+            "last_seen": "20200206T195113.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 406,
+            "donations": 414,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -67,8 +67,8 @@
             "last_seen": "20200206T193007.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
-            "donations": 223,
-            "donations_received": 240,
+            "donations": 233,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -89,23 +89,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4624,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "elder",
-            "last_seen": "20200206T193324.000Z",
-            "clan_rank": 5,
-            "previous_clan_rank": 6,
-            "donations": 172,
-            "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
@@ -116,9 +99,9 @@
             },
             "role": "member",
             "last_seen": "20200206T193650.000Z",
-            "clan_rank": 6,
+            "clan_rank": 5,
             "previous_clan_rank": 4,
-            "donations": 174,
+            "donations": 182,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -133,17 +116,34 @@
             },
             "role": "member",
             "last_seen": "20200206T170022.000Z",
-            "clan_rank": 7,
+            "clan_rank": 6,
             "previous_clan_rank": 5,
             "donations": 496,
             "donations_received": 280,
             "clan_chest_points": 0
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4590,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "elder",
+            "last_seen": "20200206T193324.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 6,
+            "donations": 172,
+            "donations_received": 150,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "exp_level": 12,
-            "trophies": 4529,
+            "trophies": 4589,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -152,8 +152,25 @@
             "last_seen": "20200206T194048.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 176,
+            "donations": 184,
             "donations_received": 200,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "exp_level": 10,
+            "trophies": 4550,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200206T194445.000Z",
+            "clan_rank": 9,
+            "previous_clan_rank": 12,
+            "donations": 320,
+            "donations_received": 328,
             "clan_chest_points": 0
         },
         {
@@ -166,28 +183,11 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T194005.000Z",
-            "clan_rank": 9,
+            "last_seen": "20200206T195051.000Z",
+            "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 266,
             "donations_received": 40,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "exp_level": 10,
-            "trophies": 4463,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200206T194445.000Z",
-            "clan_rank": 10,
-            "previous_clan_rank": 12,
-            "donations": 292,
-            "donations_received": 328,
             "clan_chest_points": 0
         },
         {
@@ -200,11 +200,11 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200206T194012.000Z",
+            "last_seen": "20200206T195448.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 8,
-            "donations": 428,
-            "donations_received": 320,
+            "donations": 438,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -254,7 +254,7 @@
             "last_seen": "20200206T193448.000Z",
             "clan_rank": 14,
             "previous_clan_rank": 14,
-            "donations": 170,
+            "donations": 188,
             "donations_received": 120,
             "clan_chest_points": 0
         },
