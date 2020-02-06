@@ -3,10 +3,10 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39377,
+    "clan_score": 39385,
     "required_trophies": 2600,
-    "donations_per_week": 4328,
-    "clan_war_trophies": 61,
+    "donations_per_week": 4368,
+    "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
     "members": 42,
@@ -21,5 +21,5 @@
     "clan_chest_points": null,
     "war_league": "bronze",
     "war_league_name": "Bronze League",
-    "current_war_state": "warDay"
+    "current_war_state": "collectionDay"
 }
