@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38545,
+    "clan_score": 38542,
     "required_trophies": 2600,
-    "donations_per_week": 4052,
+    "donations_per_week": 4062,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -234,7 +234,7 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200206T101018.000Z",
+            "last_seen": "20200206T135751.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 12,
             "donations": 0,
@@ -302,11 +302,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200206T134156.000Z",
+            "last_seen": "20200206T135453.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 132,
-            "donations_received": 200,
+            "donations_received": 210,
             "clan_chest_points": 0
         },
         {
@@ -336,10 +336,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T132232.000Z",
+            "last_seen": "20200206T134930.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
-            "donations": 141,
+            "donations": 151,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -449,13 +449,13 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3186,
+            "trophies": 3162,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
             },
             "role": "elder",
-            "last_seen": "20200206T132759.000Z",
+            "last_seen": "20200206T134749.000Z",
             "clan_rank": 26,
             "previous_clan_rank": 25,
             "donations": 85,
@@ -625,7 +625,7 @@
                 "name": "Arena 5"
             },
             "role": "elder",
-            "last_seen": "20200206T002801.000Z",
+            "last_seen": "20200206T134835.000Z",
             "clan_rank": 36,
             "previous_clan_rank": 36,
             "donations": 0,
