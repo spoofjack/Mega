@@ -246,14 +246,14 @@
             "badge_id": 16000144,
             "clan_score": 569,
             "participants": 22,
-            "crowns": 3,
-            "battles_remaining": 17,
-            "battles_played": 5,
-            "wins": 2
+            "crowns": 5,
+            "battles_remaining": 16,
+            "battles_played": 6,
+            "wins": 3
         }
     ],
     "cards": 6015,
     "state_label": "War Day",
     "collection_end_time_label": "Complete",
-    "end_label": "14 hours"
+    "end_label": "13 hours"
 }
