@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38542,
+    "clan_score": 38545,
     "required_trophies": 2600,
-    "donations_per_week": 4039,
+    "donations_per_week": 4052,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 470,
-            "donations_received": 277,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -255,7 +255,7 @@
             "clan_rank": 14,
             "previous_clan_rank": 14,
             "donations": 134,
-            "donations_received": 100,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -302,10 +302,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200205T193003.000Z",
+            "last_seen": "20200206T134156.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
-            "donations": 119,
+            "donations": 132,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -421,7 +421,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T124401.000Z",
+            "last_seen": "20200206T134221.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 276,
@@ -438,7 +438,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200204T191627.000Z",
+            "last_seen": "20200206T133013.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
             "donations": 0,
@@ -449,7 +449,7 @@
             "tag": "#9UQUCJR0J",
             "name": "fets luck",
             "exp_level": 8,
-            "trophies": 3159,
+            "trophies": 3186,
             "arena": {
                 "id": 54000007,
                 "name": "Arena 10"
