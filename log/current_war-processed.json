@@ -8,9 +8,9 @@
         "badge_id": 16000107,
         "clan_score": 61,
         "participants": 20,
-        "crowns": 13,
+        "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 14,
+        "battles_played": 15,
         "wins": 8
     },
     "participants": [
@@ -31,15 +31,6 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 2
-        },
-        {
-            "tag": "#9QRL2LPQ",
-            "name": "BALLER",
-            "cards_earned": 240,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
         },
         {
             "tag": "#PYJQG098Q",
@@ -99,6 +90,15 @@
             "tag": "#8G82CVLG",
             "name": "CamaroBro",
             "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#9QRL2LPQ",
+            "name": "BALLER",
+            "cards_earned": 240,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -202,9 +202,9 @@
             "badge_id": 16000107,
             "clan_score": 61,
             "participants": 20,
-            "crowns": 13,
-            "battles_remaining": 6,
-            "battles_played": 14,
+            "crowns": 14,
+            "battles_remaining": 5,
+            "battles_played": 15,
             "wins": 8
         },
         {
