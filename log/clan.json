@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 38457,
     "required_trophies": 2600,
-    "donations_per_week": 3592,
+    "donations_per_week": 3602,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -98,10 +98,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200206T010153.000Z",
+            "last_seen": "20200206T013721.000Z",
             "clan_rank": 5,
             "previous_clan_rank": 4,
-            "donations": 415,
+            "donations": 425,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -336,7 +336,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T011024.000Z",
+            "last_seen": "20200206T013829.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 81,
@@ -561,7 +561,7 @@
             "clan_rank": 32,
             "previous_clan_rank": 34,
             "donations": 4,
-            "donations_received": 80,
+            "donations_received": 90,
             "clan_chest_points": 0
         },
         {
