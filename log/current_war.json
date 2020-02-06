@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 169,
-        "participants": 14,
+        "participants": 15,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 30,
-        "wins": 18
+        "battles_played": 31,
+        "wins": 19
     },
     "participants": [
         {
@@ -129,6 +129,15 @@
             "battles_played": 3,
             "collection_day_battles_played": 3,
             "wins": 3,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "cards_earned": 150,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {

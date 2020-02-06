@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 169,
-        "participants": 14,
+        "participants": 15,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 30,
-        "wins": 18
+        "battles_played": 31,
+        "wins": 19
     },
     "participants": [
         {
@@ -132,6 +132,15 @@
             "number_of_battles": 3
         },
         {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "cards_earned": 150,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "cards_earned": 80,
@@ -142,8 +151,8 @@
         }
     ],
     "clans": null,
-    "cards": 3740,
+    "cards": 3890,
     "state_label": "Collection Day",
-    "collection_end_time_label": "19 hours",
-    "end_label": "1 day, 19 hours"
+    "collection_end_time_label": "18 hours",
+    "end_label": "1 day, 18 hours"
 }

@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39602,
+    "clan_score": 39592,
     "required_trophies": 2600,
-    "donations_per_week": 4656,
+    "donations_per_week": 4688,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,10 +30,10 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200206T205737.000Z",
+            "last_seen": "20200206T222622.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
-            "donations": 434,
+            "donations": 442,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -64,7 +64,7 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200206T220908.000Z",
+            "last_seen": "20200206T222117.000Z",
             "clan_rank": 3,
             "previous_clan_rank": 2,
             "donations": 241,
@@ -177,7 +177,7 @@
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
             "exp_level": 10,
-            "trophies": 4501,
+            "trophies": 4486,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
@@ -319,11 +319,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200206T220842.000Z",
+            "last_seen": "20200206T222208.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
             "donations": 166,
-            "donations_received": 248,
+            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -353,10 +353,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T220223.000Z",
+            "last_seen": "20200206T222518.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
-            "donations": 161,
+            "donations": 169,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -370,10 +370,27 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200206T220957.000Z",
+            "last_seen": "20200206T221800.000Z",
             "clan_rank": 21,
             "previous_clan_rank": 22,
             "donations": 1,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PQRPRYQLP",
+            "name": "Gobysmasher",
+            "exp_level": 9,
+            "trophies": 3862,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "coLeader",
+            "last_seen": "20200206T221123.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 20,
+            "donations": 406,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -388,27 +405,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200206T163319.000Z",
-            "clan_rank": 22,
+            "clan_rank": 23,
             "previous_clan_rank": 21,
             "donations": 8,
             "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#PQRPRYQLP",
-            "name": "Gobysmasher",
-            "exp_level": 9,
-            "trophies": 3772,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "coLeader",
-            "last_seen": "20200206T221123.000Z",
-            "clan_rank": 23,
-            "previous_clan_rank": 20,
-            "donations": 398,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -432,16 +432,16 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 3482,
+            "trophies": 3407,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T220612.000Z",
+            "last_seen": "20200206T222821.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
-            "donations": 324,
+            "donations": 332,
             "donations_received": 270,
             "clan_chest_points": 0
         },
@@ -551,13 +551,13 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 2215,
+            "trophies": 2168,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200206T215623.000Z",
+            "last_seen": "20200206T221617.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 32,
             "donations": 4,
