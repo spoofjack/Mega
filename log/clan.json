@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38448,
+    "clan_score": 38457,
     "required_trophies": 2600,
     "donations_per_week": 3592,
     "clan_war_trophies": 61,
@@ -387,7 +387,7 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200206T010708.000Z",
+            "last_seen": "20200206T011537.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
@@ -551,10 +551,10 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1945,
+            "trophies": 2036,
             "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
+                "id": 54000008,
+                "name": "Arena 7"
             },
             "role": "member",
             "last_seen": "20200206T011416.000Z",
