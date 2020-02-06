@@ -7,11 +7,11 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 169,
-        "participants": 15,
+        "participants": 16,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 31,
-        "wins": 19
+        "battles_played": 33,
+        "wins": 21
     },
     "participants": [
         {
@@ -57,6 +57,15 @@
             "battles_played": 1,
             "collection_day_battles_played": 1,
             "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#PYJQG098Q",
+            "name": "viper325",
+            "cards_earned": 100,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
@@ -116,10 +125,10 @@
         {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
-            "cards_earned": 220,
-            "battles_played": 2,
-            "collection_day_battles_played": 2,
-            "wins": 2,
+            "cards_earned": 330,
+            "battles_played": 3,
+            "collection_day_battles_played": 3,
+            "wins": 3,
             "number_of_battles": 3
         },
         {
