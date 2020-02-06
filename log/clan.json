@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39293,
+    "clan_score": 39305,
     "required_trophies": 2600,
-    "donations_per_week": 4164,
+    "donations_per_week": 4188,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -34,7 +34,7 @@
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 378,
-            "donations_received": 216,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -194,16 +194,16 @@
             "tag": "#LUJRLGYU",
             "name": "Josh",
             "exp_level": 10,
-            "trophies": 4327,
+            "trophies": 4358,
             "arena": {
                 "id": 54000013,
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T041724.000Z",
+            "last_seen": "20200206T151941.000Z",
             "clan_rank": 11,
             "previous_clan_rank": 11,
-            "donations": 54,
+            "donations": 62,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -319,10 +319,10 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200206T135453.000Z",
+            "last_seen": "20200206T151943.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 17,
-            "donations": 132,
+            "donations": 140,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -438,10 +438,10 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T142553.000Z",
+            "last_seen": "20200206T152556.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
-            "donations": 286,
+            "donations": 294,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -582,6 +582,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#YG8QJR922",
+            "name": "Lil Muck",
+            "exp_level": 7,
+            "trophies": 1802,
+            "arena": {
+                "id": 54000006,
+                "name": "Arena 6"
+            },
+            "role": "member",
+            "last_seen": "20200206T152540.000Z",
+            "clan_rank": 34,
+            "previous_clan_rank": 34,
+            "donations": 0,
+            "donations_received": 0,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#8G2LCU09G",
             "name": "Feebear2.0",
             "exp_level": 7,
@@ -592,25 +609,8 @@
             },
             "role": "member",
             "last_seen": "20200202T231331.000Z",
-            "clan_rank": 34,
-            "previous_clan_rank": 33,
-            "donations": 0,
-            "donations_received": 0,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#YG8QJR922",
-            "name": "Lil Muck",
-            "exp_level": 7,
-            "trophies": 1764,
-            "arena": {
-                "id": 54000006,
-                "name": "Arena 6"
-            },
-            "role": "member",
-            "last_seen": "20200205T225047.000Z",
             "clan_rank": 35,
-            "previous_clan_rank": 34,
+            "previous_clan_rank": 33,
             "donations": 0,
             "donations_received": 0,
             "clan_chest_points": 0
