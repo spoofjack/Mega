@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38505,
+    "clan_score": 38523,
     "required_trophies": 2600,
-    "donations_per_week": 3884,
+    "donations_per_week": 3903,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -41,16 +41,16 @@
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
             "exp_level": 11,
-            "trophies": 4788,
+            "trophies": 4817,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200206T113858.000Z",
+            "last_seen": "20200206T120700.000Z",
             "clan_rank": 2,
             "previous_clan_rank": 2,
-            "donations": 213,
+            "donations": 223,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -102,7 +102,7 @@
             "clan_rank": 5,
             "previous_clan_rank": 4,
             "donations": 470,
-            "donations_received": 264,
+            "donations_received": 269,
             "clan_chest_points": 0
         },
         {
@@ -336,11 +336,11 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T115047.000Z",
+            "last_seen": "20200206T120143.000Z",
             "clan_rank": 19,
             "previous_clan_rank": 20,
             "donations": 125,
-            "donations_received": 272,
+            "donations_received": 276,
             "clan_chest_points": 0
         },
         {
@@ -387,10 +387,10 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200206T011537.000Z",
+            "last_seen": "20200206T120909.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
-            "donations": 0,
+            "donations": 1,
             "donations_received": 40,
             "clan_chest_points": 0
         },
@@ -421,7 +421,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T025547.000Z",
+            "last_seen": "20200206T121213.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
             "donations": 276,
@@ -540,7 +540,7 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200206T010733.000Z",
+            "last_seen": "20200206T120505.000Z",
             "clan_rank": 31,
             "previous_clan_rank": 31,
             "donations": 28,
@@ -551,7 +551,7 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 2036,
+            "trophies": 2072,
             "arena": {
                 "id": 54000008,
                 "name": "Arena 7"
@@ -608,7 +608,7 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200206T002253.000Z",
+            "last_seen": "20200206T121240.000Z",
             "clan_rank": 35,
             "previous_clan_rank": 35,
             "donations": 10,
@@ -642,11 +642,11 @@
                 "name": "Arena 5"
             },
             "role": "member",
-            "last_seen": "20200205T192717.000Z",
+            "last_seen": "20200206T120636.000Z",
             "clan_rank": 37,
             "previous_clan_rank": 37,
-            "donations": 22,
-            "donations_received": 60,
+            "donations": 30,
+            "donations_received": 70,
             "clan_chest_points": 0
         },
         {
