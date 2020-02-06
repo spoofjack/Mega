@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38437,
+    "clan_score": 38440,
     "required_trophies": 2600,
-    "donations_per_week": 3424,
+    "donations_per_week": 3448,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,10 +81,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200205T233444.000Z",
+            "last_seen": "20200205T234807.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 4,
-            "donations": 399,
+            "donations": 407,
             "donations_received": 240,
             "clan_chest_points": 0
         },
@@ -268,11 +268,11 @@
                 "name": "Legendary Arena"
             },
             "role": "coLeader",
-            "last_seen": "20200205T004201.000Z",
+            "last_seen": "20200205T235530.000Z",
             "clan_rank": 15,
             "previous_clan_rank": 13,
-            "donations": 36,
-            "donations_received": 80,
+            "donations": 44,
+            "donations_received": 96,
             "clan_chest_points": 0
         },
         {
@@ -353,7 +353,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200205T232917.000Z",
+            "last_seen": "20200205T235856.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 294,
@@ -387,7 +387,7 @@
                 "name": "Arena 12"
             },
             "role": "member",
-            "last_seen": "20200205T201739.000Z",
+            "last_seen": "20200205T234838.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 22,
             "donations": 0,
@@ -415,17 +415,17 @@
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
             "exp_level": 7,
-            "trophies": 3429,
+            "trophies": 3458,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200205T233018.000Z",
+            "last_seen": "20200205T235942.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
-            "donations": 236,
-            "donations_received": 206,
+            "donations": 244,
+            "donations_received": 214,
             "clan_chest_points": 0
         },
         {
