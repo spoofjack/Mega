@@ -10,7 +10,7 @@
         "participants": 20,
         "crowns": 14,
         "battles_remaining": null,
-        "battles_played": 16,
+        "battles_played": 18,
         "wins": 8
     },
     "participants": [
@@ -22,15 +22,6 @@
             "collection_day_battles_played": 1,
             "wins": 0,
             "number_of_battles": 1
-        },
-        {
-            "tag": "#CYVYRRPR",
-            "name": "lokasweetmary",
-            "cards_earned": 400,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
         },
         {
             "tag": "#PYJQG098Q",
@@ -186,6 +177,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#CYVYRRPR",
+            "name": "lokasweetmary",
+            "cards_earned": 400,
+            "battles_played": 2,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 2
+        },
+        {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "cards_earned": 375,
@@ -225,8 +225,8 @@
             "clan_score": 61,
             "participants": 20,
             "crowns": 14,
-            "battles_remaining": 4,
-            "battles_played": 16,
+            "battles_remaining": 2,
+            "battles_played": 18,
             "wins": 8
         },
         {
