@@ -7,12 +7,49 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 169,
-        "participants": 0,
+        "participants": 4,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 0,
-        "wins": 0
+        "battles_played": 6,
+        "wins": 4
     },
-    "participants": [],
+    "participants": [
+        {
+            "tag": "#8CCQ98JY",
+            "name": "Colin Harrison",
+            "cards_earned": 240,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "cards_earned": 80,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "cards_earned": 320,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 2,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#L2L98J8CJ",
+            "name": "BrandoComando",
+            "cards_earned": 110,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 1,
+            "number_of_battles": 3
+        }
+    ],
     "clans": null
 }
