@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 38454,
+    "clan_score": 38445,
     "required_trophies": 2600,
-    "donations_per_week": 3552,
+    "donations_per_week": 3592,
     "clan_war_trophies": 61,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -30,11 +30,11 @@
                 "name": "Master I"
             },
             "role": "coLeader",
-            "last_seen": "20200205T213740.000Z",
+            "last_seen": "20200206T003023.000Z",
             "clan_rank": 1,
             "previous_clan_rank": 1,
             "donations": 340,
-            "donations_received": 160,
+            "donations_received": 200,
             "clan_chest_points": 0
         },
         {
@@ -72,23 +72,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#PYQC9QRV",
-            "name": "default DAN",
-            "exp_level": 11,
-            "trophies": 4651,
-            "arena": {
-                "id": 54000014,
-                "name": "Challenger III"
-            },
-            "role": "member",
-            "last_seen": "20200206T000955.000Z",
-            "clan_rank": 4,
-            "previous_clan_rank": 4,
-            "donations": 407,
-            "donations_received": 240,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
@@ -99,10 +82,27 @@
             },
             "role": "member",
             "last_seen": "20200205T193349.000Z",
-            "clan_rank": 5,
+            "clan_rank": 4,
             "previous_clan_rank": 5,
             "donations": 132,
             "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#PYQC9QRV",
+            "name": "default DAN",
+            "exp_level": 11,
+            "trophies": 4613,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200206T003843.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 4,
+            "donations": 415,
+            "donations_received": 240,
             "clan_chest_points": 0
         },
         {
@@ -118,7 +118,7 @@
             "last_seen": "20200206T001455.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
-            "donations": 118,
+            "donations": 126,
             "donations_received": 120,
             "clan_chest_points": 0
         },
@@ -149,10 +149,10 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200206T002933.000Z",
+            "last_seen": "20200206T003027.000Z",
             "clan_rank": 8,
             "previous_clan_rank": 7,
-            "donations": 362,
+            "donations": 370,
             "donations_received": 264,
             "clan_chest_points": 0
         },
@@ -353,10 +353,10 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T002937.000Z",
+            "last_seen": "20200206T003434.000Z",
             "clan_rank": 20,
             "previous_clan_rank": 19,
-            "donations": 302,
+            "donations": 310,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -424,7 +424,7 @@
             "last_seen": "20200206T002232.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 26,
-            "donations": 262,
+            "donations": 270,
             "donations_received": 230,
             "clan_chest_points": 0
         },
@@ -551,7 +551,7 @@
             "tag": "#Y20RLJJR0",
             "name": "yeet",
             "exp_level": 6,
-            "trophies": 1808,
+            "trophies": 1926,
             "arena": {
                 "id": 54000006,
                 "name": "Arena 6"
@@ -619,7 +619,7 @@
             "tag": "#PLLU8LRV9",
             "name": "SP3C_Luckzy01",
             "exp_level": 6,
-            "trophies": 1404,
+            "trophies": 1384,
             "arena": {
                 "id": 54000005,
                 "name": "Arena 5"
