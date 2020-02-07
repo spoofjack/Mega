@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 41207,
     "required_trophies": 2600,
-    "donations_per_week": 4940,
+    "donations_per_week": 4998,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -81,10 +81,10 @@
                 "name": "Challenger III"
             },
             "role": "coLeader",
-            "last_seen": "20200207T003542.000Z",
+            "last_seen": "20200207T113944.000Z",
             "clan_rank": 4,
             "previous_clan_rank": 2,
-            "donations": 249,
+            "donations": 267,
             "donations_received": 280,
             "clan_chest_points": 0
         },
@@ -136,7 +136,7 @@
             "clan_rank": 7,
             "previous_clan_rank": 11,
             "donations": 334,
-            "donations_received": 376,
+            "donations_received": 396,
             "clan_chest_points": 0
         },
         {
@@ -183,10 +183,10 @@
                 "name": "Challenger II"
             },
             "role": "coLeader",
-            "last_seen": "20200207T111147.000Z",
+            "last_seen": "20200207T114040.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 7,
-            "donations": 210,
+            "donations": 230,
             "donations_received": 200,
             "clan_chest_points": 0
         },
@@ -234,11 +234,11 @@
                 "name": "Challenger II"
             },
             "role": "leader",
-            "last_seen": "20200207T080403.000Z",
+            "last_seen": "20200207T113553.000Z",
             "clan_rank": 13,
             "previous_clan_rank": 8,
-            "donations": 438,
-            "donations_received": 384,
+            "donations": 458,
+            "donations_received": 392,
             "clan_chest_points": 0
         },
         {
@@ -387,7 +387,7 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200207T111915.000Z",
+            "last_seen": "20200207T114204.000Z",
             "clan_rank": 22,
             "previous_clan_rank": 20,
             "donations": 432,
@@ -404,11 +404,11 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200207T112003.000Z",
+            "last_seen": "20200207T113738.000Z",
             "clan_rank": 23,
             "previous_clan_rank": 19,
             "donations": 169,
-            "donations_received": 320,
+            "donations_received": 340,
             "clan_chest_points": 0
         },
         {
@@ -748,7 +748,7 @@
             "clan_rank": 43,
             "previous_clan_rank": 0,
             "donations": 0,
-            "donations_received": 0,
+            "donations_received": 10,
             "clan_chest_points": 0
         },
         {
