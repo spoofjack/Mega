@@ -10,8 +10,8 @@
         "participants": 17,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 40,
-        "wins": 25
+        "battles_played": 41,
+        "wins": 26
     },
     "participants": [
         {
@@ -152,10 +152,10 @@
         {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
-            "cards_earned": 80,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
-            "wins": 0,
+            "cards_earned": 240,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
+            "wins": 1,
             "number_of_battles": 3
         },
         {
