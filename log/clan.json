@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39717,
+    "clan_score": 39751,
     "required_trophies": 2600,
-    "donations_per_week": 4876,
+    "donations_per_week": 4890,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -89,6 +89,40 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#2YVYJUPV",
+            "name": "BOSSOME",
+            "exp_level": 11,
+            "trophies": 4634,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "elder",
+            "last_seen": "20200207T022625.000Z",
+            "clan_rank": 5,
+            "previous_clan_rank": 6,
+            "donations": 186,
+            "donations_received": 160,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "exp_level": 10,
+            "trophies": 4623,
+            "arena": {
+                "id": 54000014,
+                "name": "Challenger III"
+            },
+            "role": "member",
+            "last_seen": "20200207T023919.000Z",
+            "clan_rank": 6,
+            "previous_clan_rank": 11,
+            "donations": 326,
+            "donations_received": 350,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
             "exp_level": 10,
@@ -99,7 +133,7 @@
             },
             "role": "member",
             "last_seen": "20200206T193650.000Z",
-            "clan_rank": 5,
+            "clan_rank": 7,
             "previous_clan_rank": 4,
             "donations": 182,
             "donations_received": 200,
@@ -116,44 +150,10 @@
             },
             "role": "member",
             "last_seen": "20200207T014551.000Z",
-            "clan_rank": 6,
+            "clan_rank": 8,
             "previous_clan_rank": 5,
             "donations": 554,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "exp_level": 10,
-            "trophies": 4593,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200207T022639.000Z",
-            "clan_rank": 7,
-            "previous_clan_rank": 11,
-            "donations": 326,
-            "donations_received": 336,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#2YVYJUPV",
-            "name": "BOSSOME",
-            "exp_level": 11,
-            "trophies": 4590,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "elder",
-            "last_seen": "20200207T022625.000Z",
-            "clan_rank": 8,
-            "previous_clan_rank": 6,
-            "donations": 178,
-            "donations_received": 160,
             "clan_chest_points": 0
         },
         {
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9YP8Y9U9V",
-            "name": "bugs33",
-            "exp_level": 9,
-            "trophies": 3966,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "member",
-            "last_seen": "20200207T022234.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 22,
-            "donations": 1,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
@@ -388,10 +371,27 @@
             },
             "role": "coLeader",
             "last_seen": "20200207T021105.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 19,
             "donations": 169,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "exp_level": 9,
+            "trophies": 3939,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "member",
+            "last_seen": "20200207T022234.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 22,
+            "donations": 1,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -441,7 +441,7 @@
             "last_seen": "20200207T021823.000Z",
             "clan_rank": 25,
             "previous_clan_rank": 24,
-            "donations": 362,
+            "donations": 368,
             "donations_received": 310,
             "clan_chest_points": 0
         },
