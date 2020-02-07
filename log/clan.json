@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39751,
+    "clan_score": 39791,
     "required_trophies": 2600,
     "donations_per_week": 4890,
     "clan_war_trophies": 169,
@@ -92,7 +92,7 @@
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
-            "trophies": 4634,
+            "trophies": 4674,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -109,7 +109,7 @@
             "tag": "#9CYC8228P",
             "name": "Ram Rider",
             "exp_level": 10,
-            "trophies": 4623,
+            "trophies": 4663,
             "arena": {
                 "id": 54000014,
                 "name": "Challenger III"
@@ -183,7 +183,7 @@
                 "name": "Challenger II"
             },
             "role": "member",
-            "last_seen": "20200206T234153.000Z",
+            "last_seen": "20200207T024608.000Z",
             "clan_rank": 10,
             "previous_clan_rank": 9,
             "donations": 266,
