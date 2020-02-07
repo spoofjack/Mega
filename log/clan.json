@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39645,
+    "clan_score": 39653,
     "required_trophies": 2600,
     "donations_per_week": 4768,
     "clan_war_trophies": 169,
@@ -293,6 +293,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "exp_level": 11,
+            "trophies": 4190,
+            "arena": {
+                "id": 54000012,
+                "name": "Legendary Arena"
+            },
+            "role": "member",
+            "last_seen": "20200206T235258.000Z",
+            "clan_rank": 17,
+            "previous_clan_rank": 17,
+            "donations": 184,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#PGJU89CQL",
             "name": "Jar432",
             "exp_level": 9,
@@ -303,27 +320,10 @@
             },
             "role": "member",
             "last_seen": "20200206T025904.000Z",
-            "clan_rank": 17,
+            "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 26,
             "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "exp_level": 11,
-            "trophies": 4144,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200206T235258.000Z",
-            "clan_rank": 18,
-            "previous_clan_rank": 17,
-            "donations": 184,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -361,23 +361,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9YP8Y9U9V",
-            "name": "bugs33",
-            "exp_level": 9,
-            "trophies": 3929,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "member",
-            "last_seen": "20200206T235310.000Z",
-            "clan_rank": 21,
-            "previous_clan_rank": 22,
-            "donations": 1,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
             "exp_level": 9,
@@ -388,9 +371,26 @@
             },
             "role": "coLeader",
             "last_seen": "20200206T233016.000Z",
-            "clan_rank": 22,
+            "clan_rank": 21,
             "previous_clan_rank": 20,
             "donations": 424,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "exp_level": 9,
+            "trophies": 3904,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "member",
+            "last_seen": "20200207T001901.000Z",
+            "clan_rank": 22,
+            "previous_clan_rank": 22,
+            "donations": 1,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -421,7 +421,7 @@
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200206T234504.000Z",
+            "last_seen": "20200207T002848.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 24,
             "donations": 334,
