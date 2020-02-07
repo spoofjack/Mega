@@ -3,9 +3,9 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39673,
+    "clan_score": 39717,
     "required_trophies": 2600,
-    "donations_per_week": 4868,
+    "donations_per_week": 4876,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -123,6 +123,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9CYC8228P",
+            "name": "Ram Rider",
+            "exp_level": 10,
+            "trophies": 4593,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200207T022639.000Z",
+            "clan_rank": 7,
+            "previous_clan_rank": 11,
+            "donations": 326,
+            "donations_received": 336,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#2YVYJUPV",
             "name": "BOSSOME",
             "exp_level": 11,
@@ -132,8 +149,8 @@
                 "name": "Challenger II"
             },
             "role": "elder",
-            "last_seen": "20200207T012437.000Z",
-            "clan_rank": 7,
+            "last_seen": "20200207T022625.000Z",
+            "clan_rank": 8,
             "previous_clan_rank": 6,
             "donations": 178,
             "donations_received": 160,
@@ -150,27 +167,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200206T194048.000Z",
-            "clan_rank": 8,
+            "clan_rank": 9,
             "previous_clan_rank": 7,
             "donations": 184,
             "donations_received": 200,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9CYC8228P",
-            "name": "Ram Rider",
-            "exp_level": 10,
-            "trophies": 4564,
-            "arena": {
-                "id": 54000013,
-                "name": "Challenger II"
-            },
-            "role": "member",
-            "last_seen": "20200206T225516.000Z",
-            "clan_rank": 9,
-            "previous_clan_rank": 12,
-            "donations": 326,
-            "donations_received": 328,
             "clan_chest_points": 0
         },
         {
@@ -202,7 +202,7 @@
             "role": "member",
             "last_seen": "20200206T211332.000Z",
             "clan_rank": 11,
-            "previous_clan_rank": 11,
+            "previous_clan_rank": 10,
             "donations": 82,
             "donations_received": 160,
             "clan_chest_points": 0
@@ -236,7 +236,7 @@
             "role": "member",
             "last_seen": "20200207T010541.000Z",
             "clan_rank": 13,
-            "previous_clan_rank": 10,
+            "previous_clan_rank": 12,
             "donations": 36,
             "donations_received": 0,
             "clan_chest_points": 0
@@ -259,6 +259,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "exp_level": 11,
+            "trophies": 4305,
+            "arena": {
+                "id": 54000013,
+                "name": "Challenger II"
+            },
+            "role": "member",
+            "last_seen": "20200207T022912.000Z",
+            "clan_rank": 15,
+            "previous_clan_rank": 17,
+            "donations": 220,
+            "donations_received": 280,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#CC89GPR",
             "name": "unicorn",
             "exp_level": 9,
@@ -269,7 +286,7 @@
             },
             "role": "elder",
             "last_seen": "20200206T135751.000Z",
-            "clan_rank": 15,
+            "clan_rank": 16,
             "previous_clan_rank": 13,
             "donations": 0,
             "donations_received": 0,
@@ -286,27 +303,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200205T235530.000Z",
-            "clan_rank": 16,
+            "clan_rank": 17,
             "previous_clan_rank": 15,
             "donations": 54,
             "donations_received": 120,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "exp_level": 11,
-            "trophies": 4190,
-            "arena": {
-                "id": 54000012,
-                "name": "Legendary Arena"
-            },
-            "role": "member",
-            "last_seen": "20200207T020543.000Z",
-            "clan_rank": 17,
-            "previous_clan_rank": 17,
-            "donations": 212,
-            "donations_received": 280,
             "clan_chest_points": 0
         },
         {
@@ -361,6 +361,23 @@
             "clan_chest_points": 0
         },
         {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "exp_level": 9,
+            "trophies": 3966,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "member",
+            "last_seen": "20200207T022234.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 22,
+            "donations": 1,
+            "donations_received": 80,
+            "clan_chest_points": 0
+        },
+        {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
@@ -371,27 +388,10 @@
             },
             "role": "coLeader",
             "last_seen": "20200207T021105.000Z",
-            "clan_rank": 21,
+            "clan_rank": 22,
             "previous_clan_rank": 19,
             "donations": 169,
             "donations_received": 320,
-            "clan_chest_points": 0
-        },
-        {
-            "tag": "#9YP8Y9U9V",
-            "name": "bugs33",
-            "exp_level": 9,
-            "trophies": 3904,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "member",
-            "last_seen": "20200207T001901.000Z",
-            "clan_rank": 22,
-            "previous_clan_rank": 22,
-            "donations": 1,
-            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
@@ -412,23 +412,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "exp_level": 8,
-            "trophies": 3544,
-            "arena": {
-                "id": 54000024,
-                "name": "Arena 11"
-            },
-            "role": "member",
-            "last_seen": "20200207T020325.000Z",
-            "clan_rank": 24,
-            "previous_clan_rank": 24,
-            "donations": 362,
-            "donations_received": 310,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#2QY8JCLRQ",
             "name": "ORIOLPRO777",
             "exp_level": 10,
@@ -439,10 +422,27 @@
             },
             "role": "member",
             "last_seen": "20200205T074130.000Z",
-            "clan_rank": 25,
+            "clan_rank": 24,
             "previous_clan_rank": 23,
             "donations": 0,
             "donations_received": 40,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "exp_level": 8,
+            "trophies": 3492,
+            "arena": {
+                "id": 54000024,
+                "name": "Arena 11"
+            },
+            "role": "member",
+            "last_seen": "20200207T021823.000Z",
+            "clan_rank": 25,
+            "previous_clan_rank": 24,
+            "donations": 362,
+            "donations_received": 310,
             "clan_chest_points": 0
         },
         {
@@ -525,7 +525,7 @@
             "role": "member",
             "last_seen": "20200206T223524.000Z",
             "clan_rank": 30,
-            "previous_clan_rank": 30,
+            "previous_clan_rank": 29,
             "donations": 10,
             "donations_received": 120,
             "clan_chest_points": 0
@@ -542,7 +542,7 @@
             "role": "member",
             "last_seen": "20200204T041927.000Z",
             "clan_rank": 31,
-            "previous_clan_rank": 29,
+            "previous_clan_rank": 30,
             "donations": 6,
             "donations_received": 60,
             "clan_chest_points": 0
