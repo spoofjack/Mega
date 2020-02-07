@@ -3,7 +3,7 @@
     "name": "Mega PP gang",
     "badge_id": 16000107,
     "type": "open",
-    "clan_score": 39632,
+    "clan_score": 39645,
     "required_trophies": 2600,
     "donations_per_week": 4768,
     "clan_war_trophies": 169,
@@ -313,7 +313,7 @@
             "tag": "#P2LYQ2JG",
             "name": "Moto Moto",
             "exp_level": 11,
-            "trophies": 4064,
+            "trophies": 4144,
             "arena": {
                 "id": 54000012,
                 "name": "Legendary Arena"
@@ -344,23 +344,6 @@
             "clan_chest_points": 0
         },
         {
-            "tag": "#9YP8Y9U9V",
-            "name": "bugs33",
-            "exp_level": 9,
-            "trophies": 3974,
-            "arena": {
-                "id": 54000011,
-                "name": "Arena 12"
-            },
-            "role": "member",
-            "last_seen": "20200206T235310.000Z",
-            "clan_rank": 20,
-            "previous_clan_rank": 22,
-            "donations": 1,
-            "donations_received": 80,
-            "clan_chest_points": 0
-        },
-        {
             "tag": "#Y8VQ22Y0G",
             "name": "bass",
             "exp_level": 8,
@@ -370,11 +353,28 @@
                 "name": "Arena 12"
             },
             "role": "coLeader",
-            "last_seen": "20200206T235721.000Z",
-            "clan_rank": 21,
+            "last_seen": "20200207T000941.000Z",
+            "clan_rank": 20,
             "previous_clan_rank": 19,
             "donations": 169,
             "donations_received": 320,
+            "clan_chest_points": 0
+        },
+        {
+            "tag": "#9YP8Y9U9V",
+            "name": "bugs33",
+            "exp_level": 9,
+            "trophies": 3929,
+            "arena": {
+                "id": 54000011,
+                "name": "Arena 12"
+            },
+            "role": "member",
+            "last_seen": "20200206T235310.000Z",
+            "clan_rank": 21,
+            "previous_clan_rank": 22,
+            "donations": 1,
+            "donations_received": 80,
             "clan_chest_points": 0
         },
         {
