@@ -5,7 +5,7 @@
     "type": "open",
     "clan_score": 39659,
     "required_trophies": 2600,
-    "donations_per_week": 4798,
+    "donations_per_week": 4848,
     "clan_war_trophies": 169,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200207T014039.000Z",
+            "last_seen": "20200207T014551.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 5,
-            "donations": 534,
+            "donations": 554,
             "donations_received": 320,
             "clan_chest_points": 0
         },
@@ -302,7 +302,7 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200207T014456.000Z",
+            "last_seen": "20200207T015802.000Z",
             "clan_rank": 17,
             "previous_clan_rank": 17,
             "donations": 192,
@@ -319,11 +319,11 @@
                 "name": "Legendary Arena"
             },
             "role": "member",
-            "last_seen": "20200206T025904.000Z",
+            "last_seen": "20200207T015409.000Z",
             "clan_rank": 18,
             "previous_clan_rank": 16,
             "donations": 26,
-            "donations_received": 80,
+            "donations_received": 110,
             "clan_chest_points": 0
         },
         {
@@ -414,17 +414,17 @@
         {
             "tag": "#LQR9CURCP",
             "name": "BigDaddy",
-            "exp_level": 7,
+            "exp_level": 8,
             "trophies": 3544,
             "arena": {
                 "id": 54000024,
                 "name": "Arena 11"
             },
             "role": "member",
-            "last_seen": "20200207T014431.000Z",
+            "last_seen": "20200207T015959.000Z",
             "clan_rank": 24,
             "previous_clan_rank": 24,
-            "donations": 342,
+            "donations": 362,
             "donations_received": 310,
             "clan_chest_points": 0
         },
@@ -557,11 +557,11 @@
                 "name": "Arena 7"
             },
             "role": "member",
-            "last_seen": "20200206T224654.000Z",
+            "last_seen": "20200207T015655.000Z",
             "clan_rank": 32,
             "previous_clan_rank": 31,
-            "donations": 28,
-            "donations_received": 150,
+            "donations": 38,
+            "donations_received": 170,
             "clan_chest_points": 0
         },
         {

@@ -7,10 +7,10 @@
         "name": "Mega PP gang",
         "badge_id": 16000107,
         "clan_score": 169,
-        "participants": 16,
+        "participants": 17,
         "crowns": 0,
         "battles_remaining": null,
-        "battles_played": 35,
+        "battles_played": 37,
         "wins": 23
     },
     "participants": [
@@ -62,9 +62,9 @@
         {
             "tag": "#PYJQG098Q",
             "name": "viper325",
-            "cards_earned": 100,
-            "battles_played": 1,
-            "collection_day_battles_played": 1,
+            "cards_earned": 150,
+            "battles_played": 2,
+            "collection_day_battles_played": 2,
             "wins": 1,
             "number_of_battles": 3
         },
@@ -152,6 +152,15 @@
         {
             "tag": "#PR8LY90G2",
             "name": "RIP Kobe",
+            "cards_earned": 80,
+            "battles_played": 1,
+            "collection_day_battles_played": 1,
+            "wins": 0,
+            "number_of_battles": 3
+        },
+        {
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
             "cards_earned": 80,
             "battles_played": 1,
             "collection_day_battles_played": 1,
