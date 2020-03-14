@@ -3,9 +3,9 @@
     "name": "PP united",
     "badge_id": 16000165,
     "type": "open",
-    "clan_score": 45791,
+    "clan_score": 45794,
     "required_trophies": 3000,
-    "donations_per_week": 7932,
+    "donations_per_week": 7942,
     "clan_war_trophies": 853,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
@@ -115,10 +115,10 @@
                 "name": "Challenger III"
             },
             "role": "member",
-            "last_seen": "20200314T162150.000Z",
+            "last_seen": "20200314T163047.000Z",
             "clan_rank": 6,
             "previous_clan_rank": 6,
-            "donations": 94,
+            "donations": 104,
             "donations_received": 80,
             "clan_chest_points": 0
         },
@@ -602,7 +602,7 @@
             "tag": "#URP8C2L",
             "name": "Nygger",
             "exp_level": 8,
-            "trophies": 3792,
+            "trophies": 3821,
             "arena": {
                 "id": 54000011,
                 "name": "Arena 12"
@@ -612,7 +612,7 @@
             "clan_rank": 35,
             "previous_clan_rank": 36,
             "donations": 47,
-            "donations_received": 200,
+            "donations_received": 210,
             "clan_chest_points": 0
         },
         {

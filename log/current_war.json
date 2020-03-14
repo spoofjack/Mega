@@ -8,10 +8,10 @@
         "badge_id": 16000165,
         "clan_score": 853,
         "participants": 23,
-        "crowns": 4,
+        "crowns": 8,
         "battles_remaining": null,
-        "battles_played": 5,
-        "wins": 2
+        "battles_played": 7,
+        "wins": 4
     },
     "participants": [
         {
@@ -54,15 +54,6 @@
             "tag": "#PYJQG098Q",
             "name": "viper325",
             "cards_earned": 450,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#URP8C2L",
-            "name": "Nygger",
-            "cards_earned": 700,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -123,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#P2980Y0JL",
-            "name": "Pablo",
-            "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 2
-        },
-        {
             "tag": "#PYJL22YYJ",
             "name": "shawnyboi;)",
             "cards_earned": 320,
@@ -186,6 +168,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#URP8C2L",
+            "name": "Nygger",
+            "cards_earned": 700,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "cards_earned": 680,
@@ -220,6 +211,15 @@
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#P2980Y0JL",
+            "name": "Pablo",
+            "cards_earned": 640,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 2
         }
     ],
     "clans": [
@@ -262,10 +262,10 @@
             "badge_id": 16000165,
             "clan_score": 853,
             "participants": 23,
-            "crowns": 4,
-            "battles_remaining": 18,
-            "battles_played": 5,
-            "wins": 2
+            "crowns": 8,
+            "battles_remaining": 16,
+            "battles_played": 7,
+            "wins": 4
         },
         {
             "tag": "#Y9GYY009",
