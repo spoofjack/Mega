@@ -10,7 +10,7 @@
         "participants": 23,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 3,
+        "battles_played": 4,
         "wins": 2
     },
     "participants": [
@@ -36,15 +36,6 @@
             "tag": "#22PJCJR09",
             "name": "landon",
             "cards_earned": 640,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#8G82CVLG",
-            "name": "CamaroBro",
-            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -195,6 +186,15 @@
             "number_of_battles": 1
         },
         {
+            "tag": "#8G82CVLG",
+            "name": "CamaroBro",
+            "cards_earned": 800,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
             "tag": "#UG0UL8GU",
             "name": "MonkeyButt",
             "cards_earned": 680,
@@ -246,14 +246,25 @@
             "wins": 3
         },
         {
+            "tag": "#2RY8LPG0",
+            "name": "787",
+            "badge_id": 16000165,
+            "clan_score": 1420,
+            "participants": 22,
+            "crowns": 7,
+            "battles_remaining": 16,
+            "battles_played": 6,
+            "wins": 2
+        },
+        {
             "tag": "#YYP9CL98",
             "name": "PP united",
             "badge_id": 16000165,
             "clan_score": 853,
             "participants": 23,
             "crowns": 4,
-            "battles_remaining": 20,
-            "battles_played": 3,
+            "battles_remaining": 19,
+            "battles_played": 4,
             "wins": 2
         },
         {
@@ -266,17 +277,6 @@
             "battles_remaining": 19,
             "battles_played": 4,
             "wins": 2
-        },
-        {
-            "tag": "#2RY8LPG0",
-            "name": "787",
-            "badge_id": 16000165,
-            "clan_score": 1420,
-            "participants": 22,
-            "crowns": 5,
-            "battles_remaining": 17,
-            "battles_played": 5,
-            "wins": 1
         }
     ],
     "cards": 15990,
