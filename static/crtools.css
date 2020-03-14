@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  color: #222;
+  color: #0076B6;
 }
 html, body {
     background-color: #000;
@@ -21,7 +21,7 @@ html, body {
 }
 
 main, main > section {
-    background-color: #f2f2f2;
+    background-color: #222;
 }
 
 main > section, header > .inner, footer > .inner {
@@ -104,7 +104,7 @@ small {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
     border: none;
-    border-top: 1px solid #E1E1E1;
+    border-top: 1px solid #000;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
     height: 0;
@@ -126,20 +126,20 @@ a:hover {
 }
 
 .button {
-    text-shadow: -1px -1px 0px #003366,
-                 0px -1px 0px #003366,
-                 1px -1px 0px #003366,
-                 1px 0px 0px #003366,
-                 -1px 0px 0px #003366,
-                 -1px 1px 0px #003366,
-                 1px 1px 0px #003366,
-                 1px 2px 0px #003366,
-                 -1px 2px 0px #003366;
+    text-shadow: -1px -1px 0px #B0B7BC,
+                 0px -1px 0px #B0B7BC,
+                 1px -1px 0px #B0B7BC,
+                 1px 0px 0px #B0B7BC,
+                 -1px 0px 0px #B0B7BC,
+                 -1px 1px 0px #B0B7BC,
+                 1px 1px 0px #B0B7BC,
+                 1px 2px 0px #B0B7BC,
+                 -1px 2px 0px #B0B7BC;
     display: inline-block;
     line-height: 18px;
     text-align: center;
     font-size: 18px;
-    color: #fff;
+    color: #222;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     font-weight: bold;
     text-decoration: none;
@@ -194,7 +194,7 @@ a:hover {
 }
 
 .button:hover {
-    color: #fff;
+    color: #222;
 }
 
 /* Lists
@@ -254,7 +254,7 @@ table {
 th, td {
     padding: 8px 14px;
     text-align: left;
-    border-bottom: 1px solid #E1E1E1;
+    border-bottom: 1px solid #000;
 }
 
 @media (max-width: 700px) {
@@ -319,7 +319,7 @@ select {
     margin: 0;
     text-transform: none;
     height: 34px;
-    border: 1px solid #ccc;
+    border: 1px solid #8d8f95;
 }
 
 /* Grid
@@ -354,7 +354,7 @@ select {
 /* Page Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body > header {
-    background-color: #fff;
+    background-color: #222;
 }
 
 body > header h1 {
@@ -406,10 +406,12 @@ body > header h1 em {
 #current-war dl > * {
     flex: 1;
     min-width: 100px;
-    background-color: #fff;
+    background-color: #222;
     margin: 1px;
     padding: 7px;
-    border-right: 1px solid #E1E1E1;
+    border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-top: 1px solid #000;
 }
 
 #current-war dl > *:last-child {
@@ -463,8 +465,8 @@ body > header h1 em {
     border-bottom: none;
 }
 #war-stats table tr.this-clan {
-    background-color: #F1EAF4;
-    border-color: #BB89CC;
+    background-color: #8d8f95;
+    border-color: #000;
     font-weight: bold;
 }
 
@@ -491,7 +493,8 @@ table td.battles {
     font-weight: bold;
 }
 
-td.last-seen {
+td.last-seen,
+td.time-in-clan {
     font-size: 12px;
     text-align: center;
 }
@@ -516,7 +519,7 @@ table td.rank.rank-1 span {
     background-color: rgb(255, 212, 42);
 }
 table td.rank.rank-2 span {
-    background-color: #ccc;
+    background-color: #8d8f95;
 }
 table td.rank.rank-3 span {
     background-color: rgb(218, 165, 32);
@@ -559,8 +562,8 @@ table td.rank span {
 
 #info article {
     position: relative;
-    background-color: #fff;
-    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    background-color: #222;
+    box-shadow: 0 1px 2px 0 rgb(0, 0, 0);
     padding: 15px;
     margin-top: 44px;
     margin-bottom: 22px;
@@ -600,7 +603,7 @@ table td.rank span {
 }
 
 #member-info .table-scroll, #member-info table, #member-info tr {
-    background-color: #fff;
+    background-color: #222;
 }
 
 #member-table th:first-child, #member-table td:first-child {
@@ -666,6 +669,21 @@ table tr[data-blacklist="true"] td.name:after {
     text-align: center;
 }
 
+#member-table .xp-level strong {
+    display: inline-block;
+    background: url(images/burst.svg) no-repeat center;
+    background-size: contain;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+
+    color: #222;
+    text-shadow: -1px -1px 0px #000000, 0px -1px 0px #000000, 1px -1px 0px #000000, 1px 0px 0px #000000, -1px 0px 0px #000000, -1px 1px 0px #000000, 1px 1px 0px #000000, 1px 2px 0px #000000, -1px 2px 0px #000000, -1px 3px 0px #000000, 0px 3px 0px #000000, 1px 3px 0px #000000;
+}
+
 #member-table td.arena-league:before {
     content: '';
     background-repeat: no-repeat;
@@ -710,59 +728,65 @@ table tr[data-blacklist="true"] td.name:after {
 #info table .good,
 #info table .ok,
 #info table .bad {
-    border-left: 1px solid #f2f2f2;
-    border-bottom: 1px solid #f2f2f2;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td,
 #member-table tr[data-activity=ok] td:not(.bad) {
-    border-left: 1px solid #f2f2f2;
-    border-bottom: 1px solid #f2f2f2;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 
 #member-table tr[data-activity=bad] td,
 table tr[data-blacklist=true] td {
-    background-color: #c13525;
-    color: #fff;
+    background-color: #970000;
+    color: #B0B7BC;
 }
 
 #member-table tr[data-activity=ok] td:not(.bad) {
     background-color: #ffbb43;
-    color: #222;
+    color: #03468d;
 }
 
 #member-table tr[data-new="true"] td.score.ok,
 #member-table tr[data-new="true"] td.donations.ok {
-    background-color: #fff;
+    background-color: #222;
     border-left: none;
-    border-bottom: 1px solid #E1E1E1;
+    border-bottom: 1px solid #000;
 }
 
 #info table#member-table tr td.na {
-    color: #999;
-    font-weight: normal;
+    color: #b5b7bd;
+    font-weight: bold;
 }
 
 #info table .not-in-clan {
-    background-color: #EEE;
-    color: #999;
-    font-weight: normal;
+    background-color: #B0B7BC;
+    color: #0076B6;
+    font-weight: bold;
 }
 
 #info table .war em {
     font-weight: normal;
 }
 
+#info table .war-readiness,
+#info table .war-win-rate,
+#member-table .xp-level {
+    text-align: center;
+}
+
 #member-table td.war.current.normal {
     border: 3px dashed #BB89CC;
     background-color: #F1EAF4;
-    color: #222;
+    color: #03468d;
 }
 #member-table td.war.current.incomplete.ok {
-    border: 3px dashed #ffbb43;
-    background-color: #FFF6E6;
-    color: #222;
+    border: 3px dashed #8d8f95;
+    background-color: #970000;
+    color: #c0c3cc;
 }
 
 
@@ -800,8 +824,8 @@ table tr[data-blacklist=true] td {
 #info table tr[data-vacation="True"] td:not(.bad) {
     background-color: #ddd;
     color: #999;
-    border-left: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+    border-left: 1px solid #222;
+    border-bottom: 1px solid #222;
 }
 #info table tr[data-vacation="True"] td:first-child {
     border-left: none;
@@ -856,8 +880,8 @@ article.member-info > p {
 /* Score colors
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bad {
-    background-color: #c13525;
-    color: #fff;
+    background-color: #970000;
+    color: #222;
 }
 .ok,
 .inactivity.normal {
@@ -873,7 +897,7 @@ article.member-info > p {
 
 #info table .inactivity.na {
     background-color: transparent;
-    color: #222;
+    color: #03468d;
 }
 
 
@@ -902,7 +926,7 @@ strong.na {
 #suggestions .info {
     flex: 0;
     padding-top: 15px;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #8d8f95;
 }
 .rules {
     width: 100%;
@@ -917,7 +941,7 @@ strong.na {
 /* Page footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 footer {
-    color: #fff;
+    color: #222;
     background-color: #000;
 }
 
@@ -930,7 +954,7 @@ footer ul li {
 }
 
 footer a {
-    color: #fff;
+    color: #222;
     text-decoration: none;
     font-weight: bold;
 }
@@ -951,7 +975,7 @@ footer ul li:last-child::after {
 }
 footer .version {
     float: right;
-    color: #ccc;
+    color: #8d8f95;
     font-weight: normal;
 }
 
@@ -965,7 +989,7 @@ footer .disclaimer, footer .disclaimer a {
     max-width: 800px;
     margin: 44px 0 22px 0;
     line-height: 1.3em;
-    color: #ccc;
+    color: #8d8f95;
 }
 
 /* Tooltips
@@ -987,8 +1011,8 @@ footer .disclaimer, footer .disclaimer a {
     min-width: 90px;
 
     background: #ddd;
-    color: #222;
-    border: 1px solid #222;
+    color: #03468d;
+    border: 1px solid #03468d;
     border-radius: 3px;
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }
@@ -1002,8 +1026,8 @@ footer .disclaimer, footer .disclaimer a {
     bottom: -4px;
     right: 50%;
     margin-right: -3px;
-    border-bottom: 1px solid #222;
-    border-right: 1px solid #222;
+    border-bottom: 1px solid #03468d;
+    border-right: 1px solid #03468d;
     transform: rotate(45deg);
 }
 .b-tooltip dl {
@@ -1069,7 +1093,7 @@ footer .disclaimer, footer .disclaimer a {
     content: "Fork me on GitHub";
 
     line-height: 21px;
-    color: #fff;
+    color: #222;
     text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
     text-align: center;
     text-indent: 0;

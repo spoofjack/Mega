@@ -1,25 +1,25 @@
 {
-    "tag": "#YQQUGLU8",
-    "name": "Mega PP gang",
-    "badge_id": 16000107,
+    "tag": "#YYP9CL98",
+    "name": "PP united",
+    "badge_id": 16000165,
     "type": "open",
-    "clan_score": 41209,
-    "required_trophies": 2600,
-    "donations_per_week": 5156,
-    "clan_war_trophies": 169,
+    "clan_score": 45783,
+    "required_trophies": 3000,
+    "donations_per_week": 7932,
+    "clan_war_trophies": 853,
     "clan_chest_level": 1,
     "clan_chest_max_level": 0,
-    "members": 45,
+    "members": 46,
     "location": {
-        "id": 57000249,
-        "name": "United States",
-        "is_country": true,
-        "country_code": "US"
+        "id": 57000006,
+        "name": "International",
+        "is_country": false,
+        "country_code": null
     },
-    "description": "",
+    "description": "all big pps are welcome",
     "clan_chest_status": "inactive",
     "clan_chest_points": null,
-    "war_league": "bronze",
-    "war_league_name": "Bronze League",
-    "current_war_state": "collectionDay"
+    "war_league": "silver",
+    "war_league_name": "Silver League",
+    "current_war_state": "warDay"
 }

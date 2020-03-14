@@ -1,11 +1,11 @@
 /* Hero element
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #hero {
-    color: #fff;
+    color: #888686;
     padding: 44px 80px;
     margin: 0 -60px;
-    background: #03468d url(images/diamond-tile.svg) center center;
-    background-size: 64px;
+    background: url(images/diamond-tile.jpg) center center;
+    background-size: auto;
     box-shadow: inset 0px 6px 70px 10px rgba(0,0,0,0.8);
 }
 

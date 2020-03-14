@@ -1,41 +1,132 @@
 [
     {
         "clan": {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 169,
-            "participants": 20,
-            "battles_played": 18,
-            "wins": 8,
-            "crowns": 14
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 853,
+            "participants": 22,
+            "battles_played": 21,
+            "wins": 14,
+            "crowns": 30
         },
-        "trophy_change": 108
+        "trophy_change": 64
     },
     {
         "clan": {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 61,
-            "participants": 12,
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 789,
+            "participants": 21,
+            "battles_played": 17,
+            "wins": 9,
+            "crowns": 16
+        },
+        "trophy_change": 59
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 730,
+            "participants": 19,
+            "battles_played": 17,
+            "wins": 13,
+            "crowns": 28
+        },
+        "trophy_change": 113
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 617,
+            "participants": 19,
+            "battles_played": 17,
+            "wins": 12,
+            "crowns": 18
+        },
+        "trophy_change": 112
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 505,
+            "participants": 16,
+            "battles_played": 16,
+            "wins": 7,
+            "crowns": 19
+        },
+        "trophy_change": 57
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 448,
+            "participants": 16,
+            "battles_played": 14,
+            "wins": 7,
+            "crowns": 17
+        },
+        "trophy_change": 107
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 341,
+            "participants": 18,
+            "battles_played": 17,
+            "wins": 12,
+            "crowns": 26
+        },
+        "trophy_change": 112
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 229,
+            "participants": 20,
+            "battles_played": 20,
+            "wins": 14,
+            "crowns": 29
+        },
+        "trophy_change": 114
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 115,
+            "participants": 14,
             "battles_played": 13,
+            "wins": 9,
+            "crowns": 17
+        },
+        "trophy_change": 109
+    },
+    {
+        "clan": {
+            "tag": "#YYP9CL98",
+            "name": "PP united",
+            "badge_id": 16000165,
+            "clan_score": 6,
+            "participants": 11,
+            "battles_played": 9,
             "wins": 6,
-            "crowns": 13
+            "crowns": 11
         },
         "trophy_change": 6
-    },
-    {
-        "clan": {
-            "tag": "#YQQUGLU8",
-            "name": "Mega PP gang",
-            "badge_id": 16000107,
-            "clan_score": 55,
-            "participants": 10,
-            "battles_played": 8,
-            "wins": 5,
-            "crowns": 12
-        },
-        "trophy_change": 55
     }
 ]
