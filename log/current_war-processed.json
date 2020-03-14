@@ -10,7 +10,7 @@
         "participants": 23,
         "crowns": 4,
         "battles_remaining": null,
-        "battles_played": 4,
+        "battles_played": 5,
         "wins": 2
     },
     "participants": [
@@ -114,15 +114,6 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#2999VUUU0",
-            "name": "FoYk Ghostly",
-            "cards_earned": 960,
-            "battles_played": 0,
-            "collection_day_battles_played": 3,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
             "tag": "#Y9UJLCVUP",
             "name": "v\u00e3lk ex",
             "cards_earned": 640,
@@ -220,9 +211,29 @@
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
+        },
+        {
+            "tag": "#2999VUUU0",
+            "name": "FoYk Ghostly",
+            "cards_earned": 960,
+            "battles_played": 1,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
         }
     ],
     "clans": [
+        {
+            "tag": "#2RY8LPG0",
+            "name": "787",
+            "badge_id": 16000165,
+            "clan_score": 1420,
+            "participants": 22,
+            "crowns": 9,
+            "battles_remaining": 15,
+            "battles_played": 7,
+            "wins": 3
+        },
         {
             "tag": "#Y9GYY009",
             "name": "Fusion eSport 2",
@@ -246,25 +257,14 @@
             "wins": 3
         },
         {
-            "tag": "#2RY8LPG0",
-            "name": "787",
-            "badge_id": 16000165,
-            "clan_score": 1420,
-            "participants": 22,
-            "crowns": 7,
-            "battles_remaining": 16,
-            "battles_played": 6,
-            "wins": 2
-        },
-        {
             "tag": "#YYP9CL98",
             "name": "PP united",
             "badge_id": 16000165,
             "clan_score": 853,
             "participants": 23,
             "crowns": 4,
-            "battles_remaining": 19,
-            "battles_played": 4,
+            "battles_remaining": 18,
+            "battles_played": 5,
             "wins": 2
         },
         {
@@ -274,8 +274,8 @@
             "clan_score": 1067,
             "participants": 23,
             "crowns": 3,
-            "battles_remaining": 19,
-            "battles_played": 4,
+            "battles_remaining": 18,
+            "battles_played": 5,
             "wins": 2
         }
     ],
