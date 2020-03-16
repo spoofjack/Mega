@@ -1,16 +1,16 @@
 {
     "history_start": 1584217824.792383,
-    "last_update": 1584218137.42896,
+    "last_update": 1584393019.428514,
     "members": {
         "#UG0UL8GU": {
             "name": "MonkeyButt",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 528,
-            "donations_last_week": 0,
+            "donations": 96,
+            "donations_last_week": 528,
             "events": [
                 {
                     "event": "join",
@@ -23,12 +23,12 @@
         "#9CYC8228P": {
             "name": "Ram Rider",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "leader",
             "status": "present",
-            "donations": 592,
-            "donations_last_week": 0,
+            "donations": 54,
+            "donations_last_week": 592,
             "events": [
                 {
                     "event": "join",
@@ -41,12 +41,12 @@
         "#PYQC9QRV": {
             "name": "default DAN",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "elder",
             "status": "present",
-            "donations": 784,
-            "donations_last_week": 0,
+            "donations": 92,
+            "donations_last_week": 784,
             "events": [
                 {
                     "event": "join",
@@ -59,12 +59,12 @@
         "#2VYL2GP9R": {
             "name": "Squirrel",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 134,
-            "donations_last_week": 0,
+            "donations": 36,
+            "donations_last_week": 134,
             "events": [
                 {
                     "event": "join",
@@ -81,8 +81,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 581,
-            "donations_last_week": 0,
+            "donations": 36,
+            "donations_last_week": 581,
             "events": [
                 {
                     "event": "join",
@@ -95,12 +95,12 @@
         "#88PJC2Y0R": {
             "name": "MoneyMann",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584218137.42896,
             "role": "member",
             "status": "present",
-            "donations": 104,
-            "donations_last_week": 0,
+            "donations": 57,
+            "donations_last_week": 104,
             "events": [
                 {
                     "event": "join",
@@ -113,12 +113,12 @@
         "#9QRL2LPQ": {
             "name": "BALLER",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 446,
-            "donations_last_week": 0,
+            "donations": 64,
+            "donations_last_week": 446,
             "events": [
                 {
                     "event": "join",
@@ -135,8 +135,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 164,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 164,
             "events": [
                 {
                     "event": "join",
@@ -171,8 +171,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "coLeader",
             "status": "present",
-            "donations": 244,
-            "donations_last_week": 0,
+            "donations": 54,
+            "donations_last_week": 244,
             "events": [
                 {
                     "event": "join",
@@ -185,12 +185,12 @@
         "#8YR8PPUP0": {
             "name": "colombo",
             "join_date": 0,
-            "last_activity_date": 1584217824.792383,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 90,
-            "donations_last_week": 0,
+            "donations": 46,
+            "donations_last_week": 90,
             "events": [
                 {
                     "event": "join",
@@ -203,12 +203,12 @@
         "#Y8VQ22Y0G": {
             "name": "bass",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 139,
-            "donations_last_week": 0,
+            "donations": 8,
+            "donations_last_week": 139,
             "events": [
                 {
                     "event": "join",
@@ -221,12 +221,12 @@
         "#LQR9CURCP": {
             "name": "BigDaddy",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "coLeader",
             "status": "present",
-            "donations": 176,
-            "donations_last_week": 0,
+            "donations": 8,
+            "donations_last_week": 176,
             "events": [
                 {
                     "event": "join",
@@ -239,12 +239,12 @@
         "#P2LYQ2JG": {
             "name": "Moto Moto",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "coLeader",
             "status": "present",
-            "donations": 481,
-            "donations_last_week": 0,
+            "donations": 64,
+            "donations_last_week": 481,
             "events": [
                 {
                     "event": "join",
@@ -257,12 +257,12 @@
         "#9YP8Y9U9V": {
             "name": "bugs33",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "elder",
             "status": "present",
-            "donations": 42,
-            "donations_last_week": 0,
+            "donations": 8,
+            "donations_last_week": 42,
             "events": [
                 {
                     "event": "join",
@@ -279,8 +279,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "elder",
             "status": "present",
-            "donations": 152,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 152,
             "events": [
                 {
                     "event": "join",
@@ -293,12 +293,12 @@
         "#PQRPRYQLP": {
             "name": "Gobysmasher",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 2,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 2,
             "events": [
                 {
                     "event": "join",
@@ -311,12 +311,12 @@
         "#LRVU0P2PQ": {
             "name": "migetdwarf",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "elder",
             "status": "present",
-            "donations": 853,
-            "donations_last_week": 0,
+            "donations": 77,
+            "donations_last_week": 853,
             "events": [
                 {
                     "event": "join",
@@ -329,12 +329,12 @@
         "#2999VUUU0": {
             "name": "FoYk Ghostly",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 141,
-            "donations_last_week": 0,
+            "donations": 4,
+            "donations_last_week": 141,
             "events": [
                 {
                     "event": "join",
@@ -351,8 +351,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 179,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 179,
             "events": [
                 {
                     "event": "join",
@@ -383,12 +383,12 @@
         "#9JVPPVLPU": {
             "name": "ggfy",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 84,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 84,
             "events": [
                 {
                     "event": "join",
@@ -401,12 +401,12 @@
         "#220GU9L0L": {
             "name": "Baroon",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 56,
-            "donations_last_week": 0,
+            "donations": 8,
+            "donations_last_week": 56,
             "events": [
                 {
                     "event": "join",
@@ -419,12 +419,12 @@
         "#22PJCJR09": {
             "name": "landon",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 140,
-            "donations_last_week": 0,
+            "donations": 8,
+            "donations_last_week": 140,
             "events": [
                 {
                     "event": "join",
@@ -437,12 +437,12 @@
         "#98L88RRGJ": {
             "name": "baller118107",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 8,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 8,
             "events": [
                 {
                     "event": "join",
@@ -455,12 +455,12 @@
         "#P2980Y0JL": {
             "name": "Pablo",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 142,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 142,
             "events": [
                 {
                     "event": "join",
@@ -477,8 +477,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 8,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 8,
             "events": [
                 {
                     "event": "join",
@@ -509,7 +509,7 @@
         "#Y9UJLCVUP": {
             "name": "v\u00e3lk ex",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
@@ -531,8 +531,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 104,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 104,
             "events": [
                 {
                     "event": "join",
@@ -567,8 +567,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 10,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 10,
             "events": [
                 {
                     "event": "join",
@@ -599,12 +599,12 @@
         "#2GPPJ9QR8": {
             "name": "Couch_assassin7",
             "join_date": 0,
-            "last_activity_date": 1584217824.792383,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 70,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 70,
             "events": [
                 {
                     "event": "join",
@@ -617,12 +617,12 @@
         "#URP8C2L": {
             "name": "Nygger",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 47,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 47,
             "events": [
                 {
                     "event": "join",
@@ -639,8 +639,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 328,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 328,
             "events": [
                 {
                     "event": "join",
@@ -657,8 +657,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 162,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 162,
             "events": [
                 {
                     "event": "join",
@@ -689,12 +689,12 @@
         "#L2L98J8CJ": {
             "name": "BrandoComando",
             "join_date": 0,
-            "last_activity_date": 1584218137.42896,
+            "last_activity_date": 1584393019.428514,
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 67,
-            "donations_last_week": 0,
+            "donations": 35,
+            "donations_last_week": 67,
             "events": [
                 {
                     "event": "join",
@@ -710,7 +710,7 @@
             "last_activity_date": 1584217824.792383,
             "last_donation_date": 1584217824.792383,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 10,
             "donations_last_week": 0,
             "events": [
@@ -719,6 +719,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 0
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1584393019.428514
                 }
             ]
         },
@@ -747,8 +753,8 @@
             "last_donation_date": 1584217824.792383,
             "role": "member",
             "status": "present",
-            "donations": 41,
-            "donations_last_week": 0,
+            "donations": 0,
+            "donations_last_week": 41,
             "events": [
                 {
                     "event": "join",
@@ -782,7 +788,7 @@
             "last_activity_date": 1584217824.792383,
             "last_donation_date": 1584217824.792383,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -791,6 +797,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 0
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1584393019.428514
                 }
             ]
         },
@@ -800,7 +812,7 @@
             "last_activity_date": 1584217824.792383,
             "last_donation_date": 1584217824.792383,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -809,6 +821,12 @@
                     "type": "new",
                     "role": "member",
                     "date": 0
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1584393019.428514
                 }
             ]
         },
@@ -818,7 +836,7 @@
             "last_activity_date": 1584217824.792383,
             "last_donation_date": 1584217824.792383,
             "role": "member",
-            "status": "present",
+            "status": "absent",
             "donations": 0,
             "donations_last_week": 0,
             "events": [
@@ -827,6 +845,30 @@
                     "type": "new",
                     "role": "member",
                     "date": 0
+                },
+                {
+                    "event": "quit",
+                    "type": "left",
+                    "role": "member",
+                    "date": 1584393019.428514
+                }
+            ]
+        },
+        "#PQ88GYG2R": {
+            "name": "Coolbeans",
+            "join_date": 1584393019.428514,
+            "last_activity_date": 1584393019.428514,
+            "last_donation_date": 1584393019.428514,
+            "role": "member",
+            "status": "present",
+            "donations": 0,
+            "donations_last_week": 0,
+            "events": [
+                {
+                    "event": "join",
+                    "type": "new",
+                    "role": "member",
+                    "date": 1584393019.428514
                 }
             ]
         }

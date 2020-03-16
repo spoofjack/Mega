@@ -1,17 +1,17 @@
 {
     "state": "warDay",
-    "war_end_time": "20200315T153440.913Z",
+    "war_end_time": "20200317T154925.045Z",
     "collection_end_time": null,
     "clan": {
         "tag": "#YYP9CL98",
         "name": "PP united",
         "badge_id": 16000165,
-        "clan_score": 853,
+        "clan_score": 964,
         "participants": 23,
-        "crowns": 8,
+        "crowns": 3,
         "battles_remaining": null,
         "battles_played": 7,
-        "wins": 4
+        "wins": 3
     },
     "participants": [
         {
@@ -26,16 +26,16 @@
         {
             "tag": "#220GU9L0L",
             "name": "Baroon",
-            "cards_earned": 640,
+            "cards_earned": 480,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
-            "number_of_battles": 1
+            "number_of_battles": 2
         },
         {
-            "tag": "#22PJCJR09",
-            "name": "landon",
-            "cards_earned": 640,
+            "tag": "#8YR8PPUP0",
+            "name": "colombo",
+            "cards_earned": 850,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -44,16 +44,16 @@
         {
             "tag": "#9QRL2LPQ",
             "name": "BALLER",
-            "cards_earned": 960,
+            "cards_earned": 160,
             "battles_played": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 1,
             "wins": 0,
-            "number_of_battles": 1
+            "number_of_battles": 2
         },
         {
-            "tag": "#PYJQG098Q",
-            "name": "viper325",
-            "cards_earned": 450,
+            "tag": "#URP8C2L",
+            "name": "Nygger",
+            "cards_earned": 750,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -62,7 +62,16 @@
         {
             "tag": "#2VYL2GP9R",
             "name": "Squirrel",
-            "cards_earned": 1020,
+            "cards_earned": 680,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#UG0UL8GU",
+            "name": "MonkeyButt",
+            "cards_earned": 680,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -71,7 +80,7 @@
         {
             "tag": "#PQRPRYQLP",
             "name": "Gobysmasher",
-            "cards_earned": 800,
+            "cards_earned": 640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -80,7 +89,7 @@
         {
             "tag": "#L2L98J8CJ",
             "name": "BrandoComando",
-            "cards_earned": 700,
+            "cards_earned": 560,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -89,16 +98,25 @@
         {
             "tag": "#9YP8Y9U9V",
             "name": "bugs33",
-            "cards_earned": 640,
+            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#LRVU0P2PQ",
-            "name": "migetdwarf",
-            "cards_earned": 640,
+            "tag": "#2GPPJ9QR8",
+            "name": "Couch_assassin7",
+            "cards_earned": 900,
+            "battles_played": 0,
+            "collection_day_battles_played": 3,
+            "wins": 0,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#2999VUUU0",
+            "name": "FoYk Ghostly",
+            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -114,27 +132,18 @@
             "number_of_battles": 1
         },
         {
-            "tag": "#PYJL22YYJ",
-            "name": "shawnyboi;)",
-            "cards_earned": 320,
-            "battles_played": 0,
-            "collection_day_battles_played": 2,
-            "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#P2LYQ2JG",
-            "name": "Moto Moto",
-            "cards_earned": 480,
+            "tag": "#P2980Y0JL",
+            "name": "Pablo",
+            "cards_earned": 800,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#LQR9CURCP",
-            "name": "BigDaddy",
-            "cards_earned": 480,
+            "tag": "#P2LYQ2JG",
+            "name": "Moto Moto",
+            "cards_earned": 640,
             "battles_played": 0,
             "collection_day_battles_played": 3,
             "wins": 0,
@@ -143,46 +152,37 @@
         {
             "tag": "#9JVPPVLPU",
             "name": "ggfy",
-            "cards_earned": 800,
+            "cards_earned": 480,
             "battles_played": 0,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
         {
             "tag": "#98L88RRGJ",
             "name": "baller118107",
-            "cards_earned": 160,
+            "cards_earned": 800,
             "battles_played": 0,
-            "collection_day_battles_played": 1,
+            "collection_day_battles_played": 3,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#8G82CVLG",
-            "name": "CamaroBro",
+            "tag": "#88PJC2Y0R",
+            "name": "MoneyMann",
             "cards_earned": 800,
             "battles_played": 1,
             "collection_day_battles_played": 3,
+            "wins": 1,
+            "number_of_battles": 1
+        },
+        {
+            "tag": "#22PJCJR09",
+            "name": "landon",
+            "cards_earned": 320,
+            "battles_played": 1,
+            "collection_day_battles_played": 2,
             "wins": 0,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#URP8C2L",
-            "name": "Nygger",
-            "cards_earned": 700,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
-            "number_of_battles": 1
-        },
-        {
-            "tag": "#UG0UL8GU",
-            "name": "MonkeyButt",
-            "cards_earned": 680,
-            "battles_played": 1,
-            "collection_day_battles_played": 3,
-            "wins": 1,
             "number_of_battles": 1
         },
         {
@@ -191,92 +191,92 @@
             "cards_earned": 1020,
             "battles_played": 1,
             "collection_day_battles_played": 3,
-            "wins": 0,
+            "wins": 1,
             "number_of_battles": 1
         },
         {
             "tag": "#PYQC9QRV",
             "name": "default DAN",
-            "cards_earned": 1020,
+            "cards_earned": 850,
             "battles_played": 1,
             "collection_day_battles_played": 3,
             "wins": 1,
             "number_of_battles": 1
         },
         {
-            "tag": "#2999VUUU0",
-            "name": "FoYk Ghostly",
-            "cards_earned": 960,
+            "tag": "#LQR9CURCP",
+            "name": "BigDaddy",
+            "cards_earned": 640,
             "battles_played": 1,
-            "collection_day_battles_played": 3,
+            "collection_day_battles_played": 2,
             "wins": 0,
             "number_of_battles": 1
         },
         {
-            "tag": "#P2980Y0JL",
-            "name": "Pablo",
+            "tag": "#LRVU0P2PQ",
+            "name": "migetdwarf",
             "cards_earned": 640,
-            "battles_played": 1,
+            "battles_played": 2,
             "collection_day_battles_played": 3,
-            "wins": 1,
+            "wins": 0,
             "number_of_battles": 2
         }
     ],
     "clans": [
         {
-            "tag": "#QUVVC9C",
-            "name": "GEDEON",
-            "badge_id": 16000044,
-            "clan_score": 1067,
-            "participants": 23,
-            "crowns": 3,
-            "battles_remaining": 18,
-            "battles_played": 5,
+            "tag": "#9YG82RJY",
+            "name": "MEGA PLAYS",
+            "badge_id": 16000158,
+            "clan_score": 1474,
+            "participants": 26,
+            "crowns": 7,
+            "battles_remaining": 23,
+            "battles_played": 3,
             "wins": 2
         },
         {
-            "tag": "#2RY8LPG0",
-            "name": "787",
-            "badge_id": 16000165,
-            "clan_score": 1420,
+            "tag": "#VUQJPU",
+            "name": "LOS MARTINITA",
+            "badge_id": 16000143,
+            "clan_score": 1379,
             "participants": 22,
-            "crowns": 9,
-            "battles_remaining": 15,
-            "battles_played": 7,
-            "wins": 3
-        },
-        {
-            "tag": "#YP90LUGR",
-            "name": "123 ZAUBEREI",
-            "badge_id": 16000080,
-            "clan_score": 1368,
-            "participants": 24,
-            "crowns": 6,
+            "crowns": 1,
             "battles_remaining": 18,
-            "battles_played": 6,
-            "wins": 3
+            "battles_played": 4,
+            "wins": 1
         },
         {
             "tag": "#YYP9CL98",
             "name": "PP united",
             "badge_id": 16000165,
-            "clan_score": 853,
+            "clan_score": 964,
             "participants": 23,
-            "crowns": 8,
+            "crowns": 3,
+            "battles_remaining": 16,
+            "battles_played": 7,
+            "wins": 3
+        },
+        {
+            "tag": "#QLPGP0V",
+            "name": "Qc \u00c9lite Squad",
+            "badge_id": 16000004,
+            "clan_score": 964,
+            "participants": 24,
+            "crowns": 0,
+            "battles_remaining": 22,
+            "battles_played": 2,
+            "wins": 0
+        },
+        {
+            "tag": "#LG88YPCV",
+            "name": "yall__cheeks",
+            "badge_id": 16000108,
+            "clan_score": 1257,
+            "participants": 23,
+            "crowns": 5,
             "battles_remaining": 16,
             "battles_played": 7,
             "wins": 4
-        },
-        {
-            "tag": "#Y9GYY009",
-            "name": "Fusion eSport 2",
-            "badge_id": 16000010,
-            "clan_score": 1481,
-            "participants": 23,
-            "crowns": 7,
-            "battles_remaining": 19,
-            "battles_played": 4,
-            "wins": 3
         }
     ]
 }
